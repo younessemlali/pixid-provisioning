@@ -1,0 +1,7278 @@
+[
+  {
+    "code_unite": "RIR",
+    "libelle_agence": "AGM Branche --RisInRI--"
+  },
+  {
+    "code_unite": "SC4",
+    "libelle_agence": "AGM Branche --RisInRI--"
+  },
+  {
+    "code_unite": "1GI",
+    "libelle_agence": "CGC ROISSY"
+  },
+  {
+    "code_unite": "CCI",
+    "libelle_agence": "CGC ROISSY"
+  },
+  {
+    "code_unite": "1GA",
+    "libelle_agence": "CGC EVRY COURCOURONNES"
+  },
+  {
+    "code_unite": "CGA",
+    "libelle_agence": "CGC EVRY COURCOURONNES"
+  },
+  {
+    "code_unite": "1GB",
+    "libelle_agence": "CGC BUSSY ST GEORGES"
+  },
+  {
+    "code_unite": "CGB",
+    "libelle_agence": "CGC BUSSY ST GEORGES"
+  },
+  {
+    "code_unite": "1GD",
+    "libelle_agence": "CGC BUCHELAY"
+  },
+  {
+    "code_unite": "CGD",
+    "libelle_agence": "CGC BUCHELAY"
+  },
+  {
+    "code_unite": "CMC",
+    "libelle_agence": "RANDSTAD INHOUSE CMC"
+  },
+  {
+    "code_unite": "CMN",
+    "libelle_agence": "RANDSTAD INHOUSE CMN"
+  },
+  {
+    "code_unite": "CVI",
+    "libelle_agence": "RANDSTAD INHOUSE CVI"
+  },
+  {
+    "code_unite": "ICH",
+    "libelle_agence": "RANDSTAD INHOUSE ICH"
+  },
+  {
+    "code_unite": "ILI",
+    "libelle_agence": "RANDSTAD INHOUSE ILI"
+  },
+  {
+    "code_unite": "KNC",
+    "libelle_agence": "RANDSTAD INHOUSE KNC"
+  },
+  {
+    "code_unite": "LAU",
+    "libelle_agence": "RANDSTAD INHOUSE LAU"
+  },
+  {
+    "code_unite": "NEM",
+    "libelle_agence": "RANDSTAD INHOUSE NEM"
+  },
+  {
+    "code_unite": "SCH",
+    "libelle_agence": "RANDSTAD INHOUSE SCH"
+  },
+  {
+    "code_unite": "SLI",
+    "libelle_agence": "RANDSTAD INHOUSE SLI"
+  },
+  {
+    "code_unite": "SMF",
+    "libelle_agence": "RANDSTAD INHOUSE SMF"
+  },
+  {
+    "code_unite": "539",
+    "libelle_agence": "RANDSTAD INHOUSE 539"
+  },
+  {
+    "code_unite": "AGL",
+    "libelle_agence": "RANDSTAD INHOUSE AGL"
+  },
+  {
+    "code_unite": "ATR",
+    "libelle_agence": "RANDSTAD INHOUSE ATR"
+  },
+  {
+    "code_unite": "BOL",
+    "libelle_agence": "RANDSTAD INHOUSE BOL"
+  },
+  {
+    "code_unite": "CIP",
+    "libelle_agence": "RANDSTAD INHOUSE CIP"
+  },
+  {
+    "code_unite": "DCL",
+    "libelle_agence": "RANDSTAD INHOUSE DCL"
+  },
+  {
+    "code_unite": "DCY",
+    "libelle_agence": "RANDSTAD INHOUSE DCY"
+  },
+  {
+    "code_unite": "GPA",
+    "libelle_agence": "RANDSTAD INHOUSE GPA"
+  },
+  {
+    "code_unite": "IAS",
+    "libelle_agence": "RANDSTAD INHOUSE IAS"
+  },
+  {
+    "code_unite": "NEA",
+    "libelle_agence": "RANDSTAD INHOUSE NEA"
+  },
+  {
+    "code_unite": "NEL",
+    "libelle_agence": "RANDSTAD INHOUSE NEL"
+  },
+  {
+    "code_unite": "VB6",
+    "libelle_agence": "RANDSTAD INHOUSE VB6"
+  },
+  {
+    "code_unite": "AMH",
+    "libelle_agence": "RANDSTAD INHOUSE AMH"
+  },
+  {
+    "code_unite": "EUL",
+    "libelle_agence": "RANDSTAD INHOUSE EUL"
+  },
+  {
+    "code_unite": "GLI",
+    "libelle_agence": "RANDSTAD INHOUSE GLI"
+  },
+  {
+    "code_unite": "HAM",
+    "libelle_agence": "RANDSTAD INHOUSE HAM"
+  },
+  {
+    "code_unite": "HBA",
+    "libelle_agence": "RANDSTAD INHOUSE HBA"
+  },
+  {
+    "code_unite": "LCT",
+    "libelle_agence": "RANDSTAD INHOUSE LCT"
+  },
+  {
+    "code_unite": "LMC",
+    "libelle_agence": "RANDSTAD INHOUSE LMC"
+  },
+  {
+    "code_unite": "MGL",
+    "libelle_agence": "RANDSTAD INHOUSE MGL"
+  },
+  {
+    "code_unite": "PBC",
+    "libelle_agence": "RANDSTAD INHOUSE PBC"
+  },
+  {
+    "code_unite": "SMU",
+    "libelle_agence": "RANDSTAD INHOUSE SMU"
+  },
+  {
+    "code_unite": "UCM",
+    "libelle_agence": "RANDSTAD INHOUSE UCM"
+  },
+  {
+    "code_unite": "SAM",
+    "libelle_agence": "RANDSTAD INHOUSE SAM"
+  },
+  {
+    "code_unite": "ZAM",
+    "libelle_agence": "RANDSTAD INHOUSE ZAM"
+  },
+  {
+    "code_unite": "P24",
+    "libelle_agence": "PARIS 2024"
+  },
+  {
+    "code_unite": "GMR",
+    "libelle_agence": "PARIS 2024 Clients"
+  },
+  {
+    "code_unite": "106",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "PFM",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "PMI",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "223",
+    "libelle_agence": "Randstad Gennevilliers"
+  },
+  {
+    "code_unite": "296",
+    "libelle_agence": "Randstad Gennevilliers"
+  },
+  {
+    "code_unite": "CPC",
+    "libelle_agence": "Randstad Gennevilliers"
+  },
+  {
+    "code_unite": "CHR",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "VQT",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "294",
+    "libelle_agence": "Randstad Boulogne Tertiaire"
+  },
+  {
+    "code_unite": "BRN",
+    "libelle_agence": "Randstad Boulogne Tertiaire"
+  },
+  {
+    "code_unite": "BTS",
+    "libelle_agence": "Randstad Boulogne Tertiaire"
+  },
+  {
+    "code_unite": "SGL",
+    "libelle_agence": "Randstad Boulogne Tertiaire"
+  },
+  {
+    "code_unite": "T03",
+    "libelle_agence": "Randstad Boulogne Tertiaire"
+  },
+  {
+    "code_unite": "DAN",
+    "libelle_agence": "Randstad Boulogne"
+  },
+  {
+    "code_unite": "IEG",
+    "libelle_agence": "Randstad Boulogne Billancourt"
+  },
+  {
+    "code_unite": "CC",
+    "libelle_agence": "Randstad Rungis"
+  },
+  {
+    "code_unite": "CR5",
+    "libelle_agence": "Randstad Rungis"
+  },
+  {
+    "code_unite": "KD",
+    "libelle_agence": "Randstad Rungis"
+  },
+  {
+    "code_unite": "RCR",
+    "libelle_agence": "Randstad Rungis"
+  },
+  {
+    "code_unite": "ONE",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "PO",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "PO2",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "PO4",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "PZ",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "TWO",
+    "libelle_agence": "Randstad Boulogne Billancourt"
+  },
+  {
+    "code_unite": "EXR",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "FRM",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "T04",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "TMK",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "TNE",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "VDK",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "CRT",
+    "libelle_agence": "Randstad Rungis"
+  },
+  {
+    "code_unite": "WW",
+    "libelle_agence": "Randstad Rungis"
+  },
+  {
+    "code_unite": "BCR",
+    "libelle_agence": "Randstad Lieusaint"
+  },
+  {
+    "code_unite": "275",
+    "libelle_agence": "Randstad Bussy st Georges"
+  },
+  {
+    "code_unite": "BUS",
+    "libelle_agence": "Randstad Bussy st Georges"
+  },
+  {
+    "code_unite": "EMM",
+    "libelle_agence": "Randstad Bussy st Georges"
+  },
+  {
+    "code_unite": "CSR",
+    "libelle_agence": "Randstad Gretz Armainvilliers"
+  },
+  {
+    "code_unite": "FTY",
+    "libelle_agence": "Randstad Gretz Armainvilliers"
+  },
+  {
+    "code_unite": "KP",
+    "libelle_agence": "Randstad Gretz Armainvilliers"
+  },
+  {
+    "code_unite": "MA",
+    "libelle_agence": "Randstad Montereau Fault Yonne"
+  },
+  {
+    "code_unite": "MA3",
+    "libelle_agence": "Randstad Montereau Fault Yonne"
+  },
+  {
+    "code_unite": "CL",
+    "libelle_agence": "Randstad Mitry Mory"
+  },
+  {
+    "code_unite": "MIT",
+    "libelle_agence": "Randstad Mitry Mory"
+  },
+  {
+    "code_unite": "169",
+    "libelle_agence": "Randstad Melun"
+  },
+  {
+    "code_unite": "MN",
+    "libelle_agence": "Randstad Melun"
+  },
+  {
+    "code_unite": "TE2",
+    "libelle_agence": "Randstad Melun"
+  },
+  {
+    "code_unite": "MX",
+    "libelle_agence": "Randstad Meaux"
+  },
+  {
+    "code_unite": "278",
+    "libelle_agence": "Randstad Mitry Mory Teriaire"
+  },
+  {
+    "code_unite": "ODT",
+    "libelle_agence": "Randstad Mitry Mory Teriaire"
+  },
+  {
+    "code_unite": "OGR",
+    "libelle_agence": "Randstad Onsite Gretz Armainvillie"
+  },
+  {
+    "code_unite": "OLI",
+    "libelle_agence": "Randstad Onsite Gretz Armainvillie"
+  },
+  {
+    "code_unite": "138",
+    "libelle_agence": "Randstad Roissy"
+  },
+  {
+    "code_unite": "349",
+    "libelle_agence": "Randstad Roissy"
+  },
+  {
+    "code_unite": "350",
+    "libelle_agence": "Randstad Roissy"
+  },
+  {
+    "code_unite": "AIL",
+    "libelle_agence": "Randstad Roissy"
+  },
+  {
+    "code_unite": "297",
+    "libelle_agence": "Randstad Saint Denis"
+  },
+  {
+    "code_unite": "EVI",
+    "libelle_agence": "Randstad Saint Denis"
+  },
+  {
+    "code_unite": "IPT",
+    "libelle_agence": "Randstad Saint Denis"
+  },
+  {
+    "code_unite": "PT",
+    "libelle_agence": "Randstad Saint Denis"
+  },
+  {
+    "code_unite": "SGF",
+    "libelle_agence": "Randstad Saint Denis"
+  },
+  {
+    "code_unite": "202",
+    "libelle_agence": "Randstad Evry Courcouronnes"
+  },
+  {
+    "code_unite": "CBX",
+    "libelle_agence": "Randstad Evry Courcouronnes"
+  },
+  {
+    "code_unite": "COO",
+    "libelle_agence": "Randstad Evry Courcouronnes"
+  },
+  {
+    "code_unite": "CEP",
+    "libelle_agence": "Randstad Cergy"
+  },
+  {
+    "code_unite": "CEY",
+    "libelle_agence": "Randstad Cergy"
+  },
+  {
+    "code_unite": "208",
+    "libelle_agence": "Randstad Evry Courcouronnes LVU"
+  },
+  {
+    "code_unite": "212",
+    "libelle_agence": "Randstad Evry Courcouronnes LVU"
+  },
+  {
+    "code_unite": "COT",
+    "libelle_agence": "Randstad Evry Courcouronnes LVU"
+  },
+  {
+    "code_unite": "ECD",
+    "libelle_agence": "Randstad Evry Courcouronnes LVU"
+  },
+  {
+    "code_unite": "234",
+    "libelle_agence": "Randstad Roissy En France"
+  },
+  {
+    "code_unite": "FOS",
+    "libelle_agence": "Randstad Roissy En France"
+  },
+  {
+    "code_unite": "GTL",
+    "libelle_agence": "Randstad Roissy En France"
+  },
+  {
+    "code_unite": "JE",
+    "libelle_agence": "Randstad Etampes"
+  },
+  {
+    "code_unite": "MSY",
+    "libelle_agence": "Randstad Palaiseau"
+  },
+  {
+    "code_unite": "MPI",
+    "libelle_agence": "Randstad Buchelay"
+  },
+  {
+    "code_unite": "MT",
+    "libelle_agence": "Randstad Buchelay"
+  },
+  {
+    "code_unite": "MVU",
+    "libelle_agence": "Randstad Buchelay"
+  },
+  {
+    "code_unite": "N1R",
+    "libelle_agence": "Randstad Rambouillet"
+  },
+  {
+    "code_unite": "OR4",
+    "libelle_agence": "Randstad Onsite Roissy En France"
+  },
+  {
+    "code_unite": "OR5",
+    "libelle_agence": "Randstad Onsite Roissy En France"
+  },
+  {
+    "code_unite": "OS8",
+    "libelle_agence": "Randstad Onsite Roissy En France"
+  },
+  {
+    "code_unite": "OSD",
+    "libelle_agence": "Randstad Onsite Roissy En France"
+  },
+  {
+    "code_unite": "OLE",
+    "libelle_agence": "Randstad Onsite Evry Courcouronnes"
+  },
+  {
+    "code_unite": "OSX",
+    "libelle_agence": "Randstad Onsite Evry Courcouronnes"
+  },
+  {
+    "code_unite": "OSY",
+    "libelle_agence": "Randstad Onsite Evry Courcouronnes"
+  },
+  {
+    "code_unite": "OSZ",
+    "libelle_agence": "Randstad Onsite Evry Courcouronnes"
+  },
+  {
+    "code_unite": "PAL",
+    "libelle_agence": "Randstad Palaiseau Tertiaire"
+  },
+  {
+    "code_unite": "ESO",
+    "libelle_agence": "Randstad Saint Ouen l'Aumône"
+  },
+  {
+    "code_unite": "PIE",
+    "libelle_agence": "Randstad Saint Ouen l'Aumône"
+  },
+  {
+    "code_unite": "V22",
+    "libelle_agence": "Randstad Saint Ouen l'Aumône"
+  },
+  {
+    "code_unite": "284",
+    "libelle_agence": "Randstad Montigny le Bretonneux"
+  },
+  {
+    "code_unite": "QUE",
+    "libelle_agence": "Randstad Montigny le Bretonneux"
+  },
+  {
+    "code_unite": "SY",
+    "libelle_agence": "Randstad Montigny le Bretonneux"
+  },
+  {
+    "code_unite": "AER",
+    "libelle_agence": "Randstad Roissy En France"
+  },
+  {
+    "code_unite": "DDE",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "NET",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "PEC",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "PEL",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "PFI",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "PSO",
+    "libelle_agence": "Randstad Paris"
+  },
+  {
+    "code_unite": "B7N",
+    "libelle_agence": "Randstad Bussy st Georges"
+  },
+  {
+    "code_unite": "GOS",
+    "libelle_agence": "Randstad Bussy st Georges"
+  },
+  {
+    "code_unite": "B95",
+    "libelle_agence": "Randstad Saint Ouen l'Aumône"
+  },
+  {
+    "code_unite": "PSG",
+    "libelle_agence": "Randstad Saint Ouen l'Aumône"
+  },
+  {
+    "code_unite": "BOR",
+    "libelle_agence": "Randstad Versailles"
+  },
+  {
+    "code_unite": "BTM",
+    "libelle_agence": "Randstad Viry Châtillon"
+  },
+  {
+    "code_unite": "JUV",
+    "libelle_agence": "Randstad Viry Châtillon"
+  },
+  {
+    "code_unite": "BTE",
+    "libelle_agence": "Randstad Montereau BTP"
+  },
+  {
+    "code_unite": "RDW",
+    "libelle_agence": "BU indus log & large volume"
+  },
+  {
+    "code_unite": "RD1",
+    "libelle_agence": "BU on demand"
+  },
+  {
+    "code_unite": "RD2",
+    "libelle_agence": "BU on demand"
+  },
+  {
+    "code_unite": "RD3",
+    "libelle_agence": "BU on demand"
+  },
+  {
+    "code_unite": "RD4",
+    "libelle_agence": "BU on demand"
+  },
+  {
+    "code_unite": "RD5",
+    "libelle_agence": "BU on demand"
+  },
+  {
+    "code_unite": "RDO",
+    "libelle_agence": "BU on demand"
+  },
+  {
+    "code_unite": "RT1",
+    "libelle_agence": "BU on demand"
+  },
+  {
+    "code_unite": "RT2",
+    "libelle_agence": "BU on demand"
+  },
+  {
+    "code_unite": "RT3",
+    "libelle_agence": "BU on demand"
+  },
+  {
+    "code_unite": "RT4",
+    "libelle_agence": "BU on demand"
+  },
+  {
+    "code_unite": "RT5",
+    "libelle_agence": "BU on demand"
+  },
+  {
+    "code_unite": "1RE",
+    "libelle_agence": "Talent Center"
+  },
+  {
+    "code_unite": "AU2",
+    "libelle_agence": "Talent Center"
+  },
+  {
+    "code_unite": "AU4",
+    "libelle_agence": "Talent Center"
+  },
+  {
+    "code_unite": "FO2",
+    "libelle_agence": "Talent Center"
+  },
+  {
+    "code_unite": "FO3",
+    "libelle_agence": "Talent Center"
+  },
+  {
+    "code_unite": "FO5",
+    "libelle_agence": "Talent Center"
+  },
+  {
+    "code_unite": "PR1",
+    "libelle_agence": "Talent Center"
+  },
+  {
+    "code_unite": "PR3",
+    "libelle_agence": "Talent Center"
+  },
+  {
+    "code_unite": "PR4",
+    "libelle_agence": "Talent Center"
+  },
+  {
+    "code_unite": "NEO",
+    "libelle_agence": "BU agence NEO"
+  },
+  {
+    "code_unite": "GR1",
+    "libelle_agence": "BU retail & tertiaire"
+  },
+  {
+    "code_unite": "GU1",
+    "libelle_agence": "BU retail & tertiaire"
+  },
+  {
+    "code_unite": "SID",
+    "libelle_agence": "Randstad Retail"
+  },
+  {
+    "code_unite": "SBE",
+    "libelle_agence": "Pôle BTP Environnement et Energie"
+  },
+  {
+    "code_unite": "SHR",
+    "libelle_agence": "Pôle Hôtellerie Restauration"
+  },
+  {
+    "code_unite": "SIP",
+    "libelle_agence": "Pôle Ingénierie Industries"
+  },
+  {
+    "code_unite": "SPC",
+    "libelle_agence": "Pôle Commercial Retail Marketing"
+  },
+  {
+    "code_unite": "SPF",
+    "libelle_agence": "Pôle Finance RH Juridique"
+  },
+  {
+    "code_unite": "RSB",
+    "libelle_agence": "Randstad Search Lorraine"
+  },
+  {
+    "code_unite": "RSZ",
+    "libelle_agence": "Randstad Search Lorraine"
+  },
+  {
+    "code_unite": "RSM",
+    "libelle_agence": "Randstad Search Rivery"
+  },
+  {
+    "code_unite": "RSJ",
+    "libelle_agence": "Randstad Search Dijon"
+  },
+  {
+    "code_unite": "RSN",
+    "libelle_agence": "Randstad Search Dijon"
+  },
+  {
+    "code_unite": "RSK",
+    "libelle_agence": "Randstad Search Reims"
+  },
+  {
+    "code_unite": "RSR",
+    "libelle_agence": "Randstad Search Reims"
+  },
+  {
+    "code_unite": "RSW",
+    "libelle_agence": "Randstad Search Reims"
+  },
+  {
+    "code_unite": "RSF",
+    "libelle_agence": "Randstad Search Besançon"
+  },
+  {
+    "code_unite": "RST",
+    "libelle_agence": "Randstad Search Besançon"
+  },
+  {
+    "code_unite": "SLE",
+    "libelle_agence": "Randstad Search Lille"
+  },
+  {
+    "code_unite": "SLK",
+    "libelle_agence": "Randstad Search Lille"
+  },
+  {
+    "code_unite": "SSB",
+    "libelle_agence": "Randstad Search Strasbourg"
+  },
+  {
+    "code_unite": "SSG",
+    "libelle_agence": "Randstad Search Strasbourg"
+  },
+  {
+    "code_unite": "SBX",
+    "libelle_agence": "Randstad Search Bordeaux"
+  },
+  {
+    "code_unite": "SPL",
+    "libelle_agence": "Randstad Search Bordeaux"
+  },
+  {
+    "code_unite": "SCF",
+    "libelle_agence": "Randstad Search Clermont-Ferrand"
+  },
+  {
+    "code_unite": "SCN",
+    "libelle_agence": "Bureau Randstad Search Rouen Caen"
+  },
+  {
+    "code_unite": "SIC",
+    "libelle_agence": "Bureau Randstad Search Rouen Caen"
+  },
+  {
+    "code_unite": "RYS",
+    "libelle_agence": "Bureau Randstad Search Nantes"
+  },
+  {
+    "code_unite": "SNI",
+    "libelle_agence": "Bureau Randstad Search Nantes"
+  },
+  {
+    "code_unite": "SNS",
+    "libelle_agence": "Bureau Randstad Search Nantes"
+  },
+  {
+    "code_unite": "SPP",
+    "libelle_agence": "Randstad Search Biarritz"
+  },
+  {
+    "code_unite": "SRS",
+    "libelle_agence": "Bureau Randstad Search Rennes"
+  },
+  {
+    "code_unite": "STL",
+    "libelle_agence": "Randstad Search Toulouse"
+  },
+  {
+    "code_unite": "SOR",
+    "libelle_agence": "Bureau Randstad Search Tours"
+  },
+  {
+    "code_unite": "STO",
+    "libelle_agence": "Bureau Randstad Search Tours"
+  },
+  {
+    "code_unite": "SAY",
+    "libelle_agence": "Randstad Search Chavanod"
+  },
+  {
+    "code_unite": "SGR",
+    "libelle_agence": "Randstad Search Grenoble"
+  },
+  {
+    "code_unite": "SMV",
+    "libelle_agence": "Randstad Search Grenoble"
+  },
+  {
+    "code_unite": "SLS",
+    "libelle_agence": "Randstad Search Lyon Technique"
+  },
+  {
+    "code_unite": "SLT",
+    "libelle_agence": "Randstad Search Lyon Technique"
+  },
+  {
+    "code_unite": "SLU",
+    "libelle_agence": "Randstad Search Lyon Technique"
+  },
+  {
+    "code_unite": "SMN",
+    "libelle_agence": "Randstad Search Nice St Laurent"
+  },
+  {
+    "code_unite": "SMP",
+    "libelle_agence": "Randstad Search Montpellier"
+  },
+  {
+    "code_unite": "SMS",
+    "libelle_agence": "Randstad Search Aix"
+  },
+  {
+    "code_unite": "DAT",
+    "libelle_agence": "Randstad Search Antilles"
+  },
+  {
+    "code_unite": "2GJ",
+    "libelle_agence": "CGC STRASBOURG"
+  },
+  {
+    "code_unite": "CCD",
+    "libelle_agence": "CGC STRASBOURG"
+  },
+  {
+    "code_unite": "2GL",
+    "libelle_agence": "CGC MONTBELIARD"
+  },
+  {
+    "code_unite": "CCE",
+    "libelle_agence": "CGC MONTBELIARD"
+  },
+  {
+    "code_unite": "2GM",
+    "libelle_agence": "CGC DIJON"
+  },
+  {
+    "code_unite": "CCK",
+    "libelle_agence": "CGC DIJON"
+  },
+  {
+    "code_unite": "2GO",
+    "libelle_agence": "CGC METZ"
+  },
+  {
+    "code_unite": "CGO",
+    "libelle_agence": "CGC METZ"
+  },
+  {
+    "code_unite": "823",
+    "libelle_agence": "RANDSTAD INHOUSE 823"
+  },
+  {
+    "code_unite": "HAL",
+    "libelle_agence": "RANDSTAD INHOUSE HAL"
+  },
+  {
+    "code_unite": "HIG",
+    "libelle_agence": "RANDSTAD INHOUSE HIG"
+  },
+  {
+    "code_unite": "HSC",
+    "libelle_agence": "RANDSTAD INHOUSE HSC"
+  },
+  {
+    "code_unite": "IME",
+    "libelle_agence": "RANDSTAD INHOUSE IME"
+  },
+  {
+    "code_unite": "MCS",
+    "libelle_agence": "RANDSTAD INHOUSE MCS"
+  },
+  {
+    "code_unite": "MES",
+    "libelle_agence": "RANDSTAD INHOUSE MES"
+  },
+  {
+    "code_unite": "MMS",
+    "libelle_agence": "RANDSTAD INHOUSE MMS"
+  },
+  {
+    "code_unite": "TST",
+    "libelle_agence": "RANDSTAD INHOUSE TST"
+  },
+  {
+    "code_unite": "508",
+    "libelle_agence": "RANDSTAD INHOUSE 508"
+  },
+  {
+    "code_unite": "CLA",
+    "libelle_agence": "RANDSTAD INHOUSE CLA"
+  },
+  {
+    "code_unite": "ECN",
+    "libelle_agence": "RANDSTAD INHOUSE ECN"
+  },
+  {
+    "code_unite": "JCY",
+    "libelle_agence": "RANDSTAD INHOUSE JCY"
+  },
+  {
+    "code_unite": "JJO",
+    "libelle_agence": "RANDSTAD INHOUSE JJO"
+  },
+  {
+    "code_unite": "VSC",
+    "libelle_agence": "RANDSTAD INHOUSE VSC"
+  },
+  {
+    "code_unite": "884",
+    "libelle_agence": "RANDSTAD INHOUSE 884"
+  },
+  {
+    "code_unite": "AFO",
+    "libelle_agence": "RANDSTAD INHOUSE AFO"
+  },
+  {
+    "code_unite": "CSL",
+    "libelle_agence": "RANDSTAD INHOUSE CSL"
+  },
+  {
+    "code_unite": "EHC",
+    "libelle_agence": "RANDSTAD INHOUSE EHC"
+  },
+  {
+    "code_unite": "FBA",
+    "libelle_agence": "RANDSTAD INHOUSE FBA"
+  },
+  {
+    "code_unite": "FMD",
+    "libelle_agence": "RANDSTAD INHOUSE FMD"
+  },
+  {
+    "code_unite": "GEY",
+    "libelle_agence": "RANDSTAD INHOUSE GEY"
+  },
+  {
+    "code_unite": "JDA",
+    "libelle_agence": "RANDSTAD INHOUSE JDA"
+  },
+  {
+    "code_unite": "KOB",
+    "libelle_agence": "RANDSTAD INHOUSE KOB"
+  },
+  {
+    "code_unite": "MMO",
+    "libelle_agence": "RANDSTAD INHOUSE MMO"
+  },
+  {
+    "code_unite": "NPO",
+    "libelle_agence": "RANDSTAD INHOUSE NPO"
+  },
+  {
+    "code_unite": "SPN",
+    "libelle_agence": "RANDSTAD INHOUSE SPN"
+  },
+  {
+    "code_unite": "VM7",
+    "libelle_agence": "RANDSTAD INHOUSE VM7"
+  },
+  {
+    "code_unite": "AML",
+    "libelle_agence": "RANDSTAD INHOUSE AML"
+  },
+  {
+    "code_unite": "BIL",
+    "libelle_agence": "RANDSTAD INHOUSE BIL"
+  },
+  {
+    "code_unite": "BLT",
+    "libelle_agence": "RANDSTAD INHOUSE BLT"
+  },
+  {
+    "code_unite": "DCW",
+    "libelle_agence": "RANDSTAD INHOUSE DCW"
+  },
+  {
+    "code_unite": "HCR",
+    "libelle_agence": "RANDSTAD INHOUSE HCR"
+  },
+  {
+    "code_unite": "IHA",
+    "libelle_agence": "RANDSTAD INHOUSE IHA"
+  },
+  {
+    "code_unite": "IMX",
+    "libelle_agence": "RANDSTAD INHOUSE IMX"
+  },
+  {
+    "code_unite": "NAR",
+    "libelle_agence": "RANDSTAD INHOUSE NAR"
+  },
+  {
+    "code_unite": "SGP",
+    "libelle_agence": "RANDSTAD INHOUSE SGP"
+  },
+  {
+    "code_unite": "TCH",
+    "libelle_agence": "RANDSTAD INHOUSE TCH"
+  },
+  {
+    "code_unite": "TGO",
+    "libelle_agence": "RANDSTAD INHOUSE TGO"
+  },
+  {
+    "code_unite": "TRW",
+    "libelle_agence": "RANDSTAD INHOUSE TRW"
+  },
+  {
+    "code_unite": "PS3",
+    "libelle_agence": "RANDSTAD INHOUSE PS3"
+  },
+  {
+    "code_unite": "PS6",
+    "libelle_agence": "RANDSTAD INHOUSE PS6"
+  },
+  {
+    "code_unite": "PS7",
+    "libelle_agence": "RANDSTAD INHOUSE PS7"
+  },
+  {
+    "code_unite": "VMB",
+    "libelle_agence": "RANDSTAD INHOUSE VMB"
+  },
+  {
+    "code_unite": "CCJ",
+    "libelle_agence": "Randstad Onsite Illzach"
+  },
+  {
+    "code_unite": "OST",
+    "libelle_agence": "Randstad Onsite Illzach"
+  },
+  {
+    "code_unite": "CR",
+    "libelle_agence": "Randstad Colmar"
+  },
+  {
+    "code_unite": "EAL",
+    "libelle_agence": "Randstad Altkirch"
+  },
+  {
+    "code_unite": "HU",
+    "libelle_agence": "Randstad Schweighouse sur Moder"
+  },
+  {
+    "code_unite": "HUE",
+    "libelle_agence": "Randstad Schweighouse sur Moder"
+  },
+  {
+    "code_unite": "JZ",
+    "libelle_agence": "Randstad Cernay"
+  },
+  {
+    "code_unite": "ML",
+    "libelle_agence": "Randstad Illzach"
+  },
+  {
+    "code_unite": "OG2",
+    "libelle_agence": "Randstad Onsite Strasbourg"
+  },
+  {
+    "code_unite": "OS5",
+    "libelle_agence": "Randstad Onsite Strasbourg"
+  },
+  {
+    "code_unite": "SEL",
+    "libelle_agence": "Randstad Sélestat"
+  },
+  {
+    "code_unite": "840",
+    "libelle_agence": "Randstad Strasbourg"
+  },
+  {
+    "code_unite": "SG1",
+    "libelle_agence": "Randstad Strasbourg"
+  },
+  {
+    "code_unite": "V69",
+    "libelle_agence": "Randstad Strasbourg"
+  },
+  {
+    "code_unite": "VSG",
+    "libelle_agence": "Randstad Strasbourg"
+  },
+  {
+    "code_unite": "YL",
+    "libelle_agence": "Randstad Molsheim"
+  },
+  {
+    "code_unite": "YM",
+    "libelle_agence": "Randstad Saint Louis"
+  },
+  {
+    "code_unite": "AX",
+    "libelle_agence": "Randstad Auxerre"
+  },
+  {
+    "code_unite": "680",
+    "libelle_agence": "Randstad Chalon sur Saône"
+  },
+  {
+    "code_unite": "CA",
+    "libelle_agence": "Randstad Chalon sur Saône"
+  },
+  {
+    "code_unite": "CHS",
+    "libelle_agence": "Randstad Chalon sur Saône"
+  },
+  {
+    "code_unite": "CHA",
+    "libelle_agence": "Randstad La Clayette"
+  },
+  {
+    "code_unite": "CHC",
+    "libelle_agence": "Randstad La Clayette"
+  },
+  {
+    "code_unite": "DH",
+    "libelle_agence": "Randstad Dijon"
+  },
+  {
+    "code_unite": "EDI",
+    "libelle_agence": "Randstad Dijon"
+  },
+  {
+    "code_unite": "RH",
+    "libelle_agence": "Randstad Dijon"
+  },
+  {
+    "code_unite": "VDJ",
+    "libelle_agence": "Randstad Dijon"
+  },
+  {
+    "code_unite": "679",
+    "libelle_agence": "Randstad Dijon"
+  },
+  {
+    "code_unite": "GA",
+    "libelle_agence": "Randstad Chatillon sur Seine"
+  },
+  {
+    "code_unite": "KR",
+    "libelle_agence": "Randstad Le Creusot"
+  },
+  {
+    "code_unite": "NV",
+    "libelle_agence": "Randstad Nevers"
+  },
+  {
+    "code_unite": "QM",
+    "libelle_agence": "Randstad Mâcon"
+  },
+  {
+    "code_unite": "SFD",
+    "libelle_agence": "Randstad Sens"
+  },
+  {
+    "code_unite": "TOU",
+    "libelle_agence": "Randstad Tournus"
+  },
+  {
+    "code_unite": "WX",
+    "libelle_agence": "Randstad Beaune"
+  },
+  {
+    "code_unite": "AXP",
+    "libelle_agence": "Randstad Morteau"
+  },
+  {
+    "code_unite": "MAC",
+    "libelle_agence": "Randstad Morteau"
+  },
+  {
+    "code_unite": "551",
+    "libelle_agence": "Randstad Besançon"
+  },
+  {
+    "code_unite": "BU",
+    "libelle_agence": "Randstad Besançon"
+  },
+  {
+    "code_unite": "BUL",
+    "libelle_agence": "Randstad Besançon"
+  },
+  {
+    "code_unite": "BUT",
+    "libelle_agence": "Randstad Besançon"
+  },
+  {
+    "code_unite": "ID",
+    "libelle_agence": "Randstad Gray"
+  },
+  {
+    "code_unite": "LUR",
+    "libelle_agence": "Randstad Lure"
+  },
+  {
+    "code_unite": "LW",
+    "libelle_agence": "Randstad Lons le Saunier"
+  },
+  {
+    "code_unite": "OBE",
+    "libelle_agence": "Randstad Onsite Besancon"
+  },
+  {
+    "code_unite": "ORN",
+    "libelle_agence": "Randstad Ornans"
+  },
+  {
+    "code_unite": "MBE",
+    "libelle_agence": "Randstad Onsite Montbeliard"
+  },
+  {
+    "code_unite": "OSI",
+    "libelle_agence": "Randstad Onsite Montbeliard"
+  },
+  {
+    "code_unite": "AMM",
+    "libelle_agence": "Randstad Saint Claude"
+  },
+  {
+    "code_unite": "SM",
+    "libelle_agence": "Randstad Saint Claude"
+  },
+  {
+    "code_unite": "BLF",
+    "libelle_agence": "Randstad Belfort"
+  },
+  {
+    "code_unite": "V43",
+    "libelle_agence": "Randstad Belfort"
+  },
+  {
+    "code_unite": "VDO",
+    "libelle_agence": "Randstad Dole"
+  },
+  {
+    "code_unite": "VM6",
+    "libelle_agence": "Randstad Onsite Montbeliard"
+  },
+  {
+    "code_unite": "WY",
+    "libelle_agence": "Randstad Vesoul"
+  },
+  {
+    "code_unite": "WZ",
+    "libelle_agence": "Randstad Pontarlier"
+  },
+  {
+    "code_unite": "EL",
+    "libelle_agence": "Randstad Epinal"
+  },
+  {
+    "code_unite": "KH",
+    "libelle_agence": "Randstad Saint Dié des Vosges"
+  },
+  {
+    "code_unite": "KU",
+    "libelle_agence": "Randstad Verdun"
+  },
+  {
+    "code_unite": "MTZ",
+    "libelle_agence": "Randstad Metz Nancy BTP Log"
+  },
+  {
+    "code_unite": "MZ4",
+    "libelle_agence": "Randstad Metz Nancy BTP Log"
+  },
+  {
+    "code_unite": "NY",
+    "libelle_agence": "Randstad Metz Nancy BTP Log"
+  },
+  {
+    "code_unite": "NYB",
+    "libelle_agence": "Randstad Metz Nancy BTP Log"
+  },
+  {
+    "code_unite": "GL",
+    "libelle_agence": "Randstad Metz Nancy EMM T&S"
+  },
+  {
+    "code_unite": "MZ1",
+    "libelle_agence": "Randstad Metz Nancy EMM T&S"
+  },
+  {
+    "code_unite": "NM",
+    "libelle_agence": "Randstad Metz Nancy EMM T&S"
+  },
+  {
+    "code_unite": "NYF",
+    "libelle_agence": "Randstad Metz Nancy EMM T&S"
+  },
+  {
+    "code_unite": "SGO",
+    "libelle_agence": "Randstad Metz Nancy Généraliste"
+  },
+  {
+    "code_unite": "MNM",
+    "libelle_agence": "Randstad Thionville Manom"
+  },
+  {
+    "code_unite": "MNO",
+    "libelle_agence": "Randstad Thionville Manom"
+  },
+  {
+    "code_unite": "MZ",
+    "libelle_agence": "Randstad Onsite Metz"
+  },
+  {
+    "code_unite": "RQ",
+    "libelle_agence": "Randstad Remiremont"
+  },
+  {
+    "code_unite": "SRG",
+    "libelle_agence": "Randstad Sarreguemines"
+  },
+  {
+    "code_unite": "TX",
+    "libelle_agence": "Randstad Sarreguemines"
+  },
+  {
+    "code_unite": "VB",
+    "libelle_agence": "Randstad Vittel"
+  },
+  {
+    "code_unite": "YB",
+    "libelle_agence": "Randstad Bar le Duc"
+  },
+  {
+    "code_unite": "YN",
+    "libelle_agence": "Randstad Saint Avold"
+  },
+  {
+    "code_unite": "3GS",
+    "libelle_agence": "CGC ANGERS"
+  },
+  {
+    "code_unite": "CCA",
+    "libelle_agence": "CGC ANGERS"
+  },
+  {
+    "code_unite": "3GT",
+    "libelle_agence": "CGC NANTES"
+  },
+  {
+    "code_unite": "CCN",
+    "libelle_agence": "CGC NANTES"
+  },
+  {
+    "code_unite": "3GF",
+    "libelle_agence": "CGC CHANTEPIE"
+  },
+  {
+    "code_unite": "CGR",
+    "libelle_agence": "CGC CHANTEPIE"
+  },
+  {
+    "code_unite": "3GL",
+    "libelle_agence": "CGC LOUDEAC"
+  },
+  {
+    "code_unite": "CLO",
+    "libelle_agence": "CGC LOUDEAC"
+  },
+  {
+    "code_unite": "3GR",
+    "libelle_agence": "CGC LA ROCHE SUR YON"
+  },
+  {
+    "code_unite": "CLR",
+    "libelle_agence": "CGC LA ROCHE SUR YON"
+  },
+  {
+    "code_unite": "ANP",
+    "libelle_agence": "RANDSTAD INHOUSE ANP"
+  },
+  {
+    "code_unite": "BOT",
+    "libelle_agence": "RANDSTAD INHOUSE BOT"
+  },
+  {
+    "code_unite": "BRO",
+    "libelle_agence": "RANDSTAD INHOUSE BRO"
+  },
+  {
+    "code_unite": "CAP",
+    "libelle_agence": "RANDSTAD INHOUSE CAP"
+  },
+  {
+    "code_unite": "DBR",
+    "libelle_agence": "RANDSTAD INHOUSE DBR"
+  },
+  {
+    "code_unite": "DPL",
+    "libelle_agence": "RANDSTAD INHOUSE DPL"
+  },
+  {
+    "code_unite": "FBO",
+    "libelle_agence": "RANDSTAD INHOUSE FBO"
+  },
+  {
+    "code_unite": "FCH",
+    "libelle_agence": "RANDSTAD INHOUSE FCH"
+  },
+  {
+    "code_unite": "FMO",
+    "libelle_agence": "RANDSTAD INHOUSE FMO"
+  },
+  {
+    "code_unite": "FPL",
+    "libelle_agence": "RANDSTAD INHOUSE FPL"
+  },
+  {
+    "code_unite": "GLO",
+    "libelle_agence": "RANDSTAD INHOUSE GLO"
+  },
+  {
+    "code_unite": "HLO",
+    "libelle_agence": "RANDSTAD INHOUSE HLO"
+  },
+  {
+    "code_unite": "KLO",
+    "libelle_agence": "RANDSTAD INHOUSE KLO"
+  },
+  {
+    "code_unite": "LNO",
+    "libelle_agence": "RANDSTAD INHOUSE LNO"
+  },
+  {
+    "code_unite": "MBG",
+    "libelle_agence": "RANDSTAD INHOUSE MBG"
+  },
+  {
+    "code_unite": "PDO",
+    "libelle_agence": "RANDSTAD INHOUSE PDO"
+  },
+  {
+    "code_unite": "PLO",
+    "libelle_agence": "RANDSTAD INHOUSE PLO"
+  },
+  {
+    "code_unite": "PST",
+    "libelle_agence": "RANDSTAD INHOUSE PST"
+  },
+  {
+    "code_unite": "STI",
+    "libelle_agence": "RANDSTAD INHOUSE STI"
+  },
+  {
+    "code_unite": "TIL",
+    "libelle_agence": "RANDSTAD INHOUSE TIL"
+  },
+  {
+    "code_unite": "TIS",
+    "libelle_agence": "RANDSTAD INHOUSE TIS"
+  },
+  {
+    "code_unite": "BBA",
+    "libelle_agence": "RANDSTAD INHOUSE BBA"
+  },
+  {
+    "code_unite": "BLA",
+    "libelle_agence": "RANDSTAD INHOUSE BLA"
+  },
+  {
+    "code_unite": "BLV",
+    "libelle_agence": "RANDSTAD INHOUSE BLV"
+  },
+  {
+    "code_unite": "CSY",
+    "libelle_agence": "RANDSTAD INHOUSE CSY"
+  },
+  {
+    "code_unite": "ESY",
+    "libelle_agence": "RANDSTAD INHOUSE ESY"
+  },
+  {
+    "code_unite": "FCG",
+    "libelle_agence": "RANDSTAD INHOUSE FCG"
+  },
+  {
+    "code_unite": "GSL",
+    "libelle_agence": "RANDSTAD INHOUSE GSL"
+  },
+  {
+    "code_unite": "GSN",
+    "libelle_agence": "RANDSTAD INHOUSE GSN"
+  },
+  {
+    "code_unite": "IBE",
+    "libelle_agence": "RANDSTAD INHOUSE IBE"
+  },
+  {
+    "code_unite": "LEA",
+    "libelle_agence": "RANDSTAD INHOUSE LEA"
+  },
+  {
+    "code_unite": "LVJ",
+    "libelle_agence": "RANDSTAD INHOUSE LVJ"
+  },
+  {
+    "code_unite": "MAV",
+    "libelle_agence": "RANDSTAD INHOUSE MAV"
+  },
+  {
+    "code_unite": "MFC",
+    "libelle_agence": "RANDSTAD INHOUSE MFC"
+  },
+  {
+    "code_unite": "PIL",
+    "libelle_agence": "RANDSTAD INHOUSE PIL"
+  },
+  {
+    "code_unite": "RCC",
+    "libelle_agence": "RANDSTAD INHOUSE RCC"
+  },
+  {
+    "code_unite": "RMA",
+    "libelle_agence": "RANDSTAD INHOUSE RMA"
+  },
+  {
+    "code_unite": "SAN",
+    "libelle_agence": "RANDSTAD INHOUSE SAN"
+  },
+  {
+    "code_unite": "SMY",
+    "libelle_agence": "RANDSTAD INHOUSE SMY"
+  },
+  {
+    "code_unite": "SNV",
+    "libelle_agence": "RANDSTAD INHOUSE SNV"
+  },
+  {
+    "code_unite": "TSA",
+    "libelle_agence": "RANDSTAD INHOUSE TSA"
+  },
+  {
+    "code_unite": "VEC",
+    "libelle_agence": "RANDSTAD INHOUSE VEC"
+  },
+  {
+    "code_unite": "VL6",
+    "libelle_agence": "RANDSTAD INHOUSE VLA"
+  },
+  {
+    "code_unite": "ANC",
+    "libelle_agence": "RANDSTAD INHOUSE ANC"
+  },
+  {
+    "code_unite": "ARY",
+    "libelle_agence": "RANDSTAD INHOUSE ARY"
+  },
+  {
+    "code_unite": "BAN",
+    "libelle_agence": "RANDSTAD INHOUSE BAN"
+  },
+  {
+    "code_unite": "DAG",
+    "libelle_agence": "RANDSTAD INHOUSE DAG"
+  },
+  {
+    "code_unite": "CNC",
+    "libelle_agence": "RANDSTAD INHOUSE DLR"
+  },
+  {
+    "code_unite": "DLR",
+    "libelle_agence": "RANDSTAD INHOUSE DLR"
+  },
+  {
+    "code_unite": "FDO",
+    "libelle_agence": "RANDSTAD INHOUSE FDO"
+  },
+  {
+    "code_unite": "LIG",
+    "libelle_agence": "RANDSTAD INHOUSE LIG"
+  },
+  {
+    "code_unite": "MA6",
+    "libelle_agence": "RANDSTAD INHOUSE MA6"
+  },
+  {
+    "code_unite": "MA7",
+    "libelle_agence": "RANDSTAD INHOUSE MA6"
+  },
+  {
+    "code_unite": "MA8",
+    "libelle_agence": "RANDSTAD INHOUSE MA6"
+  },
+  {
+    "code_unite": "MHF",
+    "libelle_agence": "RANDSTAD INHOUSE MHF"
+  },
+  {
+    "code_unite": "SDN",
+    "libelle_agence": "RANDSTAD INHOUSE SDN"
+  },
+  {
+    "code_unite": "SKC",
+    "libelle_agence": "RANDSTAD INHOUSE SKC"
+  },
+  {
+    "code_unite": "SLR",
+    "libelle_agence": "RANDSTAD INHOUSE SLR"
+  },
+  {
+    "code_unite": "SPG",
+    "libelle_agence": "RANDSTAD INHOUSE SPG"
+  },
+  {
+    "code_unite": "BDB",
+    "libelle_agence": "Randstad Bain de Bretagne"
+  },
+  {
+    "code_unite": "DA",
+    "libelle_agence": "Randstad Dinan"
+  },
+  {
+    "code_unite": "MDB",
+    "libelle_agence": "Randstad Montauban de Bretagne"
+  },
+  {
+    "code_unite": "386",
+    "libelle_agence": "Randstad Rennes St Jacques"
+  },
+  {
+    "code_unite": "TRS",
+    "libelle_agence": "Randstad Rennes St Jacques"
+  },
+  {
+    "code_unite": "BRE",
+    "libelle_agence": "Randstad Rennes"
+  },
+  {
+    "code_unite": "RS",
+    "libelle_agence": "Randstad Rennes"
+  },
+  {
+    "code_unite": "385",
+    "libelle_agence": "Randstad Rennes"
+  },
+  {
+    "code_unite": "RSX",
+    "libelle_agence": "Randstad Rennes"
+  },
+  {
+    "code_unite": "V59",
+    "libelle_agence": "Randstad Rennes"
+  },
+  {
+    "code_unite": "VAD",
+    "libelle_agence": "Randstad Vitré"
+  },
+  {
+    "code_unite": "IZL",
+    "libelle_agence": "Randstad Saint Malo"
+  },
+  {
+    "code_unite": "ZL",
+    "libelle_agence": "Randstad Saint Malo"
+  },
+  {
+    "code_unite": "ZU",
+    "libelle_agence": "Randstad Redon"
+  },
+  {
+    "code_unite": "IZX",
+    "libelle_agence": "Randstad Fougères"
+  },
+  {
+    "code_unite": "ZX",
+    "libelle_agence": "Randstad Fougères"
+  },
+  {
+    "code_unite": "ZXA",
+    "libelle_agence": "Randstad Fougères"
+  },
+  {
+    "code_unite": "BS",
+    "libelle_agence": "Randstad Brest"
+  },
+  {
+    "code_unite": "BS1",
+    "libelle_agence": "Randstad Brest"
+  },
+  {
+    "code_unite": "BS3",
+    "libelle_agence": "Randstad Brest"
+  },
+  {
+    "code_unite": "V38",
+    "libelle_agence": "Randstad Brest"
+  },
+  {
+    "code_unite": "CJ",
+    "libelle_agence": "Randstad Carhaix Plouguer"
+  },
+  {
+    "code_unite": "GO",
+    "libelle_agence": "Randstad Lannion"
+  },
+  {
+    "code_unite": "GU2",
+    "libelle_agence": "Randstad Ploumagoar Guingamp"
+  },
+  {
+    "code_unite": "GUI",
+    "libelle_agence": "Randstad Ploumagoar Guingamp"
+  },
+  {
+    "code_unite": "NW",
+    "libelle_agence": "Randstad Quimperlé"
+  },
+  {
+    "code_unite": "OL3",
+    "libelle_agence": "Randstad Onsite Lamballe-Armor"
+  },
+  {
+    "code_unite": "OL4",
+    "libelle_agence": "Randstad Onsite Lamballe-Armor"
+  },
+  {
+    "code_unite": "BSB",
+    "libelle_agence": "Randstad Plérin"
+  },
+  {
+    "code_unite": "SB",
+    "libelle_agence": "Randstad Plérin"
+  },
+  {
+    "code_unite": "VA1",
+    "libelle_agence": "Randstad Lamballe-Armor"
+  },
+  {
+    "code_unite": "VAL",
+    "libelle_agence": "Randstad Lamballe-Armor"
+  },
+  {
+    "code_unite": "ZI",
+    "libelle_agence": "Randstad Morlaix"
+  },
+  {
+    "code_unite": "VAG",
+    "libelle_agence": "Randstad Quimper"
+  },
+  {
+    "code_unite": "ZK",
+    "libelle_agence": "Randstad Quimper"
+  },
+  {
+    "code_unite": "306",
+    "libelle_agence": "Randstad Montoir de Bretagne"
+  },
+  {
+    "code_unite": "379",
+    "libelle_agence": "Randstad Montoir de Bretagne"
+  },
+  {
+    "code_unite": "GP",
+    "libelle_agence": "Randstad Ploermel"
+  },
+  {
+    "code_unite": "KN",
+    "libelle_agence": "Randstad Ancenis St Gereon"
+  },
+  {
+    "code_unite": "LT",
+    "libelle_agence": "Randstad Lorient"
+  },
+  {
+    "code_unite": "NAV",
+    "libelle_agence": "Randstad Lorient"
+  },
+  {
+    "code_unite": "VAI",
+    "libelle_agence": "Randstad Lorient"
+  },
+  {
+    "code_unite": "IRZ",
+    "libelle_agence": "Randstad Nantes"
+  },
+  {
+    "code_unite": "NAM",
+    "libelle_agence": "Randstad Nantes"
+  },
+  {
+    "code_unite": "NAX",
+    "libelle_agence": "Randstad Nantes"
+  },
+  {
+    "code_unite": "V97",
+    "libelle_agence": "Randstad Nantes"
+  },
+  {
+    "code_unite": "308",
+    "libelle_agence": "Randstad Nantes"
+  },
+  {
+    "code_unite": "310",
+    "libelle_agence": "Randstad Nantes"
+  },
+  {
+    "code_unite": "NEB",
+    "libelle_agence": "Randstad Nantes"
+  },
+  {
+    "code_unite": "VAK",
+    "libelle_agence": "Randstad Nantes"
+  },
+  {
+    "code_unite": "ONA",
+    "libelle_agence": "Randstad Onsite Nantes"
+  },
+  {
+    "code_unite": "OS7",
+    "libelle_agence": "Randstad Onsite Nantes"
+  },
+  {
+    "code_unite": "QP",
+    "libelle_agence": "Randstad Pornic"
+  },
+  {
+    "code_unite": "QY",
+    "libelle_agence": "Randstad Auray"
+  },
+  {
+    "code_unite": "RW",
+    "libelle_agence": "Randstad Loudéac"
+  },
+  {
+    "code_unite": "BSN",
+    "libelle_agence": "Randstad Trignac"
+  },
+  {
+    "code_unite": "TW",
+    "libelle_agence": "Randstad Trignac"
+  },
+  {
+    "code_unite": "V58",
+    "libelle_agence": "Randstad Trignac"
+  },
+  {
+    "code_unite": "362",
+    "libelle_agence": "Randstad Nantes"
+  },
+  {
+    "code_unite": "T36",
+    "libelle_agence": "Randstad Nantes"
+  },
+  {
+    "code_unite": "VAH",
+    "libelle_agence": "Randstad Châteaubriant"
+  },
+  {
+    "code_unite": "IZO",
+    "libelle_agence": "Randstad Vannes"
+  },
+  {
+    "code_unite": "ZO",
+    "libelle_agence": "Randstad Vannes"
+  },
+  {
+    "code_unite": "ZR",
+    "libelle_agence": "Randstad Pontivy"
+  },
+  {
+    "code_unite": "ZRI",
+    "libelle_agence": "Randstad Pontivy"
+  },
+  {
+    "code_unite": "AGS",
+    "libelle_agence": "Randstad Angers"
+  },
+  {
+    "code_unite": "AGT",
+    "libelle_agence": "Randstad Angers"
+  },
+  {
+    "code_unite": "IAG",
+    "libelle_agence": "Randstad Angers"
+  },
+  {
+    "code_unite": "CHG",
+    "libelle_agence": "Randstad Château Gontier"
+  },
+  {
+    "code_unite": "ESR",
+    "libelle_agence": "Randstad Saumur"
+  },
+  {
+    "code_unite": "E12",
+    "libelle_agence": "Randstad Angers"
+  },
+  {
+    "code_unite": "EVR",
+    "libelle_agence": "Randstad Evron"
+  },
+  {
+    "code_unite": "ECH",
+    "libelle_agence": "Randstad Cholet"
+  },
+  {
+    "code_unite": "HS",
+    "libelle_agence": "Randstad Cholet"
+  },
+  {
+    "code_unite": "JS",
+    "libelle_agence": "Randstad Segré en Anjou Bleu"
+  },
+  {
+    "code_unite": "ILL",
+    "libelle_agence": "Randstad Laval"
+  },
+  {
+    "code_unite": "LL",
+    "libelle_agence": "Randstad Laval"
+  },
+  {
+    "code_unite": "OLA",
+    "libelle_agence": "Randstad Onsite Laval"
+  },
+  {
+    "code_unite": "OLR",
+    "libelle_agence": "Randstad Onsite La Roche Sur Yon"
+  },
+  {
+    "code_unite": "OLS",
+    "libelle_agence": "Randstad Onsite La Roche Sur Yon"
+  },
+  {
+    "code_unite": "OS6",
+    "libelle_agence": "Randstad Onsite Angers"
+  },
+  {
+    "code_unite": "OSC",
+    "libelle_agence": "Randstad Onsite Angers"
+  },
+  {
+    "code_unite": "OY",
+    "libelle_agence": "Randstad Fontenay le Comte"
+  },
+  {
+    "code_unite": "QX",
+    "libelle_agence": "Randstad Challans"
+  },
+  {
+    "code_unite": "ERY",
+    "libelle_agence": "Randstad La Roche sur Yon"
+  },
+  {
+    "code_unite": "RO",
+    "libelle_agence": "Randstad La Roche sur Yon"
+  },
+  {
+    "code_unite": "RYO",
+    "libelle_agence": "Randstad La Roche sur Yon"
+  },
+  {
+    "code_unite": "RSY",
+    "libelle_agence": "Randstad La Roche sur Yon"
+  },
+  {
+    "code_unite": "SAO",
+    "libelle_agence": "Randstad Les Sables d'Olonne"
+  },
+  {
+    "code_unite": "TU",
+    "libelle_agence": "Randstad Boufféré"
+  },
+  {
+    "code_unite": "V35",
+    "libelle_agence": "Randstad Les Herbiers"
+  },
+  {
+    "code_unite": "ZF",
+    "libelle_agence": "Randstad Mayenne"
+  },
+  {
+    "code_unite": "CG",
+    "libelle_agence": "Randstad Cherbourg"
+  },
+  {
+    "code_unite": "CHI",
+    "libelle_agence": "Randstad Saumur"
+  },
+  {
+    "code_unite": "DPN",
+    "libelle_agence": "Randstad Nucléaire Dunkerque"
+  },
+  {
+    "code_unite": "NBU",
+    "libelle_agence": "Randstad Nucléaire Château G"
+  },
+  {
+    "code_unite": "NCH",
+    "libelle_agence": "Randstad Nucléaire Chooz"
+  },
+  {
+    "code_unite": "NCI",
+    "libelle_agence": "Randstad Nucléaire Civaux"
+  },
+  {
+    "code_unite": "NMO",
+    "libelle_agence": "Randstad Nucléaire Manom"
+  },
+  {
+    "code_unite": "NMQ",
+    "libelle_agence": "Randstad Nucléaire Manosque"
+  },
+  {
+    "code_unite": "NNO",
+    "libelle_agence": "Randstad Nucléaire Nogent S/Seine"
+  },
+  {
+    "code_unite": "NOU",
+    "libelle_agence": "Randstad Nucléaire Salaise sur San"
+  },
+  {
+    "code_unite": "IPI",
+    "libelle_agence": "Randstad Nucléaire Pierrelatte"
+  },
+  {
+    "code_unite": "NU2",
+    "libelle_agence": "Randstad Centre régional Nucléaire"
+  },
+  {
+    "code_unite": "SUN",
+    "libelle_agence": "Randstad Gien"
+  },
+  {
+    "code_unite": "YX",
+    "libelle_agence": "Randstad Dieppe"
+  },
+  {
+    "code_unite": "4GS",
+    "libelle_agence": "CGC ST PRIEST"
+  },
+  {
+    "code_unite": "CCS",
+    "libelle_agence": "CGC ST PRIEST"
+  },
+  {
+    "code_unite": "4GG",
+    "libelle_agence": "CGC GRENOBLE"
+  },
+  {
+    "code_unite": "CGG",
+    "libelle_agence": "CGC GRENOBLE"
+  },
+  {
+    "code_unite": "4G4",
+    "libelle_agence": "Budget CGC New Biz 4G1"
+  },
+  {
+    "code_unite": "898",
+    "libelle_agence": "RANDSTAD INHOUSE 898"
+  },
+  {
+    "code_unite": "BC6",
+    "libelle_agence": "RANDSTAD INHOUSE BC6"
+  },
+  {
+    "code_unite": "BLB",
+    "libelle_agence": "RANDSTAD INHOUSE BLB"
+  },
+  {
+    "code_unite": "BM6",
+    "libelle_agence": "RANDSTAD INHOUSE BM6"
+  },
+  {
+    "code_unite": "BMO",
+    "libelle_agence": "RANDSTAD INHOUSE BMO"
+  },
+  {
+    "code_unite": "CBE",
+    "libelle_agence": "RANDSTAD INHOUSE CBE"
+  },
+  {
+    "code_unite": "ICS",
+    "libelle_agence": "RANDSTAD INHOUSE ICS"
+  },
+  {
+    "code_unite": "KNR",
+    "libelle_agence": "RANDSTAD INHOUSE KNR"
+  },
+  {
+    "code_unite": "LIN",
+    "libelle_agence": "RANDSTAD INHOUSE LIN"
+  },
+  {
+    "code_unite": "LLO",
+    "libelle_agence": "RANDSTAD INHOUSE LLO"
+  },
+  {
+    "code_unite": "LMN",
+    "libelle_agence": "RANDSTAD INHOUSE LMN"
+  },
+  {
+    "code_unite": "LSG",
+    "libelle_agence": "RANDSTAD INHOUSE LSG"
+  },
+  {
+    "code_unite": "SCS",
+    "libelle_agence": "RANDSTAD INHOUSE SCS"
+  },
+  {
+    "code_unite": "AMZ",
+    "libelle_agence": "RANDSTAD INHOUSE AMZ"
+  },
+  {
+    "code_unite": "AQF",
+    "libelle_agence": "RANDSTAD INHOUSE AQF"
+  },
+  {
+    "code_unite": "BLP",
+    "libelle_agence": "RANDSTAD INHOUSE BLP"
+  },
+  {
+    "code_unite": "DSJ",
+    "libelle_agence": "RANDSTAD INHOUSE DSJ"
+  },
+  {
+    "code_unite": "EBC",
+    "libelle_agence": "RANDSTAD INHOUSE EBC"
+  },
+  {
+    "code_unite": "GPC",
+    "libelle_agence": "RANDSTAD INHOUSE GPC"
+  },
+  {
+    "code_unite": "IA6",
+    "libelle_agence": "RANDSTAD INHOUSE IAN"
+  },
+  {
+    "code_unite": "KJR",
+    "libelle_agence": "RANDSTAD INHOUSE KJR"
+  },
+  {
+    "code_unite": "DJC",
+    "libelle_agence": "RANDSTAD INHOUSE STC"
+  },
+  {
+    "code_unite": "ICX",
+    "libelle_agence": "RANDSTAD INHOUSE STC"
+  },
+  {
+    "code_unite": "STC",
+    "libelle_agence": "RANDSTAD INHOUSE STC"
+  },
+  {
+    "code_unite": "SVE",
+    "libelle_agence": "RANDSTAD INHOUSE SVE"
+  },
+  {
+    "code_unite": "AMS",
+    "libelle_agence": "RANDSTAD INHOUSE AMS"
+  },
+  {
+    "code_unite": "AV6",
+    "libelle_agence": "RANDSTAD INHOUSE AV6"
+  },
+  {
+    "code_unite": "BGR",
+    "libelle_agence": "RANDSTAD INHOUSE BGR"
+  },
+  {
+    "code_unite": "BSE",
+    "libelle_agence": "RANDSTAD INHOUSE BSE"
+  },
+  {
+    "code_unite": "BSV",
+    "libelle_agence": "RANDSTAD INHOUSE BSV"
+  },
+  {
+    "code_unite": "CPF",
+    "libelle_agence": "RANDSTAD INHOUSE CPF"
+  },
+  {
+    "code_unite": "DBC",
+    "libelle_agence": "RANDSTAD INHOUSE DBC"
+  },
+  {
+    "code_unite": "ECG",
+    "libelle_agence": "RANDSTAD INHOUSE ECG"
+  },
+  {
+    "code_unite": "EPU",
+    "libelle_agence": "RANDSTAD INHOUSE EPU"
+  },
+  {
+    "code_unite": "GME",
+    "libelle_agence": "RANDSTAD INHOUSE GME"
+  },
+  {
+    "code_unite": "GPX",
+    "libelle_agence": "RANDSTAD INHOUSE GPX"
+  },
+  {
+    "code_unite": "HDA",
+    "libelle_agence": "RANDSTAD INHOUSE HDA"
+  },
+  {
+    "code_unite": "HFI",
+    "libelle_agence": "RANDSTAD INHOUSE HFI"
+  },
+  {
+    "code_unite": "HLA",
+    "libelle_agence": "RANDSTAD INHOUSE HLA"
+  },
+  {
+    "code_unite": "NTN",
+    "libelle_agence": "RANDSTAD INHOUSE NTN"
+  },
+  {
+    "code_unite": "VEE",
+    "libelle_agence": "RANDSTAD INHOUSE VEE"
+  },
+  {
+    "code_unite": "VVM",
+    "libelle_agence": "RANDSTAD INHOUSE VVM"
+  },
+  {
+    "code_unite": "IBJ",
+    "libelle_agence": "RANDSTAD INHOUSE IBJ"
+  },
+  {
+    "code_unite": "VSQ",
+    "libelle_agence": "RANDSTAD INHOUSE VSQ"
+  },
+  {
+    "code_unite": "645",
+    "libelle_agence": "Randstad Chavanod"
+  },
+  {
+    "code_unite": "AMX",
+    "libelle_agence": "Randstad Château Gaillard"
+  },
+  {
+    "code_unite": "MAX",
+    "libelle_agence": "Randstad Château Gaillard"
+  },
+  {
+    "code_unite": "152",
+    "libelle_agence": "Randstad Annemasse"
+  },
+  {
+    "code_unite": "656",
+    "libelle_agence": "Randstad Chavanod"
+  },
+  {
+    "code_unite": "703",
+    "libelle_agence": "Randstad Chavanod"
+  },
+  {
+    "code_unite": "807",
+    "libelle_agence": "Randstad Chavanod"
+  },
+  {
+    "code_unite": "AY2",
+    "libelle_agence": "Randstad Chavanod"
+  },
+  {
+    "code_unite": "668",
+    "libelle_agence": "Randstad Bourg en Bresse"
+  },
+  {
+    "code_unite": "BP",
+    "libelle_agence": "Randstad Bourg en Bresse"
+  },
+  {
+    "code_unite": "PRM",
+    "libelle_agence": "Randstad Bourg en Bresse"
+  },
+  {
+    "code_unite": "CE",
+    "libelle_agence": "Randstad Scionzier"
+  },
+  {
+    "code_unite": "JH",
+    "libelle_agence": "Randstad Anthy Sur Leman"
+  },
+  {
+    "code_unite": "NK",
+    "libelle_agence": "Randstad Montréal-la-Cluse"
+  },
+  {
+    "code_unite": "NK2",
+    "libelle_agence": "Randstad St Genis Pouilly"
+  },
+  {
+    "code_unite": "OC4",
+    "libelle_agence": "Randstad Onsite Chateau Gaillard"
+  },
+  {
+    "code_unite": "OC5",
+    "libelle_agence": "Randstad Onsite Chavanod"
+  },
+  {
+    "code_unite": "OR7",
+    "libelle_agence": "Randstad Onsite Chavanod"
+  },
+  {
+    "code_unite": "OOY",
+    "libelle_agence": "Randstad Onsite Oyonnax"
+  },
+  {
+    "code_unite": "IOX",
+    "libelle_agence": "Randstad Oyonnax"
+  },
+  {
+    "code_unite": "OX",
+    "libelle_agence": "Randstad Oyonnax"
+  },
+  {
+    "code_unite": "LCH",
+    "libelle_agence": "Randstad Château Gaillard"
+  },
+  {
+    "code_unite": "TLO",
+    "libelle_agence": "Randstad Château Gaillard"
+  },
+  {
+    "code_unite": "IRU",
+    "libelle_agence": "Randstad Rumilly"
+  },
+  {
+    "code_unite": "VR2",
+    "libelle_agence": "Randstad Rumilly"
+  },
+  {
+    "code_unite": "WF",
+    "libelle_agence": "Randstad St Pierre en Faucigny"
+  },
+  {
+    "code_unite": "779",
+    "libelle_agence": "Randstad Valence"
+  },
+  {
+    "code_unite": "BN",
+    "libelle_agence": "Randstad Andrézieux Bouthéon"
+  },
+  {
+    "code_unite": "IBN",
+    "libelle_agence": "Randstad Andrézieux Bouthéon"
+  },
+  {
+    "code_unite": "BZ",
+    "libelle_agence": "Randstad Aubenas"
+  },
+  {
+    "code_unite": "BZ2",
+    "libelle_agence": "Randstad Aubenas"
+  },
+  {
+    "code_unite": "FEU",
+    "libelle_agence": "Randstad Feurs"
+  },
+  {
+    "code_unite": "ISP",
+    "libelle_agence": "Randstad Romans sur Isère"
+  },
+  {
+    "code_unite": "ISV",
+    "libelle_agence": "Randstad Laveyron"
+  },
+  {
+    "code_unite": "SVI",
+    "libelle_agence": "Randstad Laveyron"
+  },
+  {
+    "code_unite": "OU",
+    "libelle_agence": "Randstad Salaise sur Sanne"
+  },
+  {
+    "code_unite": "PU2",
+    "libelle_agence": "Randstad Le Puy en Velay"
+  },
+  {
+    "code_unite": "PUY",
+    "libelle_agence": "Randstad Le Puy en Velay"
+  },
+  {
+    "code_unite": "IRE",
+    "libelle_agence": "Randstad Roanne"
+  },
+  {
+    "code_unite": "RE",
+    "libelle_agence": "Randstad Roanne"
+  },
+  {
+    "code_unite": "RET",
+    "libelle_agence": "Randstad Roanne"
+  },
+  {
+    "code_unite": "ROB",
+    "libelle_agence": "Randstad Roanne"
+  },
+  {
+    "code_unite": "SC",
+    "libelle_agence": "Randstad Saint Chamond"
+  },
+  {
+    "code_unite": "SC3",
+    "libelle_agence": "Randstad Saint Chamond"
+  },
+  {
+    "code_unite": "SCD",
+    "libelle_agence": "Randstad Saint Chamond"
+  },
+  {
+    "code_unite": "706",
+    "libelle_agence": "Randstad Saint Etienne"
+  },
+  {
+    "code_unite": "ESE",
+    "libelle_agence": "Randstad Saint Etienne"
+  },
+  {
+    "code_unite": "SE",
+    "libelle_agence": "Randstad Saint Etienne"
+  },
+  {
+    "code_unite": "SET",
+    "libelle_agence": "Randstad Saint Etienne Tertiaire"
+  },
+  {
+    "code_unite": "664",
+    "libelle_agence": "Randstad Valence"
+  },
+  {
+    "code_unite": "VL",
+    "libelle_agence": "Randstad Valence"
+  },
+  {
+    "code_unite": "VLA",
+    "libelle_agence": "Randstad Valence"
+  },
+  {
+    "code_unite": "VLE",
+    "libelle_agence": "Randstad Valence"
+  },
+  {
+    "code_unite": "VLN",
+    "libelle_agence": "Randstad Valence"
+  },
+  {
+    "code_unite": "VLX",
+    "libelle_agence": "Randstad Valence"
+  },
+  {
+    "code_unite": "VMN",
+    "libelle_agence": "Randstad Montbrison"
+  },
+  {
+    "code_unite": "VSS",
+    "libelle_agence": "Randstad Monistrol-sur-Loire"
+  },
+  {
+    "code_unite": "IWA",
+    "libelle_agence": "Randstad Annonay"
+  },
+  {
+    "code_unite": "WA",
+    "libelle_agence": "Randstad Annonay"
+  },
+  {
+    "code_unite": "634",
+    "libelle_agence": "Randstad St Etienne de St Geoirs"
+  },
+  {
+    "code_unite": "641",
+    "libelle_agence": "Randstad Voiron"
+  },
+  {
+    "code_unite": "VO",
+    "libelle_agence": "Randstad Voiron"
+  },
+  {
+    "code_unite": "663",
+    "libelle_agence": "Randstad Crolles"
+  },
+  {
+    "code_unite": "CR4",
+    "libelle_agence": "Randstad Crolles"
+  },
+  {
+    "code_unite": "709",
+    "libelle_agence": "Randstad Grenoble"
+  },
+  {
+    "code_unite": "TEP",
+    "libelle_agence": "Randstad Grenoble"
+  },
+  {
+    "code_unite": "VGT",
+    "libelle_agence": "Randstad Grenoble"
+  },
+  {
+    "code_unite": "826",
+    "libelle_agence": "Randstad Challes Les Eaux"
+  },
+  {
+    "code_unite": "827",
+    "libelle_agence": "Randstad Challes Les Eaux"
+  },
+  {
+    "code_unite": "AK2",
+    "libelle_agence": "Randstad St Jean de Soudain"
+  },
+  {
+    "code_unite": "IAK",
+    "libelle_agence": "Randstad St Jean de Soudain"
+  },
+  {
+    "code_unite": "BO",
+    "libelle_agence": "Randstad Saint Quentin Fallavier"
+  },
+  {
+    "code_unite": "LBO",
+    "libelle_agence": "Randstad Saint Quentin Fallavier"
+  },
+  {
+    "code_unite": "825",
+    "libelle_agence": "Randstad Challes Les Eaux"
+  },
+  {
+    "code_unite": "635",
+    "libelle_agence": "Randstad Grenoble"
+  },
+  {
+    "code_unite": "654",
+    "libelle_agence": "Randstad Grenoble"
+  },
+  {
+    "code_unite": "730",
+    "libelle_agence": "Randstad Grenoble"
+  },
+  {
+    "code_unite": "T29",
+    "libelle_agence": "Randstad Grenoble"
+  },
+  {
+    "code_unite": "JO",
+    "libelle_agence": "Randstad Albertville"
+  },
+  {
+    "code_unite": "JV",
+    "libelle_agence": "Randstad Saint Jean de Maurienne"
+  },
+  {
+    "code_unite": "OF1",
+    "libelle_agence": "Randstad Onsite St Quentin Fallavi"
+  },
+  {
+    "code_unite": "OP7",
+    "libelle_agence": "Randstad Onsite Seyssinet Pariset"
+  },
+  {
+    "code_unite": "GEC",
+    "libelle_agence": "Randstad Seyssinet Pariset"
+  },
+  {
+    "code_unite": "IPV",
+    "libelle_agence": "Randstad Seyssinet Pariset"
+  },
+  {
+    "code_unite": "JPV",
+    "libelle_agence": "Randstad Seyssinet Pariset"
+  },
+  {
+    "code_unite": "PV",
+    "libelle_agence": "Randstad Seyssinet Pariset"
+  },
+  {
+    "code_unite": "PV2",
+    "libelle_agence": "Randstad Seyssinet Pariset"
+  },
+  {
+    "code_unite": "SM2",
+    "libelle_agence": "Randstad Saint Marcellin"
+  },
+  {
+    "code_unite": "SMA",
+    "libelle_agence": "Randstad Saint Marcellin"
+  },
+  {
+    "code_unite": "WH",
+    "libelle_agence": "Randstad Bourgoin Jallieu"
+  },
+  {
+    "code_unite": "540",
+    "libelle_agence": "Randstad Lyon"
+  },
+  {
+    "code_unite": "607",
+    "libelle_agence": "Randstad Lyon"
+  },
+  {
+    "code_unite": "699",
+    "libelle_agence": "Randstad Saint Priest"
+  },
+  {
+    "code_unite": "LYA",
+    "libelle_agence": "Randstad Saint Priest"
+  },
+  {
+    "code_unite": "PRI",
+    "libelle_agence": "Randstad Saint Priest"
+  },
+  {
+    "code_unite": "VDN",
+    "libelle_agence": "Randstad Saint Priest"
+  },
+  {
+    "code_unite": "LAR",
+    "libelle_agence": "Randstad L'Arbresle"
+  },
+  {
+    "code_unite": "625",
+    "libelle_agence": "Randstad Saint Priest"
+  },
+  {
+    "code_unite": "LSE",
+    "libelle_agence": "Randstad Saint Priest"
+  },
+  {
+    "code_unite": "MTL",
+    "libelle_agence": "Randstad Neuville Sur Saône"
+  },
+  {
+    "code_unite": "615",
+    "libelle_agence": "Randstad St Genis Laval"
+  },
+  {
+    "code_unite": "OS",
+    "libelle_agence": "Randstad St Genis Laval"
+  },
+  {
+    "code_unite": "OLY",
+    "libelle_agence": "Randstad Onsite St Priest"
+  },
+  {
+    "code_unite": "OSE",
+    "libelle_agence": "Randstad Onsite St Priest"
+  },
+  {
+    "code_unite": "SP2",
+    "libelle_agence": "Randstad Onsite St Priest"
+  },
+  {
+    "code_unite": "SP4",
+    "libelle_agence": "Randstad Onsite St Priest"
+  },
+  {
+    "code_unite": "647",
+    "libelle_agence": "Randstad Décines Charpieu"
+  },
+  {
+    "code_unite": "DN1",
+    "libelle_agence": "Randstad Décines Charpieu"
+  },
+  {
+    "code_unite": "558",
+    "libelle_agence": "Randstad Lyon"
+  },
+  {
+    "code_unite": "PLY",
+    "libelle_agence": "Randstad Lyon"
+  },
+  {
+    "code_unite": "TAS",
+    "libelle_agence": "Randstad Lyon"
+  },
+  {
+    "code_unite": "VE2",
+    "libelle_agence": "Randstad Lyon"
+  },
+  {
+    "code_unite": "VLH",
+    "libelle_agence": "Randstad Lyon"
+  },
+  {
+    "code_unite": "LYB",
+    "libelle_agence": "Randstad Lyon"
+  },
+  {
+    "code_unite": "VLB",
+    "libelle_agence": "Randstad Lyon"
+  },
+  {
+    "code_unite": "LV2",
+    "libelle_agence": "Randstad Lyon"
+  },
+  {
+    "code_unite": "S69",
+    "libelle_agence": "Randstad Lyon"
+  },
+  {
+    "code_unite": "VVF",
+    "libelle_agence": "Randstad Villefranche sur Saône"
+  },
+  {
+    "code_unite": "VVX",
+    "libelle_agence": "Randstad Villefranche sur Saône"
+  },
+  {
+    "code_unite": "WJ",
+    "libelle_agence": "Randstad Neuville sur Saône"
+  },
+  {
+    "code_unite": "WN",
+    "libelle_agence": "Randstad Vienne"
+  },
+  {
+    "code_unite": "VE",
+    "libelle_agence": "Randstad Lyon Environnement"
+  },
+  {
+    "code_unite": "5GO",
+    "libelle_agence": "CGC BALMA"
+  },
+  {
+    "code_unite": "CTO",
+    "libelle_agence": "CGC BALMA"
+  },
+  {
+    "code_unite": "CSN",
+    "libelle_agence": "CGC SALON DE PROVENCE"
+  },
+  {
+    "code_unite": "CSP",
+    "libelle_agence": "CGC SALON DE PROVENCE"
+  },
+  {
+    "code_unite": "AMR",
+    "libelle_agence": "RANDSTAD INHOUSE AMR"
+  },
+  {
+    "code_unite": "CMO",
+    "libelle_agence": "RANDSTAD INHOUSE CMO"
+  },
+  {
+    "code_unite": "CRC",
+    "libelle_agence": "RANDSTAD INHOUSE CRC"
+  },
+  {
+    "code_unite": "FAM",
+    "libelle_agence": "RANDSTAD INHOUSE FAM"
+  },
+  {
+    "code_unite": "G3C",
+    "libelle_agence": "RANDSTAD INHOUSE G3C"
+  },
+  {
+    "code_unite": "HAR",
+    "libelle_agence": "RANDSTAD INHOUSE HAR"
+  },
+  {
+    "code_unite": "ILC",
+    "libelle_agence": "RANDSTAD INHOUSE ILC"
+  },
+  {
+    "code_unite": "MEC",
+    "libelle_agence": "RANDSTAD INHOUSE MEC"
+  },
+  {
+    "code_unite": "NRE",
+    "libelle_agence": "RANDSTAD INHOUSE NRE"
+  },
+  {
+    "code_unite": "RAI",
+    "libelle_agence": "RANDSTAD INHOUSE RAI"
+  },
+  {
+    "code_unite": "VFO",
+    "libelle_agence": "RANDSTAD INHOUSE VFO"
+  },
+  {
+    "code_unite": "FCA",
+    "libelle_agence": "RANDSTAD INHOUSE FCA"
+  },
+  {
+    "code_unite": "HMA",
+    "libelle_agence": "RANDSTAD INHOUSE HMA"
+  },
+  {
+    "code_unite": "790",
+    "libelle_agence": "Randstad Toulouse"
+  },
+  {
+    "code_unite": "810",
+    "libelle_agence": "Randstad Toulouse"
+  },
+  {
+    "code_unite": "813",
+    "libelle_agence": "Randstad Toulouse"
+  },
+  {
+    "code_unite": "833",
+    "libelle_agence": "Randstad Pamiers"
+  },
+  {
+    "code_unite": "834",
+    "libelle_agence": "Randstad Pamiers"
+  },
+  {
+    "code_unite": "838",
+    "libelle_agence": "Randstad Pamiers"
+  },
+  {
+    "code_unite": "AC",
+    "libelle_agence": "Randstad Mazamet"
+  },
+  {
+    "code_unite": "AH",
+    "libelle_agence": "Randstad Albi"
+  },
+  {
+    "code_unite": "IJ",
+    "libelle_agence": "Randstad Colomiers"
+  },
+  {
+    "code_unite": "IJ3",
+    "libelle_agence": "Randstad Colomiers"
+  },
+  {
+    "code_unite": "KT",
+    "libelle_agence": "Randstad Rodez"
+  },
+  {
+    "code_unite": "KTB",
+    "libelle_agence": "Randstad Rodez"
+  },
+  {
+    "code_unite": "MQ",
+    "libelle_agence": "Randstad Millau"
+  },
+  {
+    "code_unite": "MQ2",
+    "libelle_agence": "Randstad Millau"
+  },
+  {
+    "code_unite": "SSU",
+    "libelle_agence": "Randstad Saint Sulpice"
+  },
+  {
+    "code_unite": "TF",
+    "libelle_agence": "Randstad Balma"
+  },
+  {
+    "code_unite": "815",
+    "libelle_agence": "Randstad Balma"
+  },
+  {
+    "code_unite": "TL1",
+    "libelle_agence": "Randstad Balma"
+  },
+  {
+    "code_unite": "TL2",
+    "libelle_agence": "Randstad Balma"
+  },
+  {
+    "code_unite": "808",
+    "libelle_agence": "Randstad Balma"
+  },
+  {
+    "code_unite": "TL4",
+    "libelle_agence": "Randstad Balma"
+  },
+  {
+    "code_unite": "TLS",
+    "libelle_agence": "Randstad Balma"
+  },
+  {
+    "code_unite": "V91",
+    "libelle_agence": "Randstad Balma"
+  },
+  {
+    "code_unite": "V92",
+    "libelle_agence": "Randstad Balma"
+  },
+  {
+    "code_unite": "TR3",
+    "libelle_agence": "Randstad Toulouse"
+  },
+  {
+    "code_unite": "TRE",
+    "libelle_agence": "Randstad Toulouse"
+  },
+  {
+    "code_unite": "IZS",
+    "libelle_agence": "Randstad Castres"
+  },
+  {
+    "code_unite": "ZS",
+    "libelle_agence": "Randstad Castres"
+  },
+  {
+    "code_unite": "750",
+    "libelle_agence": "Randstad Montpellier"
+  },
+  {
+    "code_unite": "754",
+    "libelle_agence": "Randstad Montpellier"
+  },
+  {
+    "code_unite": "QD2",
+    "libelle_agence": "Randstad Montpellier"
+  },
+  {
+    "code_unite": "758",
+    "libelle_agence": "Randstad Cabestany"
+  },
+  {
+    "code_unite": "797",
+    "libelle_agence": "Randstad Cabestany"
+  },
+  {
+    "code_unite": "CY2",
+    "libelle_agence": "Randstad Cabestany"
+  },
+  {
+    "code_unite": "736",
+    "libelle_agence": "Randstad Béziers"
+  },
+  {
+    "code_unite": "BY",
+    "libelle_agence": "Randstad Béziers"
+  },
+  {
+    "code_unite": "IBY",
+    "libelle_agence": "Randstad Béziers"
+  },
+  {
+    "code_unite": "HX",
+    "libelle_agence": "Randstad Carcassonne"
+  },
+  {
+    "code_unite": "757",
+    "libelle_agence": "Randstad Cabestany"
+  },
+  {
+    "code_unite": "IP",
+    "libelle_agence": "Randstad Cabestany"
+  },
+  {
+    "code_unite": "KL",
+    "libelle_agence": "Randstad Narbonne"
+  },
+  {
+    "code_unite": "KY",
+    "libelle_agence": "Randstad Lunel"
+  },
+  {
+    "code_unite": "BNI",
+    "libelle_agence": "Randstad Nîmes"
+  },
+  {
+    "code_unite": "NI",
+    "libelle_agence": "Randstad Nîmes"
+  },
+  {
+    "code_unite": "739",
+    "libelle_agence": "Randstad Montpellier"
+  },
+  {
+    "code_unite": "QD",
+    "libelle_agence": "Randstad Montpellier"
+  },
+  {
+    "code_unite": "IMP",
+    "libelle_agence": "Randstad Montpellier"
+  },
+  {
+    "code_unite": "QT",
+    "libelle_agence": "Randstad Montpellier"
+  },
+  {
+    "code_unite": "TKV",
+    "libelle_agence": "Randstad Montpellier"
+  },
+  {
+    "code_unite": "WS",
+    "libelle_agence": "Randstad Bagnols sur Cèze"
+  },
+  {
+    "code_unite": "WT1",
+    "libelle_agence": "Randstad Sète"
+  },
+  {
+    "code_unite": "WT2",
+    "libelle_agence": "Randstad Sète"
+  },
+  {
+    "code_unite": "WT3",
+    "libelle_agence": "Randstad Sète"
+  },
+  {
+    "code_unite": "AN",
+    "libelle_agence": "Randstad Le Pontet"
+  },
+  {
+    "code_unite": "VVG",
+    "libelle_agence": "Randstad Le Pontet"
+  },
+  {
+    "code_unite": "ANB",
+    "libelle_agence": "Randstad Le Pontet"
+  },
+  {
+    "code_unite": "BA",
+    "libelle_agence": "Randstad Pierrelatte"
+  },
+  {
+    "code_unite": "IPG",
+    "libelle_agence": "Randstad Pierrelatte"
+  },
+  {
+    "code_unite": "MAS",
+    "libelle_agence": "Randstad Pierrelatte"
+  },
+  {
+    "code_unite": "EMS",
+    "libelle_agence": "Randstad Salon de Provence"
+  },
+  {
+    "code_unite": "OCS",
+    "libelle_agence": "Randstad Onsite Fos Sur Mer"
+  },
+  {
+    "code_unite": "OM",
+    "libelle_agence": "Randstad Onsite Fos Sur Mer"
+  },
+  {
+    "code_unite": "OMC",
+    "libelle_agence": "Randstad Onsite Fos Sur Mer"
+  },
+  {
+    "code_unite": "QV",
+    "libelle_agence": "Randstad Valréas"
+  },
+  {
+    "code_unite": "RD",
+    "libelle_agence": "Randstad Salon de Provence"
+  },
+  {
+    "code_unite": "RLT",
+    "libelle_agence": "Randstad Salon de Provence"
+  },
+  {
+    "code_unite": "RM",
+    "libelle_agence": "Randstad Fos Sur Mer"
+  },
+  {
+    "code_unite": "RP",
+    "libelle_agence": "Randstad Cavaillon"
+  },
+  {
+    "code_unite": "TRP",
+    "libelle_agence": "Randstad Cavaillon"
+  },
+  {
+    "code_unite": "VVR",
+    "libelle_agence": "Randstad Vitrolles"
+  },
+  {
+    "code_unite": "VVS",
+    "libelle_agence": "Randstad Vitrolles"
+  },
+  {
+    "code_unite": "VVT",
+    "libelle_agence": "Randstad Vitrolles"
+  },
+  {
+    "code_unite": "WB",
+    "libelle_agence": "Randstad Arles"
+  },
+  {
+    "code_unite": "WI2",
+    "libelle_agence": "Randstad Montélimar"
+  },
+  {
+    "code_unite": "719",
+    "libelle_agence": "Randstad Marseille"
+  },
+  {
+    "code_unite": "AP2",
+    "libelle_agence": "Randstad Marseille"
+  },
+  {
+    "code_unite": "734",
+    "libelle_agence": "Randstad Saint Laurent du Var"
+  },
+  {
+    "code_unite": "735",
+    "libelle_agence": "Randstad Saint Laurent du Var"
+  },
+  {
+    "code_unite": "742",
+    "libelle_agence": "Randstad Saint Laurent du Var"
+  },
+  {
+    "code_unite": "794",
+    "libelle_agence": "Randstad Cannes"
+  },
+  {
+    "code_unite": "CS",
+    "libelle_agence": "Randstad Cannes"
+  },
+  {
+    "code_unite": "809",
+    "libelle_agence": "Randstad Aubagne"
+  },
+  {
+    "code_unite": "CIO",
+    "libelle_agence": "Randstad Aubagne"
+  },
+  {
+    "code_unite": "MB2",
+    "libelle_agence": "Randstad Aubagne"
+  },
+  {
+    "code_unite": "696",
+    "libelle_agence": "Randstad Aix en Provence"
+  },
+  {
+    "code_unite": "782",
+    "libelle_agence": "Randstad Aix en Provence"
+  },
+  {
+    "code_unite": "AP",
+    "libelle_agence": "Randstad Aix en Provence"
+  },
+  {
+    "code_unite": "APX",
+    "libelle_agence": "Randstad Aix en Provence"
+  },
+  {
+    "code_unite": "731",
+    "libelle_agence": "Randstad St Laurent du Var"
+  },
+  {
+    "code_unite": "NIC",
+    "libelle_agence": "Randstad St Laurent du Var"
+  },
+  {
+    "code_unite": "WG",
+    "libelle_agence": "Randstad St Laurent du Var"
+  },
+  {
+    "code_unite": "728",
+    "libelle_agence": "Randstad Marseille"
+  },
+  {
+    "code_unite": "TME",
+    "libelle_agence": "Randstad Marseille"
+  },
+  {
+    "code_unite": "VM5",
+    "libelle_agence": "Randstad Marseille"
+  },
+  {
+    "code_unite": "737",
+    "libelle_agence": "Randstad Grasse"
+  },
+  {
+    "code_unite": "RK",
+    "libelle_agence": "Randstad Grasse"
+  },
+  {
+    "code_unite": "RK3",
+    "libelle_agence": "Randstad Grasse"
+  },
+  {
+    "code_unite": "738",
+    "libelle_agence": "Randstad Toulon"
+  },
+  {
+    "code_unite": "ITN",
+    "libelle_agence": "Randstad Toulon"
+  },
+  {
+    "code_unite": "T21",
+    "libelle_agence": "Randstad Toulon"
+  },
+  {
+    "code_unite": "TN",
+    "libelle_agence": "Randstad Toulon"
+  },
+  {
+    "code_unite": "TN2",
+    "libelle_agence": "Randstad Toulon"
+  },
+  {
+    "code_unite": "VMQ",
+    "libelle_agence": "Randstad Manosque"
+  },
+  {
+    "code_unite": "RCN",
+    "libelle_agence": "Randstad Saint Laurent du Var"
+  },
+  {
+    "code_unite": "VNI",
+    "libelle_agence": "Randstad Saint Laurent du Var"
+  },
+  {
+    "code_unite": "WM",
+    "libelle_agence": "Randstad Fréjus"
+  },
+  {
+    "code_unite": "WM7",
+    "libelle_agence": "Randstad Fréjus"
+  },
+  {
+    "code_unite": "WMX",
+    "libelle_agence": "Randstad Fréjus"
+  },
+  {
+    "code_unite": "6GF",
+    "libelle_agence": "CGC WASQUEHAL"
+  },
+  {
+    "code_unite": "CCF",
+    "libelle_agence": "CGC WASQUEHAL"
+  },
+  {
+    "code_unite": "6GG",
+    "libelle_agence": "CGC REIMS"
+  },
+  {
+    "code_unite": "CCG",
+    "libelle_agence": "CGC REIMS"
+  },
+  {
+    "code_unite": "6GC",
+    "libelle_agence": "CGC PROUVY"
+  },
+  {
+    "code_unite": "CCV",
+    "libelle_agence": "CGC PROUVY"
+  },
+  {
+    "code_unite": "6GM",
+    "libelle_agence": "CGC ST MAXIMIN"
+  },
+  {
+    "code_unite": "CMX",
+    "libelle_agence": "CGC ST MAXIMIN"
+  },
+  {
+    "code_unite": "CBZ",
+    "libelle_agence": "RANDSTAD INHOUSE CBZ"
+  },
+  {
+    "code_unite": "CRE",
+    "libelle_agence": "RANDSTAD INHOUSE CRE"
+  },
+  {
+    "code_unite": "ECA",
+    "libelle_agence": "RANDSTAD INHOUSE ECA"
+  },
+  {
+    "code_unite": "EMA",
+    "libelle_agence": "RANDSTAD INHOUSE EMA"
+  },
+  {
+    "code_unite": "FSD",
+    "libelle_agence": "RANDSTAD INHOUSE FSD"
+  },
+  {
+    "code_unite": "GHM",
+    "libelle_agence": "RANDSTAD INHOUSE GHM"
+  },
+  {
+    "code_unite": "JSZ",
+    "libelle_agence": "RANDSTAD INHOUSE JSZ"
+  },
+  {
+    "code_unite": "SLG",
+    "libelle_agence": "RANDSTAD INHOUSE SLG"
+  },
+  {
+    "code_unite": "TCR",
+    "libelle_agence": "RANDSTAD INHOUSE TCR"
+  },
+  {
+    "code_unite": "VRE",
+    "libelle_agence": "RANDSTAD INHOUSE VRE"
+  },
+  {
+    "code_unite": "WTR",
+    "libelle_agence": "RANDSTAD INHOUSE WTR"
+  },
+  {
+    "code_unite": "YSA",
+    "libelle_agence": "RANDSTAD INHOUSE YSA"
+  },
+  {
+    "code_unite": "ANM",
+    "libelle_agence": "RANDSTAD INHOUSE ANM"
+  },
+  {
+    "code_unite": "CMP",
+    "libelle_agence": "RANDSTAD INHOUSE CMP"
+  },
+  {
+    "code_unite": "CNH",
+    "libelle_agence": "RANDSTAD INHOUSE CNH"
+  },
+  {
+    "code_unite": "DAM",
+    "libelle_agence": "RANDSTAD INHOUSE DAM"
+  },
+  {
+    "code_unite": "DFE",
+    "libelle_agence": "RANDSTAD INHOUSE DFE"
+  },
+  {
+    "code_unite": "FMR",
+    "libelle_agence": "RANDSTAD INHOUSE FMR"
+  },
+  {
+    "code_unite": "NLT",
+    "libelle_agence": "RANDSTAD INHOUSE NLT"
+  },
+  {
+    "code_unite": "SBG",
+    "libelle_agence": "RANDSTAD INHOUSE SBG"
+  },
+  {
+    "code_unite": "SFA",
+    "libelle_agence": "RANDSTAD INHOUSE SFA"
+  },
+  {
+    "code_unite": "WBS",
+    "libelle_agence": "RANDSTAD INHOUSE WBS"
+  },
+  {
+    "code_unite": "897",
+    "libelle_agence": "RANDSTAD INHOUSE 897"
+  },
+  {
+    "code_unite": "EAR",
+    "libelle_agence": "RANDSTAD INHOUSE EAR"
+  },
+  {
+    "code_unite": "ELV",
+    "libelle_agence": "RANDSTAD INHOUSE ELV"
+  },
+  {
+    "code_unite": "FHB",
+    "libelle_agence": "RANDSTAD INHOUSE FHB"
+  },
+  {
+    "code_unite": "FLC",
+    "libelle_agence": "RANDSTAD INHOUSE FLC"
+  },
+  {
+    "code_unite": "IML",
+    "libelle_agence": "RANDSTAD INHOUSE IML"
+  },
+  {
+    "code_unite": "LCU",
+    "libelle_agence": "RANDSTAD INHOUSE LCU"
+  },
+  {
+    "code_unite": "MOJ",
+    "libelle_agence": "RANDSTAD INHOUSE MOJ"
+  },
+  {
+    "code_unite": "RVI",
+    "libelle_agence": "RANDSTAD INHOUSE RVI"
+  },
+  {
+    "code_unite": "SIO",
+    "libelle_agence": "RANDSTAD INHOUSE SIO"
+  },
+  {
+    "code_unite": "SOD",
+    "libelle_agence": "RANDSTAD INHOUSE SOD"
+  },
+  {
+    "code_unite": "ADK",
+    "libelle_agence": "RANDSTAD INHOUSE ADK"
+  },
+  {
+    "code_unite": "AMK",
+    "libelle_agence": "RANDSTAD INHOUSE AMK"
+  },
+  {
+    "code_unite": "BST",
+    "libelle_agence": "RANDSTAD INHOUSE BST"
+  },
+  {
+    "code_unite": "CHE",
+    "libelle_agence": "RANDSTAD INHOUSE CHE"
+  },
+  {
+    "code_unite": "DBA",
+    "libelle_agence": "RANDSTAD INHOUSE DBA"
+  },
+  {
+    "code_unite": "FEB",
+    "libelle_agence": "RANDSTAD INHOUSE FEB"
+  },
+  {
+    "code_unite": "HSP",
+    "libelle_agence": "RANDSTAD INHOUSE HSP"
+  },
+  {
+    "code_unite": "ICK",
+    "libelle_agence": "RANDSTAD INHOUSE ICK"
+  },
+  {
+    "code_unite": "SCC",
+    "libelle_agence": "RANDSTAD INHOUSE SCC"
+  },
+  {
+    "code_unite": "TMI",
+    "libelle_agence": "RANDSTAD INHOUSE TMI"
+  },
+  {
+    "code_unite": "VA6",
+    "libelle_agence": "RANDSTAD INHOUSE VA6"
+  },
+  {
+    "code_unite": "VAM",
+    "libelle_agence": "RANDSTAD INHOUSE VAM"
+  },
+  {
+    "code_unite": "VE6",
+    "libelle_agence": "RANDSTAD INHOUSE VE6"
+  },
+  {
+    "code_unite": "AAN",
+    "libelle_agence": "RANDSTAD INHOUSE AAN"
+  },
+  {
+    "code_unite": "ALC",
+    "libelle_agence": "RANDSTAD INHOUSE ALC"
+  },
+  {
+    "code_unite": "APF",
+    "libelle_agence": "RANDSTAD INHOUSE APF"
+  },
+  {
+    "code_unite": "FDH",
+    "libelle_agence": "RANDSTAD INHOUSE FDH"
+  },
+  {
+    "code_unite": "ICA",
+    "libelle_agence": "RANDSTAD INHOUSE ICA"
+  },
+  {
+    "code_unite": "ICB",
+    "libelle_agence": "RANDSTAD INHOUSE ICB"
+  },
+  {
+    "code_unite": "MDE",
+    "libelle_agence": "RANDSTAD INHOUSE MDE"
+  },
+  {
+    "code_unite": "SCM",
+    "libelle_agence": "RANDSTAD INHOUSE SCM"
+  },
+  {
+    "code_unite": "SFE",
+    "libelle_agence": "RANDSTAD INHOUSE SFE"
+  },
+  {
+    "code_unite": "SRN",
+    "libelle_agence": "RANDSTAD INHOUSE SRN"
+  },
+  {
+    "code_unite": "STV",
+    "libelle_agence": "RANDSTAD INHOUSE STV"
+  },
+  {
+    "code_unite": "TON",
+    "libelle_agence": "RANDSTAD INHOUSE TON"
+  },
+  {
+    "code_unite": "6DC",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "6IN",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "GSK",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "HGD",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "HIP",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "HMB",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "LFE",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "MFE",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "SCR",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "SKF",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "TOY",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "VAO",
+    "libelle_agence": "Delivery Center"
+  },
+  {
+    "code_unite": "895",
+    "libelle_agence": "RANDSTAD INHOUSE 895"
+  },
+  {
+    "code_unite": "ABB",
+    "libelle_agence": "RANDSTAD INHOUSE ABB"
+  },
+  {
+    "code_unite": "AMV",
+    "libelle_agence": "RANDSTAD INHOUSE AMV"
+  },
+  {
+    "code_unite": "CCR",
+    "libelle_agence": "RANDSTAD INHOUSE CCR"
+  },
+  {
+    "code_unite": "CSO",
+    "libelle_agence": "RANDSTAD INHOUSE CSO"
+  },
+  {
+    "code_unite": "GCO",
+    "libelle_agence": "RANDSTAD INHOUSE GCO"
+  },
+  {
+    "code_unite": "HO2",
+    "libelle_agence": "RANDSTAD INHOUSE HO2"
+  },
+  {
+    "code_unite": "HOM",
+    "libelle_agence": "RANDSTAD INHOUSE HOM"
+  },
+  {
+    "code_unite": "ICL",
+    "libelle_agence": "RANDSTAD INHOUSE ICL"
+  },
+  {
+    "code_unite": "INB",
+    "libelle_agence": "RANDSTAD INHOUSE INB"
+  },
+  {
+    "code_unite": "LBU",
+    "libelle_agence": "RANDSTAD INHOUSE LBU"
+  },
+  {
+    "code_unite": "PIH",
+    "libelle_agence": "RANDSTAD INHOUSE PIH"
+  },
+  {
+    "code_unite": "ARF",
+    "libelle_agence": "Randstad Châlons-en-Champagne"
+  },
+  {
+    "code_unite": "BI",
+    "libelle_agence": "Randstad Beauvais"
+  },
+  {
+    "code_unite": "CM",
+    "libelle_agence": "Randstad Charleville Mézières"
+  },
+  {
+    "code_unite": "CP1",
+    "libelle_agence": "Randstad Lacroix-St-Ouen"
+  },
+  {
+    "code_unite": "CTH",
+    "libelle_agence": "Randstad Château Thierry"
+  },
+  {
+    "code_unite": "255",
+    "libelle_agence": "Randstad St Maximin"
+  },
+  {
+    "code_unite": "CX",
+    "libelle_agence": "Randstad St Maximin"
+  },
+  {
+    "code_unite": "GX",
+    "libelle_agence": "Randstad Chooz"
+  },
+  {
+    "code_unite": "JF",
+    "libelle_agence": "Randstad Saint Just en Chaussée"
+  },
+  {
+    "code_unite": "KF",
+    "libelle_agence": "Randstad Langres"
+  },
+  {
+    "code_unite": "KJ",
+    "libelle_agence": "Randstad Monthermé"
+  },
+  {
+    "code_unite": "CYI",
+    "libelle_agence": "Randstad Crépy en Valois"
+  },
+  {
+    "code_unite": "KZ",
+    "libelle_agence": "Randstad Crépy en Valois"
+  },
+  {
+    "code_unite": "KZ1",
+    "libelle_agence": "Randstad Crépy en Valois"
+  },
+  {
+    "code_unite": "NOY",
+    "libelle_agence": "Randstad Noyon"
+  },
+  {
+    "code_unite": "OR3",
+    "libelle_agence": "Randstad Onsite Reims"
+  },
+  {
+    "code_unite": "OR6",
+    "libelle_agence": "Randstad Onsite Reims"
+  },
+  {
+    "code_unite": "OSU",
+    "libelle_agence": "Randstad Onsite Reims"
+  },
+  {
+    "code_unite": "QR",
+    "libelle_agence": "Randstad Reims"
+  },
+  {
+    "code_unite": "QW",
+    "libelle_agence": "Randstad Rethel"
+  },
+  {
+    "code_unite": "REI",
+    "libelle_agence": "Randstad Reims"
+  },
+  {
+    "code_unite": "REL",
+    "libelle_agence": "Randstad Reims"
+  },
+  {
+    "code_unite": "RI2",
+    "libelle_agence": "Randstad Reims"
+  },
+  {
+    "code_unite": "CM2",
+    "libelle_agence": "Randstad Sedan"
+  },
+  {
+    "code_unite": "SA",
+    "libelle_agence": "Randstad Sedan"
+  },
+  {
+    "code_unite": "SM4",
+    "libelle_agence": "Randstad St Maximin Recrutement"
+  },
+  {
+    "code_unite": "SOI",
+    "libelle_agence": "Randstad Soissons"
+  },
+  {
+    "code_unite": "SQ",
+    "libelle_agence": "Randstad Saint Quentin"
+  },
+  {
+    "code_unite": "VCT",
+    "libelle_agence": "Randstad Saint Quentin"
+  },
+  {
+    "code_unite": "SR",
+    "libelle_agence": "Randstad Saint Dizier"
+  },
+  {
+    "code_unite": "SZ",
+    "libelle_agence": "Randstad Senlis"
+  },
+  {
+    "code_unite": "TEC",
+    "libelle_agence": "Randstad Troyes"
+  },
+  {
+    "code_unite": "TY",
+    "libelle_agence": "Randstad Troyes"
+  },
+  {
+    "code_unite": "V48",
+    "libelle_agence": "Randstad Vitry le François"
+  },
+  {
+    "code_unite": "JC",
+    "libelle_agence": "Randstad Nogent sur Seine"
+  },
+  {
+    "code_unite": "VG",
+    "libelle_agence": "Randstad Nogent sur Seine"
+  },
+  {
+    "code_unite": "VN",
+    "libelle_agence": "Randstad Vervins"
+  },
+  {
+    "code_unite": "YF",
+    "libelle_agence": "Randstad Epernay"
+  },
+  {
+    "code_unite": "YK",
+    "libelle_agence": "Randstad Méru"
+  },
+  {
+    "code_unite": "YSI",
+    "libelle_agence": "Randstad Chaumont"
+  },
+  {
+    "code_unite": "424",
+    "libelle_agence": "Randstad Lille"
+  },
+  {
+    "code_unite": "425",
+    "libelle_agence": "Randstad Lille"
+  },
+  {
+    "code_unite": "427",
+    "libelle_agence": "Randstad Lille"
+  },
+  {
+    "code_unite": "LI",
+    "libelle_agence": "Randstad Lille"
+  },
+  {
+    "code_unite": "437",
+    "libelle_agence": "Randstad Lesquin"
+  },
+  {
+    "code_unite": "P37",
+    "libelle_agence": "Randstad Lesquin"
+  },
+  {
+    "code_unite": "KA",
+    "libelle_agence": "Randstad Cambrai"
+  },
+  {
+    "code_unite": "KAL",
+    "libelle_agence": "Randstad Cambrai"
+  },
+  {
+    "code_unite": "A83",
+    "libelle_agence": "Randstad Wasquehal"
+  },
+  {
+    "code_unite": "LE",
+    "libelle_agence": "Randstad Wasquehal"
+  },
+  {
+    "code_unite": "OCA",
+    "libelle_agence": "Randstad Onsite Cambrai"
+  },
+  {
+    "code_unite": "ON1",
+    "libelle_agence": "Randstad Onsite Prouvy"
+  },
+  {
+    "code_unite": "ONN",
+    "libelle_agence": "Randstad Onsite Prouvy"
+  },
+  {
+    "code_unite": "440",
+    "libelle_agence": "Randstad Lille"
+  },
+  {
+    "code_unite": "DEH",
+    "libelle_agence": "Randstad Lille"
+  },
+  {
+    "code_unite": "RCL",
+    "libelle_agence": "Randstad Lille"
+  },
+  {
+    "code_unite": "V11",
+    "libelle_agence": "Randstad Lille"
+  },
+  {
+    "code_unite": "V18",
+    "libelle_agence": "Randstad Lille"
+  },
+  {
+    "code_unite": "V83",
+    "libelle_agence": "Randstad Douai"
+  },
+  {
+    "code_unite": "ERX",
+    "libelle_agence": "Randstad Lesquin"
+  },
+  {
+    "code_unite": "V88",
+    "libelle_agence": "Randstad Lesquin"
+  },
+  {
+    "code_unite": "VEN",
+    "libelle_agence": "Randstad Lesquin"
+  },
+  {
+    "code_unite": "VS",
+    "libelle_agence": "Randstad Valenciennes"
+  },
+  {
+    "code_unite": "VSJ",
+    "libelle_agence": "Randstad Valenciennes"
+  },
+  {
+    "code_unite": "VSN",
+    "libelle_agence": "Randstad Valenciennes"
+  },
+  {
+    "code_unite": "EYJ",
+    "libelle_agence": "Randstad Maubeuge"
+  },
+  {
+    "code_unite": "434",
+    "libelle_agence": "Randstad Lens"
+  },
+  {
+    "code_unite": "LS1",
+    "libelle_agence": "Randstad Lens"
+  },
+  {
+    "code_unite": "V16",
+    "libelle_agence": "Randstad Lens"
+  },
+  {
+    "code_unite": "A84",
+    "libelle_agence": "Randstad Saint Omer"
+  },
+  {
+    "code_unite": "ABV",
+    "libelle_agence": "Randstad Abbeville"
+  },
+  {
+    "code_unite": "AL2",
+    "libelle_agence": "Randstad Méaulte"
+  },
+  {
+    "code_unite": "AS",
+    "libelle_agence": "Randstad Amiens Rivery"
+  },
+  {
+    "code_unite": "AS1",
+    "libelle_agence": "Randstad Amiens Rivery"
+  },
+  {
+    "code_unite": "AS4",
+    "libelle_agence": "Randstad Amiens Rivery"
+  },
+  {
+    "code_unite": "AS7",
+    "libelle_agence": "Randstad Amiens Rivery"
+  },
+  {
+    "code_unite": "LAS",
+    "libelle_agence": "Randstad Amiens Rivery"
+  },
+  {
+    "code_unite": "BQ",
+    "libelle_agence": "Randstad Outreau"
+  },
+  {
+    "code_unite": "DCV",
+    "libelle_agence": "Randstad Dunkerque"
+  },
+  {
+    "code_unite": "DKT",
+    "libelle_agence": "Randstad Dunkerque"
+  },
+  {
+    "code_unite": "V19",
+    "libelle_agence": "Randstad Armentieres"
+  },
+  {
+    "code_unite": "CST",
+    "libelle_agence": "Randstad Calais"
+  },
+  {
+    "code_unite": "V84",
+    "libelle_agence": "Randstad Calais"
+  },
+  {
+    "code_unite": "V87",
+    "libelle_agence": "Randstad Hazebrouck"
+  },
+  {
+    "code_unite": "V14",
+    "libelle_agence": "Randstad Arras"
+  },
+  {
+    "code_unite": "YA",
+    "libelle_agence": "Randstad Arras"
+  },
+  {
+    "code_unite": "YC",
+    "libelle_agence": "Randstad Lens"
+  },
+  {
+    "code_unite": "8GB",
+    "libelle_agence": "CGC ORLEANS"
+  },
+  {
+    "code_unite": "CCB",
+    "libelle_agence": "CGC ORLEANS"
+  },
+  {
+    "code_unite": "8CC",
+    "libelle_agence": "CGC PETIT COURONNE"
+  },
+  {
+    "code_unite": "CCC",
+    "libelle_agence": "CGC PETIT COURONNE"
+  },
+  {
+    "code_unite": "8GM",
+    "libelle_agence": "CGC LE MANS"
+  },
+  {
+    "code_unite": "CCM",
+    "libelle_agence": "CGC LE MANS"
+  },
+  {
+    "code_unite": "8GR",
+    "libelle_agence": "CGC VIRE"
+  },
+  {
+    "code_unite": "CVR",
+    "libelle_agence": "CGC VIRE"
+  },
+  {
+    "code_unite": "OSF",
+    "libelle_agence": "RANDSTAD INHOUSE OSF"
+  },
+  {
+    "code_unite": "953",
+    "libelle_agence": "RANDSTAD INHOUSE 953"
+  },
+  {
+    "code_unite": "DFM",
+    "libelle_agence": "Delivery Center La Ferte Mace"
+  },
+  {
+    "code_unite": "EPC",
+    "libelle_agence": "RANDSTAD INHOUSE EPC"
+  },
+  {
+    "code_unite": "FMT",
+    "libelle_agence": "RANDSTAD INHOUSE FMT"
+  },
+  {
+    "code_unite": "FVI",
+    "libelle_agence": "RANDSTAD INHOUSE FVI"
+  },
+  {
+    "code_unite": "GPH",
+    "libelle_agence": "RANDSTAD INHOUSE GPH"
+  },
+  {
+    "code_unite": "KCS",
+    "libelle_agence": "RANDSTAD INHOUSE KCS"
+  },
+  {
+    "code_unite": "LSA",
+    "libelle_agence": "RANDSTAD INHOUSE LSA"
+  },
+  {
+    "code_unite": "LSL",
+    "libelle_agence": "RANDSTAD INHOUSE LSL"
+  },
+  {
+    "code_unite": "MFM",
+    "libelle_agence": "RANDSTAD INHOUSE MFM"
+  },
+  {
+    "code_unite": "MVI",
+    "libelle_agence": "RANDSTAD INHOUSE MVI"
+  },
+  {
+    "code_unite": "SCE",
+    "libelle_agence": "RANDSTAD INHOUSE SCE"
+  },
+  {
+    "code_unite": "VEO",
+    "libelle_agence": "RANDSTAD INHOUSE VEO"
+  },
+  {
+    "code_unite": "VMO",
+    "libelle_agence": "RANDSTAD INHOUSE VMO"
+  },
+  {
+    "code_unite": "XSV",
+    "libelle_agence": "RANDSTAD INHOUSE XSV"
+  },
+  {
+    "code_unite": "AS6",
+    "libelle_agence": "RANDSTAD INHOUSE AS6"
+  },
+  {
+    "code_unite": "BSA",
+    "libelle_agence": "RANDSTAD INHOUSE BSA"
+  },
+  {
+    "code_unite": "DTH",
+    "libelle_agence": "Delivery Center Sable sur Sarthe"
+  },
+  {
+    "code_unite": "ERO",
+    "libelle_agence": "RANDSTAD INHOUSE ERO"
+  },
+  {
+    "code_unite": "EVP",
+    "libelle_agence": "RANDSTAD INHOUSE EVP"
+  },
+  {
+    "code_unite": "FBR",
+    "libelle_agence": "RANDSTAD INHOUSE FBR"
+  },
+  {
+    "code_unite": "GAR",
+    "libelle_agence": "RANDSTAD INHOUSE GAR"
+  },
+  {
+    "code_unite": "GVP",
+    "libelle_agence": "RANDSTAD INHOUSE GVP"
+  },
+  {
+    "code_unite": "NAL",
+    "libelle_agence": "RANDSTAD INHOUSE NAL"
+  },
+  {
+    "code_unite": "PAR",
+    "libelle_agence": "RANDSTAD INHOUSE PAR"
+  },
+  {
+    "code_unite": "SOC",
+    "libelle_agence": "RANDSTAD INHOUSE SOC"
+  },
+  {
+    "code_unite": "TKT",
+    "libelle_agence": "RANDSTAD INHOUSE TKT"
+  },
+  {
+    "code_unite": "VNR",
+    "libelle_agence": "RANDSTAD INHOUSE VNR"
+  },
+  {
+    "code_unite": "VSU",
+    "libelle_agence": "RANDSTAD INHOUSE VSU"
+  },
+  {
+    "code_unite": "536",
+    "libelle_agence": "RANDSTAD INHOUSE 536"
+  },
+  {
+    "code_unite": "960",
+    "libelle_agence": "RANDSTAD INHOUSE 960"
+  },
+  {
+    "code_unite": "CEG",
+    "libelle_agence": "RANDSTAD INHOUSE CEG"
+  },
+  {
+    "code_unite": "CSC",
+    "libelle_agence": "RANDSTAD INHOUSE CSC"
+  },
+  {
+    "code_unite": "FTH",
+    "libelle_agence": "RANDSTAD INHOUSE FTH"
+  },
+  {
+    "code_unite": "HMO",
+    "libelle_agence": "RANDSTAD INHOUSE HMO"
+  },
+  {
+    "code_unite": "LLB",
+    "libelle_agence": "RANDSTAD INHOUSE LLB"
+  },
+  {
+    "code_unite": "PVZ",
+    "libelle_agence": "RANDSTAD INHOUSE PVZ"
+  },
+  {
+    "code_unite": "SAA",
+    "libelle_agence": "RANDSTAD INHOUSE SAA"
+  },
+  {
+    "code_unite": "SGS",
+    "libelle_agence": "RANDSTAD INHOUSE SGS"
+  },
+  {
+    "code_unite": "TJS",
+    "libelle_agence": "RANDSTAD INHOUSE TJS"
+  },
+  {
+    "code_unite": "TSB",
+    "libelle_agence": "RANDSTAD INHOUSE TSB"
+  },
+  {
+    "code_unite": "VBL",
+    "libelle_agence": "RANDSTAD INHOUSE VBL"
+  },
+  {
+    "code_unite": "COC",
+    "libelle_agence": "RANDSTAD INHOUSE COC"
+  },
+  {
+    "code_unite": "CTY",
+    "libelle_agence": "RANDSTAD INHOUSE CTY"
+  },
+  {
+    "code_unite": "PC1",
+    "libelle_agence": "Delivery Center Petit Couronne"
+  },
+  {
+    "code_unite": "PC2",
+    "libelle_agence": "Delivery Center Petit Couronne"
+  },
+  {
+    "code_unite": "ESD",
+    "libelle_agence": "RANDSTAD INHOUSE ESD"
+  },
+  {
+    "code_unite": "FLO",
+    "libelle_agence": "RANDSTAD INHOUSE FLO"
+  },
+  {
+    "code_unite": "GCH",
+    "libelle_agence": "RANDSTAD INHOUSE GCH"
+  },
+  {
+    "code_unite": "GOR",
+    "libelle_agence": "RANDSTAD INHOUSE GOR"
+  },
+  {
+    "code_unite": "IDR",
+    "libelle_agence": "RANDSTAD INHOUSE IDR"
+  },
+  {
+    "code_unite": "JDF",
+    "libelle_agence": "RANDSTAD INHOUSE JDF"
+  },
+  {
+    "code_unite": "JVR",
+    "libelle_agence": "RANDSTAD INHOUSE JVR"
+  },
+  {
+    "code_unite": "VNE",
+    "libelle_agence": "RANDSTAD INHOUSE VNE"
+  },
+  {
+    "code_unite": "VPK",
+    "libelle_agence": "RANDSTAD INHOUSE VPK"
+  },
+  {
+    "code_unite": "332",
+    "libelle_agence": "Randstad Flers"
+  },
+  {
+    "code_unite": "333",
+    "libelle_agence": "Randstad Saint Lô"
+  },
+  {
+    "code_unite": "CGM",
+    "libelle_agence": "Randstad Cherbourg"
+  },
+  {
+    "code_unite": "CN",
+    "libelle_agence": "Randstad Caen"
+  },
+  {
+    "code_unite": "CN2",
+    "libelle_agence": "Randstad Caen"
+  },
+  {
+    "code_unite": "CNX",
+    "libelle_agence": "Randstad Caen"
+  },
+  {
+    "code_unite": "CO",
+    "libelle_agence": "Randstad Caen"
+  },
+  {
+    "code_unite": "QH",
+    "libelle_agence": "Randstad Caen"
+  },
+  {
+    "code_unite": "V71",
+    "libelle_agence": "Randstad Caen"
+  },
+  {
+    "code_unite": "327",
+    "libelle_agence": "Randstad Caen"
+  },
+  {
+    "code_unite": "DOV",
+    "libelle_agence": "Agence Deauville"
+  },
+  {
+    "code_unite": "E52",
+    "libelle_agence": "Randstad Avranches"
+  },
+  {
+    "code_unite": "KE",
+    "libelle_agence": "Randstad Coutances"
+  },
+  {
+    "code_unite": "LFA",
+    "libelle_agence": "Randstad La Ferté Macé"
+  },
+  {
+    "code_unite": "LFM",
+    "libelle_agence": "Randstad La Ferté Macé"
+  },
+  {
+    "code_unite": "LX",
+    "libelle_agence": "Randstad Lisieux"
+  },
+  {
+    "code_unite": "NKG",
+    "libelle_agence": "Randstad L'Aigle"
+  },
+  {
+    "code_unite": "NZA",
+    "libelle_agence": "Randstad Alençon"
+  },
+  {
+    "code_unite": "OL2",
+    "libelle_agence": "Randstad Onsite Lisieux"
+  },
+  {
+    "code_unite": "QK",
+    "libelle_agence": "Randstad Carentan Les Marais"
+  },
+  {
+    "code_unite": "RB",
+    "libelle_agence": "Randstad Yquelon"
+  },
+  {
+    "code_unite": "YP",
+    "libelle_agence": "Randstad Vire"
+  },
+  {
+    "code_unite": "300",
+    "libelle_agence": "Randstad Le Havre"
+  },
+  {
+    "code_unite": "741",
+    "libelle_agence": "Randstad Notre Dame de Gravenchon"
+  },
+  {
+    "code_unite": "RC",
+    "libelle_agence": "Randstad Rouen"
+  },
+  {
+    "code_unite": "ROU",
+    "libelle_agence": "Randstad Rouen"
+  },
+  {
+    "code_unite": "DI2",
+    "libelle_agence": "Randstad Dieppe"
+  },
+  {
+    "code_unite": "DIE",
+    "libelle_agence": "Randstad Dieppe"
+  },
+  {
+    "code_unite": "E27",
+    "libelle_agence": "Randstad Evreux"
+  },
+  {
+    "code_unite": "EX",
+    "libelle_agence": "Randstad Evreux"
+  },
+  {
+    "code_unite": "FX",
+    "libelle_agence": "Randstad Notre Dame De Gravenchon"
+  },
+  {
+    "code_unite": "301",
+    "libelle_agence": "Randstad Le Havre"
+  },
+  {
+    "code_unite": "IB",
+    "libelle_agence": "Randstad Le Havre"
+  },
+  {
+    "code_unite": "LHX",
+    "libelle_agence": "Randstad Le Havre"
+  },
+  {
+    "code_unite": "OC1",
+    "libelle_agence": "Randstad Onsite Petit Couronne"
+  },
+  {
+    "code_unite": "OC2",
+    "libelle_agence": "Randstad Onsite Petit Couronne"
+  },
+  {
+    "code_unite": "OS3",
+    "libelle_agence": "Randstad Onsite Petit Couronne"
+  },
+  {
+    "code_unite": "344",
+    "libelle_agence": "Randstad Rouen"
+  },
+  {
+    "code_unite": "PR",
+    "libelle_agence": "Randstad Pont Audemer"
+  },
+  {
+    "code_unite": "PSP",
+    "libelle_agence": "Randstad Pitres"
+  },
+  {
+    "code_unite": "QG",
+    "libelle_agence": "Randstad Gisors"
+  },
+  {
+    "code_unite": "N51",
+    "libelle_agence": "Randstad Rouen Petit Couronne"
+  },
+  {
+    "code_unite": "RG",
+    "libelle_agence": "Randstad Rouen Petit Couronne"
+  },
+  {
+    "code_unite": "SV1",
+    "libelle_agence": "Randstad Rouen Petit Couronne"
+  },
+  {
+    "code_unite": "RY",
+    "libelle_agence": "Randstad Barentin"
+  },
+  {
+    "code_unite": "RYI",
+    "libelle_agence": "Randstad Barentin"
+  },
+  {
+    "code_unite": "LH",
+    "libelle_agence": "Randstad Cléon"
+  },
+  {
+    "code_unite": "YG",
+    "libelle_agence": "Randstad Cléon"
+  },
+  {
+    "code_unite": "YI",
+    "libelle_agence": "Randstad Val de Reuil"
+  },
+  {
+    "code_unite": "YIE",
+    "libelle_agence": "Randstad Val de Reuil"
+  },
+  {
+    "code_unite": "YO",
+    "libelle_agence": "Randstad Vernon"
+  },
+  {
+    "code_unite": "YZ",
+    "libelle_agence": "Randstad Eu"
+  },
+  {
+    "code_unite": "136",
+    "libelle_agence": "Randstad Amboise"
+  },
+  {
+    "code_unite": "AM6",
+    "libelle_agence": "Randstad Amboise"
+  },
+  {
+    "code_unite": "860",
+    "libelle_agence": "Randstad Tours"
+  },
+  {
+    "code_unite": "921",
+    "libelle_agence": "Randstad Blois"
+  },
+  {
+    "code_unite": "BL",
+    "libelle_agence": "Randstad Blois"
+  },
+  {
+    "code_unite": "FR",
+    "libelle_agence": "Randstad La ferté Bernard"
+  },
+  {
+    "code_unite": "IJA",
+    "libelle_agence": "Randstad Sablé sur Sarthe"
+  },
+  {
+    "code_unite": "JA",
+    "libelle_agence": "Randstad Sablé sur Sarthe"
+  },
+  {
+    "code_unite": "JR",
+    "libelle_agence": "Randstad Romorantin Lanthenay"
+  },
+  {
+    "code_unite": "421",
+    "libelle_agence": "Randstad Le Mans"
+  },
+  {
+    "code_unite": "LM1",
+    "libelle_agence": "Randstad Le Mans"
+  },
+  {
+    "code_unite": "LME",
+    "libelle_agence": "Randstad Le Mans"
+  },
+  {
+    "code_unite": "OS4",
+    "libelle_agence": "Randstad Onsite La Ferte Bernard"
+  },
+  {
+    "code_unite": "OSB",
+    "libelle_agence": "Randstad Onsite La Ferte Bernard"
+  },
+  {
+    "code_unite": "QJ",
+    "libelle_agence": "Randstad Le Mans"
+  },
+  {
+    "code_unite": "QU",
+    "libelle_agence": "Randstad Le Mans"
+  },
+  {
+    "code_unite": "TDI",
+    "libelle_agence": "Randstad Tours"
+  },
+  {
+    "code_unite": "TO",
+    "libelle_agence": "Randstad Tours"
+  },
+  {
+    "code_unite": "LTO",
+    "libelle_agence": "Randstad Tours"
+  },
+  {
+    "code_unite": "TOG",
+    "libelle_agence": "Randstad Tours"
+  },
+  {
+    "code_unite": "VV",
+    "libelle_agence": "Randstad Vendôme"
+  },
+  {
+    "code_unite": "108",
+    "libelle_agence": "Randstad Buzançais"
+  },
+  {
+    "code_unite": "EDX",
+    "libelle_agence": "Randstad Dreux"
+  },
+  {
+    "code_unite": "BG",
+    "libelle_agence": "Randstad Bourges"
+  },
+  {
+    "code_unite": "CHL",
+    "libelle_agence": "Randstad Orléans"
+  },
+  {
+    "code_unite": "IOR",
+    "libelle_agence": "Randstad Orléans"
+  },
+  {
+    "code_unite": "V32",
+    "libelle_agence": "Randstad Orléans"
+  },
+  {
+    "code_unite": "817",
+    "libelle_agence": "Randstad Chartres"
+  },
+  {
+    "code_unite": "CT",
+    "libelle_agence": "Randstad Chartres"
+  },
+  {
+    "code_unite": "CT3",
+    "libelle_agence": "Randstad Chartres"
+  },
+  {
+    "code_unite": "CD",
+    "libelle_agence": "Randstad Châteauroux St Maur"
+  },
+  {
+    "code_unite": "E29",
+    "libelle_agence": "Randstad Châteauroux St Maur"
+  },
+  {
+    "code_unite": "IE",
+    "libelle_agence": "Randstad Gien"
+  },
+  {
+    "code_unite": "IF",
+    "libelle_agence": "Randstad Châteaudun"
+  },
+  {
+    "code_unite": "MK",
+    "libelle_agence": "Randstad Montargis"
+  },
+  {
+    "code_unite": "DEO",
+    "libelle_agence": "Randstad Onsite Orléans"
+  },
+  {
+    "code_unite": "OSG",
+    "libelle_agence": "Randstad Onsite Orléans"
+  },
+  {
+    "code_unite": "OSV",
+    "libelle_agence": "Randstad Onsite Orléans"
+  },
+  {
+    "code_unite": "SUL",
+    "libelle_agence": "Randstad Sully sur Loire"
+  },
+  {
+    "code_unite": "VIE",
+    "libelle_agence": "Randstad Vierzon"
+  },
+  {
+    "code_unite": "9GA",
+    "libelle_agence": "CGC CLERMONT FERRAND"
+  },
+  {
+    "code_unite": "CAU",
+    "libelle_agence": "CGC CLERMONT FERRAND"
+  },
+  {
+    "code_unite": "9GH",
+    "libelle_agence": "CGC PESSAC"
+  },
+  {
+    "code_unite": "CCH",
+    "libelle_agence": "CGC PESSAC"
+  },
+  {
+    "code_unite": "9GW",
+    "libelle_agence": "CGC POITIERS"
+  },
+  {
+    "code_unite": "CCW",
+    "libelle_agence": "CGC POITIERS"
+  },
+  {
+    "code_unite": "9GM",
+    "libelle_agence": "CGC MONT DE MARSAN"
+  },
+  {
+    "code_unite": "CMM",
+    "libelle_agence": "CGC MONT DE MARSAN"
+  },
+  {
+    "code_unite": "9GU",
+    "libelle_agence": "CGC TULLE"
+  },
+  {
+    "code_unite": "CTU",
+    "libelle_agence": "CGC TULLE"
+  },
+  {
+    "code_unite": "AAY",
+    "libelle_agence": "RANDSTAD INHOUSE AAY"
+  },
+  {
+    "code_unite": "ICY",
+    "libelle_agence": "RANDSTAD INHOUSE AAY"
+  },
+  {
+    "code_unite": "ACT",
+    "libelle_agence": "RANDSTAD INHOUSE ACT"
+  },
+  {
+    "code_unite": "AIA",
+    "libelle_agence": "RANDSTAD INHOUSE AIA"
+  },
+  {
+    "code_unite": "CBO",
+    "libelle_agence": "RANDSTAD INHOUSE CBO"
+  },
+  {
+    "code_unite": "DEL",
+    "libelle_agence": "RANDSTAD INHOUSE DEL"
+  },
+  {
+    "code_unite": "FCV",
+    "libelle_agence": "RANDSTAD INHOUSE FCV"
+  },
+  {
+    "code_unite": "HRO",
+    "libelle_agence": "RANDSTAD INHOUSE HRO"
+  },
+  {
+    "code_unite": "KPO",
+    "libelle_agence": "RANDSTAD INHOUSE KPO"
+  },
+  {
+    "code_unite": "LPA",
+    "libelle_agence": "RANDSTAD INHOUSE LPA"
+  },
+  {
+    "code_unite": "SMI",
+    "libelle_agence": "RANDSTAD INHOUSE SMI"
+  },
+  {
+    "code_unite": "TSL",
+    "libelle_agence": "RANDSTAD INHOUSE TSL"
+  },
+  {
+    "code_unite": "VC6",
+    "libelle_agence": "RANDSTAD INHOUSE VC6"
+  },
+  {
+    "code_unite": "DCM",
+    "libelle_agence": "RANDSTAD INHOUSE DCM"
+  },
+  {
+    "code_unite": "DVO",
+    "libelle_agence": "RANDSTAD INHOUSE DVO"
+  },
+  {
+    "code_unite": "JSB",
+    "libelle_agence": "RANDSTAD INHOUSE JSB"
+  },
+  {
+    "code_unite": "PS9",
+    "libelle_agence": "RANDSTAD INHOUSE PS9"
+  },
+  {
+    "code_unite": "VIS",
+    "libelle_agence": "RANDSTAD INHOUSE VIS"
+  },
+  {
+    "code_unite": "VLI",
+    "libelle_agence": "RANDSTAD INHOUSE VLI"
+  },
+  {
+    "code_unite": "VLU",
+    "libelle_agence": "RANDSTAD INHOUSE VLU"
+  },
+  {
+    "code_unite": "VS6",
+    "libelle_agence": "RANDSTAD INHOUSE VS6"
+  },
+  {
+    "code_unite": "BAC",
+    "libelle_agence": "RANDSTAD INHOUSE BAC"
+  },
+  {
+    "code_unite": "CLU",
+    "libelle_agence": "RANDSTAD INHOUSE CLU"
+  },
+  {
+    "code_unite": "DLC",
+    "libelle_agence": "RANDSTAD INHOUSE DLC"
+  },
+  {
+    "code_unite": "FJU",
+    "libelle_agence": "RANDSTAD INHOUSE FJU"
+  },
+  {
+    "code_unite": "FSA",
+    "libelle_agence": "RANDSTAD INHOUSE FSA"
+  },
+  {
+    "code_unite": "FVA",
+    "libelle_agence": "RANDSTAD INHOUSE FVA"
+  },
+  {
+    "code_unite": "SGM",
+    "libelle_agence": "RANDSTAD INHOUSE SGM"
+  },
+  {
+    "code_unite": "849",
+    "libelle_agence": "Randstad Bordeaux"
+  },
+  {
+    "code_unite": "854",
+    "libelle_agence": "Randstad Bordeaux"
+  },
+  {
+    "code_unite": "BAA",
+    "libelle_agence": "Randstad Bordeaux"
+  },
+  {
+    "code_unite": "BRD",
+    "libelle_agence": "Randstad Pompignac"
+  },
+  {
+    "code_unite": "BRX",
+    "libelle_agence": "Randstad Pompignac"
+  },
+  {
+    "code_unite": "GDX",
+    "libelle_agence": "Randstad Pessac"
+  },
+  {
+    "code_unite": "GH",
+    "libelle_agence": "Randstad Pessac"
+  },
+  {
+    "code_unite": "ZN",
+    "libelle_agence": "Randstad Pessac"
+  },
+  {
+    "code_unite": "HN",
+    "libelle_agence": "Randstad Bergerac"
+  },
+  {
+    "code_unite": "BIG",
+    "libelle_agence": "Randstad Biganos"
+  },
+  {
+    "code_unite": "LBA",
+    "libelle_agence": "Randstad Biganos"
+  },
+  {
+    "code_unite": "DY",
+    "libelle_agence": "Randstad Pessac"
+  },
+  {
+    "code_unite": "LPC",
+    "libelle_agence": "Randstad Pessac"
+  },
+  {
+    "code_unite": "MAR",
+    "libelle_agence": "Randstad Marmande"
+  },
+  {
+    "code_unite": "MG",
+    "libelle_agence": "Randstad Agen"
+  },
+  {
+    "code_unite": "OB2",
+    "libelle_agence": "Randstad Onsite Pompignac"
+  },
+  {
+    "code_unite": "OBO",
+    "libelle_agence": "Randstad Onsite Pessac"
+  },
+  {
+    "code_unite": "OSQ",
+    "libelle_agence": "Randstad Onsite Pessac"
+  },
+  {
+    "code_unite": "PSX",
+    "libelle_agence": "Pôle Sourcing Bordeaux"
+  },
+  {
+    "code_unite": "RBX",
+    "libelle_agence": "Randstad Pessac"
+  },
+  {
+    "code_unite": "786",
+    "libelle_agence": "Randstad Pessac"
+  },
+  {
+    "code_unite": "804",
+    "libelle_agence": "Randstad Pessac"
+  },
+  {
+    "code_unite": "TBO",
+    "libelle_agence": "Randstad Pessac"
+  },
+  {
+    "code_unite": "TGH",
+    "libelle_agence": "Randstad Pessac"
+  },
+  {
+    "code_unite": "XV",
+    "libelle_agence": "Randstad Villeneuve sur Lot"
+  },
+  {
+    "code_unite": "XV2",
+    "libelle_agence": "Randstad Villeneuve sur Lot"
+  },
+  {
+    "code_unite": "ZB",
+    "libelle_agence": "Randstad Langon"
+  },
+  {
+    "code_unite": "ZG",
+    "libelle_agence": "Randstad Les Billaux"
+  },
+  {
+    "code_unite": "ZJ",
+    "libelle_agence": "Randstad Périgueux"
+  },
+  {
+    "code_unite": "693",
+    "libelle_agence": "Randstad Clermont Ferrand"
+  },
+  {
+    "code_unite": "AUR",
+    "libelle_agence": "Randstad Aurillac"
+  },
+  {
+    "code_unite": "BC",
+    "libelle_agence": "Randstad Brive la Gaillarde"
+  },
+  {
+    "code_unite": "698",
+    "libelle_agence": "Randstad Clermont Ferrand"
+  },
+  {
+    "code_unite": "CF",
+    "libelle_agence": "Randstad Clermont Ferrand"
+  },
+  {
+    "code_unite": "TCF",
+    "libelle_agence": "Randstad Clermont Ferrand"
+  },
+  {
+    "code_unite": "ICF",
+    "libelle_agence": "Randstad Clermont Ferrand"
+  },
+  {
+    "code_unite": "JI",
+    "libelle_agence": "Randstad Issoire"
+  },
+  {
+    "code_unite": "JT",
+    "libelle_agence": "Randstad Guéret"
+  },
+  {
+    "code_unite": "LG",
+    "libelle_agence": "Randstad Limoges"
+  },
+  {
+    "code_unite": "MCF",
+    "libelle_agence": "Randstad Clermont Ferrand"
+  },
+  {
+    "code_unite": "MY",
+    "libelle_agence": "Randstad Montluçon"
+  },
+  {
+    "code_unite": "NV2",
+    "libelle_agence": "Randstad Moulins"
+  },
+  {
+    "code_unite": "NVM",
+    "libelle_agence": "Randstad Moulins"
+  },
+  {
+    "code_unite": "OB3",
+    "libelle_agence": "Randstad Onsite Brive La Gaillarde"
+  },
+  {
+    "code_unite": "OCF",
+    "libelle_agence": "Randstad Onsite Clermont Ferrand"
+  },
+  {
+    "code_unite": "OI1",
+    "libelle_agence": "Randstad Onsite Issoire"
+  },
+  {
+    "code_unite": "OR8",
+    "libelle_agence": "Randstad Onsite Riom"
+  },
+  {
+    "code_unite": "SJ",
+    "libelle_agence": "Randstad Saint Junien"
+  },
+  {
+    "code_unite": "THI",
+    "libelle_agence": "Randstad Thiers"
+  },
+  {
+    "code_unite": "TUL",
+    "libelle_agence": "Randstad Tulle"
+  },
+  {
+    "code_unite": "USS",
+    "libelle_agence": "Randstad Ussel"
+  },
+  {
+    "code_unite": "VY",
+    "libelle_agence": "Randstad Vichy"
+  },
+  {
+    "code_unite": "AE",
+    "libelle_agence": "Randstad Angoulème Soyaux"
+  },
+  {
+    "code_unite": "AE1",
+    "libelle_agence": "Randstad Angoulème Soyaux"
+  },
+  {
+    "code_unite": "AE2",
+    "libelle_agence": "Randstad Angoulème Soyaux"
+  },
+  {
+    "code_unite": "AJO",
+    "libelle_agence": "Randstad Jonzac"
+  },
+  {
+    "code_unite": "AT",
+    "libelle_agence": "Randstad Royan Vaux Sur Mer"
+  },
+  {
+    "code_unite": "AT2",
+    "libelle_agence": "Randstad Royan Vaux Sur Mer"
+  },
+  {
+    "code_unite": "NB",
+    "libelle_agence": "Randstad Saintes"
+  },
+  {
+    "code_unite": "CCX",
+    "libelle_agence": "Randstad Onsite Poitiers"
+  },
+  {
+    "code_unite": "OP1",
+    "libelle_agence": "Randstad Onsite Poitiers"
+  },
+  {
+    "code_unite": "OP2",
+    "libelle_agence": "Randstad Onsite Poitiers"
+  },
+  {
+    "code_unite": "OP3",
+    "libelle_agence": "Randstad Onsite Poitiers"
+  },
+  {
+    "code_unite": "CDP",
+    "libelle_agence": "Randstad Chasseneuil du Poitou"
+  },
+  {
+    "code_unite": "CW",
+    "libelle_agence": "Randstad Châtellerault"
+  },
+  {
+    "code_unite": "BLR",
+    "libelle_agence": "Randstad La Rochelle Lagord"
+  },
+  {
+    "code_unite": "ELA",
+    "libelle_agence": "Randstad La Rochelle Lagord"
+  },
+  {
+    "code_unite": "LA",
+    "libelle_agence": "Randstad La Rochelle Lagord"
+  },
+  {
+    "code_unite": "PB",
+    "libelle_agence": "Randstad Poitiers St Benoit"
+  },
+  {
+    "code_unite": "V79",
+    "libelle_agence": "Randstad Niort"
+  },
+  {
+    "code_unite": "V94",
+    "libelle_agence": "Randstad Parthenay"
+  },
+  {
+    "code_unite": "PPF",
+    "libelle_agence": "Randstad Poitiers"
+  },
+  {
+    "code_unite": "V95",
+    "libelle_agence": "Randstad Poitiers"
+  },
+  {
+    "code_unite": "ZD",
+    "libelle_agence": "Randstad Cognac Chateaubernard"
+  },
+  {
+    "code_unite": "IZN",
+    "libelle_agence": "Randstad Rochefort"
+  },
+  {
+    "code_unite": "JZW",
+    "libelle_agence": "Randstad Bressuire"
+  },
+  {
+    "code_unite": "ZW",
+    "libelle_agence": "Randstad Bressuire"
+  },
+  {
+    "code_unite": "ACR",
+    "libelle_agence": "Randstad Saint Céré"
+  },
+  {
+    "code_unite": "QB",
+    "libelle_agence": "Randstad Saint Céré"
+  },
+  {
+    "code_unite": "AR",
+    "libelle_agence": "Randstad Auch"
+  },
+  {
+    "code_unite": "AR3",
+    "libelle_agence": "Randstad Auch"
+  },
+  {
+    "code_unite": "PAX",
+    "libelle_agence": "Randstad Bayonne"
+  },
+  {
+    "code_unite": "TA2",
+    "libelle_agence": "Randstad Bayonne"
+  },
+  {
+    "code_unite": "TAR",
+    "libelle_agence": "Randstad Bayonne"
+  },
+  {
+    "code_unite": "BE4",
+    "libelle_agence": "Randstad Bayonne"
+  },
+  {
+    "code_unite": "FCE",
+    "libelle_agence": "Randstad Figeac"
+  },
+  {
+    "code_unite": "FIG",
+    "libelle_agence": "Randstad Figeac"
+  },
+  {
+    "code_unite": "HAU",
+    "libelle_agence": "Randstad Mont de Marsan"
+  },
+  {
+    "code_unite": "MDM",
+    "libelle_agence": "Randstad Mont de Marsan"
+  },
+  {
+    "code_unite": "LOU",
+    "libelle_agence": "Randstad Tarbes"
+  },
+  {
+    "code_unite": "TC",
+    "libelle_agence": "Randstad Tarbes"
+  },
+  {
+    "code_unite": "MIM",
+    "libelle_agence": "Randstad Mimizan"
+  },
+  {
+    "code_unite": "IMM",
+    "libelle_agence": "Randstad Montauban"
+  },
+  {
+    "code_unite": "MM",
+    "libelle_agence": "Randstad Montauban"
+  },
+  {
+    "code_unite": "ORT",
+    "libelle_agence": "Randstad Orthez"
+  },
+  {
+    "code_unite": "PA4",
+    "libelle_agence": "Randstad Pau"
+  },
+  {
+    "code_unite": "ZQ",
+    "libelle_agence": "Randstad Dax"
+  },
+  {
+    "code_unite": "ZQ2",
+    "libelle_agence": "Randstad Dax"
+  },
+  {
+    "code_unite": "CSJ",
+    "libelle_agence": "Cellule Sourcing JBM"
+  },
+  {
+    "code_unite": "J02",
+    "libelle_agence": "Agence de Paris"
+  },
+  {
+    "code_unite": "J03",
+    "libelle_agence": "Agence de Paris diffus"
+  },
+  {
+    "code_unite": "J06",
+    "libelle_agence": "Agence de Paris"
+  },
+  {
+    "code_unite": "J07",
+    "libelle_agence": "Ag JBM de Paris"
+  },
+  {
+    "code_unite": "J09",
+    "libelle_agence": "Agence de Paris"
+  },
+  {
+    "code_unite": "J2P",
+    "libelle_agence": "Ag JBM Placement"
+  },
+  {
+    "code_unite": "JED",
+    "libelle_agence": "JBM Enfance Diffus"
+  },
+  {
+    "code_unite": "JKN",
+    "libelle_agence": "Agence Jbm Seine et Marne"
+  },
+  {
+    "code_unite": "JLI",
+    "libelle_agence": "JBM Lille"
+  },
+  {
+    "code_unite": "JPE",
+    "libelle_agence": "Agence Petite Enfance"
+  },
+  {
+    "code_unite": "JPL",
+    "libelle_agence": "Agence de Paris Placement"
+  },
+  {
+    "code_unite": "JPR",
+    "libelle_agence": "Agence Paris Premium"
+  },
+  {
+    "code_unite": "JRM",
+    "libelle_agence": "Jbm Remplacement Médecins"
+  },
+  {
+    "code_unite": "JSE",
+    "libelle_agence": "Jbm Socio Educatif"
+  },
+  {
+    "code_unite": "JSP",
+    "libelle_agence": "Agence de Paris Spécialités"
+  },
+  {
+    "code_unite": "JVE",
+    "libelle_agence": "JBM Vétérinaire"
+  },
+  {
+    "code_unite": "JVM",
+    "libelle_agence": "JBM_VAC TT MEDECINS"
+  },
+  {
+    "code_unite": "JAX",
+    "libelle_agence": "JBM Aix en Provence"
+  },
+  {
+    "code_unite": "JLY",
+    "libelle_agence": "Agence JBM Lyon"
+  },
+  {
+    "code_unite": "JMP",
+    "libelle_agence": "Agence JBM Montpellier"
+  },
+  {
+    "code_unite": "PEJ",
+    "libelle_agence": "Permanence JBM"
+  },
+  {
+    "code_unite": "84",
+    "libelle_agence": "Agence de Lyon Cpta Fi"
+  },
+  {
+    "code_unite": "D14",
+    "libelle_agence": "Agce Lyon Recrut ENG"
+  },
+  {
+    "code_unite": "D85",
+    "libelle_agence": "Agce Lyon Recrut ENG"
+  },
+  {
+    "code_unite": "D87",
+    "libelle_agence": "Agce Lyon Recrut ENG"
+  },
+  {
+    "code_unite": "D63",
+    "libelle_agence": "Agence de Valence Eng"
+  },
+  {
+    "code_unite": "K05",
+    "libelle_agence": "Agence de Lyon I Mkting & Cial"
+  },
+  {
+    "code_unite": "K22",
+    "libelle_agence": "Agence de Grenoble Cpta Fi"
+  },
+  {
+    "code_unite": "O22",
+    "libelle_agence": "Agence de Grenoble Cpta Fi"
+  },
+  {
+    "code_unite": "O57",
+    "libelle_agence": "Agence d'Annecy-le-Vieux CF"
+  },
+  {
+    "code_unite": "U67",
+    "libelle_agence": "Agence d'Annecy-le-Vieux CF"
+  },
+  {
+    "code_unite": "O63",
+    "libelle_agence": "Ag Lyon Expectra"
+  },
+  {
+    "code_unite": "S63",
+    "libelle_agence": "Ag Lyon Expectra"
+  },
+  {
+    "code_unite": "U63",
+    "libelle_agence": "Ag Lyon Expectra"
+  },
+  {
+    "code_unite": "O60",
+    "libelle_agence": "Agence RH Paie Lyon"
+  },
+  {
+    "code_unite": "O84",
+    "libelle_agence": "Agence RH Paie Lyon"
+  },
+  {
+    "code_unite": "D64",
+    "libelle_agence": "Agence de Lyon II"
+  },
+  {
+    "code_unite": "S14",
+    "libelle_agence": "Agence de Lyon II"
+  },
+  {
+    "code_unite": "S22",
+    "libelle_agence": "Agence de Grenoble IT"
+  },
+  {
+    "code_unite": "S42",
+    "libelle_agence": "Agence de Lyon IT"
+  },
+  {
+    "code_unite": "D37",
+    "libelle_agence": "Agence de Lyon II Eng"
+  },
+  {
+    "code_unite": "U14",
+    "libelle_agence": "Agence de Lyon II Eng"
+  },
+  {
+    "code_unite": "D82",
+    "libelle_agence": "Agence de Grenoble Eng"
+  },
+  {
+    "code_unite": "U22",
+    "libelle_agence": "Agence de Grenoble Eng"
+  },
+  {
+    "code_unite": "U23",
+    "libelle_agence": "Agence de Grenoble Eng 2"
+  },
+  {
+    "code_unite": "U64",
+    "libelle_agence": "Agence Logistique SC Lyon"
+  },
+  {
+    "code_unite": "U37",
+    "libelle_agence": "Agence de Lyon IV Eng"
+  },
+  {
+    "code_unite": "U60",
+    "libelle_agence": "Agence de Lyon IV Eng"
+  },
+  {
+    "code_unite": "U84",
+    "libelle_agence": "Agence de Lyon IV Eng"
+  },
+  {
+    "code_unite": "ULY",
+    "libelle_agence": "Agence de Lyon I Eng"
+  },
+  {
+    "code_unite": "BUA",
+    "libelle_agence": "Agence grands comptes"
+  },
+  {
+    "code_unite": "O56",
+    "libelle_agence": "Agence de Massy CF"
+  },
+  {
+    "code_unite": "O66",
+    "libelle_agence": "Agence de Massy CF"
+  },
+  {
+    "code_unite": "U66",
+    "libelle_agence": "Agence de Massy CF"
+  },
+  {
+    "code_unite": "PS",
+    "libelle_agence": "Agence Paris Banque-Assurance"
+  },
+  {
+    "code_unite": "S12",
+    "libelle_agence": "Agence Agility"
+  },
+  {
+    "code_unite": "U10",
+    "libelle_agence": "Agence Paris Eng 3"
+  },
+  {
+    "code_unite": "U33",
+    "libelle_agence": "Ag de Cergy ENG2"
+  },
+  {
+    "code_unite": "U29",
+    "libelle_agence": "Agence de Nantes Naval"
+  },
+  {
+    "code_unite": "U39",
+    "libelle_agence": "Agence de Nantes Naval"
+  },
+  {
+    "code_unite": "U40",
+    "libelle_agence": "Agence de Toulouse Aéro et Spatial"
+  },
+  {
+    "code_unite": "U41",
+    "libelle_agence": "Agence d'Aix Aéro"
+  },
+  {
+    "code_unite": "U47",
+    "libelle_agence": "Agence GC Aéro Défense et Spatial"
+  },
+  {
+    "code_unite": "U57",
+    "libelle_agence": "Agence de Toulouse Aéro 2"
+  },
+  {
+    "code_unite": "U87",
+    "libelle_agence": "Agence GC Aéro Défense & Spatial 2"
+  },
+  {
+    "code_unite": "A12",
+    "libelle_agence": "Agence de Toulouse Cial et Mtking"
+  },
+  {
+    "code_unite": "D49",
+    "libelle_agence": "Agence de Toulouse Cial et Mtking"
+  },
+  {
+    "code_unite": "D20",
+    "libelle_agence": "Ag recrutement CF Bordeaux"
+  },
+  {
+    "code_unite": "D29",
+    "libelle_agence": "Ag recrutement CF Bordeaux"
+  },
+  {
+    "code_unite": "D53",
+    "libelle_agence": "Ag recrutement CF Bordeaux"
+  },
+  {
+    "code_unite": "D60",
+    "libelle_agence": "Ag Recrut BI/Réseaux&Sécu Bordeaux"
+  },
+  {
+    "code_unite": "D62",
+    "libelle_agence": "Ag Nantes Recrut Commerce et MKTG"
+  },
+  {
+    "code_unite": "D89",
+    "libelle_agence": "Ag perm Bordeaux ENG"
+  },
+  {
+    "code_unite": "D52",
+    "libelle_agence": "Agence de Toulouse Cpta Fi"
+  },
+  {
+    "code_unite": "O12",
+    "libelle_agence": "Agence de Toulouse Cpta Fi"
+  },
+  {
+    "code_unite": "K20",
+    "libelle_agence": "Agence de Bordeaux MaS"
+  },
+  {
+    "code_unite": "O20",
+    "libelle_agence": "Agence de Bordeaux MaS"
+  },
+  {
+    "code_unite": "D12",
+    "libelle_agence": "Agence de Toulouse Cpta Fi2"
+  },
+  {
+    "code_unite": "O52",
+    "libelle_agence": "Agence de Toulouse Cpta Fi2"
+  },
+  {
+    "code_unite": "O54",
+    "libelle_agence": "Agence de Bordeaux Cpta Fi 2"
+  },
+  {
+    "code_unite": "O70",
+    "libelle_agence": "Agence de Biarritz Finance"
+  },
+  {
+    "code_unite": "O81",
+    "libelle_agence": "Agence de Rodez Finance"
+  },
+  {
+    "code_unite": "S20",
+    "libelle_agence": "Agence de Bordeaux"
+  },
+  {
+    "code_unite": "S38",
+    "libelle_agence": "Agence de Toulouse IT 2"
+  },
+  {
+    "code_unite": "S41",
+    "libelle_agence": "Agence de Toulouse IT"
+  },
+  {
+    "code_unite": "S70",
+    "libelle_agence": "Agence de Biarritz Technologies"
+  },
+  {
+    "code_unite": "D72",
+    "libelle_agence": "Agence de Toulouse Eng"
+  },
+  {
+    "code_unite": "U12",
+    "libelle_agence": "Agence de Toulouse Eng"
+  },
+  {
+    "code_unite": "U72",
+    "libelle_agence": "Agence de Toulouse Eng"
+  },
+  {
+    "code_unite": "D69",
+    "libelle_agence": "Agence de Bordeaux Eng"
+  },
+  {
+    "code_unite": "U20",
+    "libelle_agence": "Agence de Bordeaux Eng"
+  },
+  {
+    "code_unite": "U50",
+    "libelle_agence": "Agence de Bordeaux Eng"
+  },
+  {
+    "code_unite": "U38",
+    "libelle_agence": "Agence de Toulouse Eng 2"
+  },
+  {
+    "code_unite": "U70",
+    "libelle_agence": "Agence de Biarritz Industrie"
+  },
+  {
+    "code_unite": "U81",
+    "libelle_agence": "Agence de Rodez Industrie"
+  },
+  {
+    "code_unite": "K13",
+    "libelle_agence": "Agence d'Aix en Provence C&M"
+  },
+  {
+    "code_unite": "KME",
+    "libelle_agence": "Ag. de Marseille Cial et Marketing"
+  },
+  {
+    "code_unite": "ME",
+    "libelle_agence": "Agence de Marseille"
+  },
+  {
+    "code_unite": "O41",
+    "libelle_agence": "Agence d'Aix en Provence Cpta Fi"
+  },
+  {
+    "code_unite": "S13",
+    "libelle_agence": "Agence d'Aix en Provence"
+  },
+  {
+    "code_unite": "D74",
+    "libelle_agence": "Agence de Montpellier"
+  },
+  {
+    "code_unite": "O34",
+    "libelle_agence": "Agence de Montpellier"
+  },
+  {
+    "code_unite": "S34",
+    "libelle_agence": "Agence de Montpellier"
+  },
+  {
+    "code_unite": "U34",
+    "libelle_agence": "Agence de Montpellier"
+  },
+  {
+    "code_unite": "D13",
+    "libelle_agence": "Agence d'Aix en Provence Eng"
+  },
+  {
+    "code_unite": "U13",
+    "libelle_agence": "Agence d'Aix en Provence Eng"
+  },
+  {
+    "code_unite": "O19",
+    "libelle_agence": "Agence de Sophia"
+  },
+  {
+    "code_unite": "S19",
+    "libelle_agence": "Agence de Sophia"
+  },
+  {
+    "code_unite": "U19",
+    "libelle_agence": "Agence de Sophia"
+  },
+  {
+    "code_unite": "UME",
+    "libelle_agence": "Agence de Marseille Eng"
+  },
+  {
+    "code_unite": "K25",
+    "libelle_agence": "Agence C&M Metz"
+  },
+  {
+    "code_unite": "S79",
+    "libelle_agence": "Agence C&M Metz"
+  },
+  {
+    "code_unite": "D24",
+    "libelle_agence": "Agence de Strasbourg Cpta Fi"
+  },
+  {
+    "code_unite": "O24",
+    "libelle_agence": "Agence de Strasbourg Cpta Fi"
+  },
+  {
+    "code_unite": "O25",
+    "libelle_agence": "Agence de Metz"
+  },
+  {
+    "code_unite": "O55",
+    "libelle_agence": "Agence de Metz"
+  },
+  {
+    "code_unite": "K31",
+    "libelle_agence": "Agence de Dijon"
+  },
+  {
+    "code_unite": "O31",
+    "libelle_agence": "Agence de Dijon"
+  },
+  {
+    "code_unite": "S31",
+    "libelle_agence": "Agence de Dijon"
+  },
+  {
+    "code_unite": "U51",
+    "libelle_agence": "Agence de Dijon"
+  },
+  {
+    "code_unite": "U52",
+    "libelle_agence": "Agence de Dijon"
+  },
+  {
+    "code_unite": "O85",
+    "libelle_agence": "Ag Compta finance Nancy"
+  },
+  {
+    "code_unite": "S24",
+    "libelle_agence": "Agence de Strasbourg IT"
+  },
+  {
+    "code_unite": "U25",
+    "libelle_agence": "Agence de Metz"
+  },
+  {
+    "code_unite": "U45",
+    "libelle_agence": "Agence de Metz"
+  },
+  {
+    "code_unite": "MUL",
+    "libelle_agence": "Agence de Mulhouse"
+  },
+  {
+    "code_unite": "OMU",
+    "libelle_agence": "Agence de Mulhouse"
+  },
+  {
+    "code_unite": "U49",
+    "libelle_agence": "Agence de Mulhouse"
+  },
+  {
+    "code_unite": "UML",
+    "libelle_agence": "Agence de Mulhouse"
+  },
+  {
+    "code_unite": "U85",
+    "libelle_agence": "Ag Eng Nancy"
+  },
+  {
+    "code_unite": "U24",
+    "libelle_agence": "Agence de Strasbourg Eng"
+  },
+  {
+    "code_unite": "UST",
+    "libelle_agence": "Agence de Strasbourg Eng"
+  },
+  {
+    "code_unite": "K16",
+    "libelle_agence": "Agence de Lille Mkg & Com"
+  },
+  {
+    "code_unite": "O16",
+    "libelle_agence": "Agence de Lille"
+  },
+  {
+    "code_unite": "K27",
+    "libelle_agence": "Agence de Rouen"
+  },
+  {
+    "code_unite": "O27",
+    "libelle_agence": "Agence de Rouen"
+  },
+  {
+    "code_unite": "O77",
+    "libelle_agence": "Ag Expectra Compta finance Caen"
+  },
+  {
+    "code_unite": "D16",
+    "libelle_agence": "Agence de Lille Technologie"
+  },
+  {
+    "code_unite": "S16",
+    "libelle_agence": "Agence de Lille Technologie"
+  },
+  {
+    "code_unite": "S77",
+    "libelle_agence": "Ag Expectra IT Caen"
+  },
+  {
+    "code_unite": "U16",
+    "libelle_agence": "Agence de Lille Eng"
+  },
+  {
+    "code_unite": "S27",
+    "libelle_agence": "Agence de Rouen Eng"
+  },
+  {
+    "code_unite": "U27",
+    "libelle_agence": "Agence de Rouen Eng"
+  },
+  {
+    "code_unite": "U56",
+    "libelle_agence": "Agence de Lille Supply"
+  },
+  {
+    "code_unite": "U77",
+    "libelle_agence": "Ag Expectra Engineering Caen"
+  },
+  {
+    "code_unite": "D18",
+    "libelle_agence": "Ag Nantes Recrut AEC"
+  },
+  {
+    "code_unite": "K21",
+    "libelle_agence": "Ag. de Rennes Commerce & Mktg"
+  },
+  {
+    "code_unite": "D39",
+    "libelle_agence": "Agence C&M Nantes"
+  },
+  {
+    "code_unite": "K39",
+    "libelle_agence": "Agence C&M Nantes"
+  },
+  {
+    "code_unite": "D21",
+    "libelle_agence": "Agence de Rennes"
+  },
+  {
+    "code_unite": "O21",
+    "libelle_agence": "Agence de Rennes"
+  },
+  {
+    "code_unite": "O50",
+    "libelle_agence": "Agence Nantes Banque Assurance"
+  },
+  {
+    "code_unite": "O18",
+    "libelle_agence": "Agence de Nantes Cpta Fi 3"
+  },
+  {
+    "code_unite": "O59",
+    "libelle_agence": "Agence de Nantes Cpta Fi 3"
+  },
+  {
+    "code_unite": "O72",
+    "libelle_agence": "Ag Compta finance Le Mans"
+  },
+  {
+    "code_unite": "D40",
+    "libelle_agence": "Agence de Nantes IT"
+  },
+  {
+    "code_unite": "D78",
+    "libelle_agence": "Agence de Nantes IT"
+  },
+  {
+    "code_unite": "S18",
+    "libelle_agence": "Agence de Nantes IT"
+  },
+  {
+    "code_unite": "O35",
+    "libelle_agence": "Agence de Tours"
+  },
+  {
+    "code_unite": "S35",
+    "libelle_agence": "Agence de Tours"
+  },
+  {
+    "code_unite": "U35",
+    "libelle_agence": "Agence de Tours"
+  },
+  {
+    "code_unite": "S59",
+    "libelle_agence": "Agence de Nantes IT 3"
+  },
+  {
+    "code_unite": "O75",
+    "libelle_agence": "Ag Expectra Périgny"
+  },
+  {
+    "code_unite": "S75",
+    "libelle_agence": "Ag Expectra Périgny"
+  },
+  {
+    "code_unite": "U75",
+    "libelle_agence": "Ag Expectra Périgny"
+  },
+  {
+    "code_unite": "U18",
+    "libelle_agence": "Agence de Nantes Eng 2"
+  },
+  {
+    "code_unite": "U21",
+    "libelle_agence": "Agence de Rennes Industrie"
+  },
+  {
+    "code_unite": "U59",
+    "libelle_agence": "Agence Nantes Eng 3"
+  },
+  {
+    "code_unite": "O61",
+    "libelle_agence": "Agence Eng Trelaze"
+  },
+  {
+    "code_unite": "U61",
+    "libelle_agence": "Agence Eng Trelaze"
+  },
+  {
+    "code_unite": "O68",
+    "libelle_agence": "Agence Expectra Brest"
+  },
+  {
+    "code_unite": "U68",
+    "libelle_agence": "Agence Expectra Brest"
+  },
+  {
+    "code_unite": "U79",
+    "libelle_agence": "Ag Nantes Aéro Défense et Spatial"
+  },
+  {
+    "code_unite": "UNT",
+    "libelle_agence": "Agence de Nantes Eng 1"
+  },
+  {
+    "code_unite": "45",
+    "libelle_agence": "Agence Suffren Cpta Fi 1"
+  },
+  {
+    "code_unite": "D47",
+    "libelle_agence": "Ag Paris Recrut Expertise Comptabl"
+  },
+  {
+    "code_unite": "D75",
+    "libelle_agence": "Ag Paris Recrut Cadres Finances 3"
+  },
+  {
+    "code_unite": "K06",
+    "libelle_agence": "Agence de Paris ADV"
+  },
+  {
+    "code_unite": "K48",
+    "libelle_agence": "Agence de Paris C&M"
+  },
+  {
+    "code_unite": "K56",
+    "libelle_agence": "Agence de Massy C&M"
+  },
+  {
+    "code_unite": "K95",
+    "libelle_agence": "Ag Expectra Tremblay en France C&M"
+  },
+  {
+    "code_unite": "MK2",
+    "libelle_agence": "Agence C&M Paris 2"
+  },
+  {
+    "code_unite": "MK3",
+    "libelle_agence": "Agence DIGITAL IDF"
+  },
+  {
+    "code_unite": "MKC",
+    "libelle_agence": "Agence Franklin Mkting & Cial"
+  },
+  {
+    "code_unite": "O03",
+    "libelle_agence": "Agence CNIT Cpta Fi 2"
+  },
+  {
+    "code_unite": "O44",
+    "libelle_agence": "Agence CNIT Cpta Fi 2"
+  },
+  {
+    "code_unite": "O04",
+    "libelle_agence": "Agence Rivoli Cpta Fi 1"
+  },
+  {
+    "code_unite": "D57",
+    "libelle_agence": "Agence Rivoli Cpta Fi 2"
+  },
+  {
+    "code_unite": "O07",
+    "libelle_agence": "Agence Rivoli Cpta Fi 2"
+  },
+  {
+    "code_unite": "D77",
+    "libelle_agence": "Agence Suffren Cpta Fi 2"
+  },
+  {
+    "code_unite": "O17",
+    "libelle_agence": "Agence Suffren Cpta Fi 2"
+  },
+  {
+    "code_unite": "O30",
+    "libelle_agence": "Agence de Cergy Pontoise Cpta Fi"
+  },
+  {
+    "code_unite": "O40",
+    "libelle_agence": "Agence Compta Finance Expectra"
+  },
+  {
+    "code_unite": "O42",
+    "libelle_agence": "Agence Paris RH Juridique 2"
+  },
+  {
+    "code_unite": "O43",
+    "libelle_agence": "Agence Bercy Compta Finance 3"
+  },
+  {
+    "code_unite": "O45",
+    "libelle_agence": "Agence de Paris"
+  },
+  {
+    "code_unite": "O46",
+    "libelle_agence": "Agence de Versailles CF"
+  },
+  {
+    "code_unite": "O47",
+    "libelle_agence": "Ag Paris Expertise Comptable"
+  },
+  {
+    "code_unite": "O48",
+    "libelle_agence": "Agence CF EST IDF"
+  },
+  {
+    "code_unite": "O76",
+    "libelle_agence": "Agence de Massy CF 2"
+  },
+  {
+    "code_unite": "O95",
+    "libelle_agence": "Ag Expectra Tremblay en France CF"
+  },
+  {
+    "code_unite": "O96",
+    "libelle_agence": "Ag Expectra Tremblay en France CF"
+  },
+  {
+    "code_unite": "O49",
+    "libelle_agence": "Agence Banque-Assurance 2"
+  },
+  {
+    "code_unite": "PSS",
+    "libelle_agence": "Agence Banque-Assurance 2"
+  },
+  {
+    "code_unite": "RH1",
+    "libelle_agence": "Agence Puteaux RH Juridique"
+  },
+  {
+    "code_unite": "C56",
+    "libelle_agence": "Agence Search Orléans Cosméto"
+  },
+  {
+    "code_unite": "D17",
+    "libelle_agence": "Ag. Recrut BI/Réseaux&Sécurité IDF"
+  },
+  {
+    "code_unite": "D67",
+    "libelle_agence": "Agence Paris"
+  },
+  {
+    "code_unite": "D88",
+    "libelle_agence": "Ag Sales Pur player IDF"
+  },
+  {
+    "code_unite": "D28",
+    "libelle_agence": "Agence Franklin IT Grands Comptes"
+  },
+  {
+    "code_unite": "S04",
+    "libelle_agence": "Agence Franklin IT Grands Comptes"
+  },
+  {
+    "code_unite": "S07",
+    "libelle_agence": "Agence Franklin IT Diffus"
+  },
+  {
+    "code_unite": "S11",
+    "libelle_agence": "Agence Franklin IT Pure Players"
+  },
+  {
+    "code_unite": "S17",
+    "libelle_agence": "Agence Franklin IT Pure Players"
+  },
+  {
+    "code_unite": "S51",
+    "libelle_agence": "Agence Franklin IT Pure Players"
+  },
+  {
+    "code_unite": "O26",
+    "libelle_agence": "Agence d'Orléans"
+  },
+  {
+    "code_unite": "S26",
+    "libelle_agence": "Agence d'Orléans"
+  },
+  {
+    "code_unite": "U26",
+    "libelle_agence": "Agence d'Orléans"
+  },
+  {
+    "code_unite": "D58",
+    "libelle_agence": "Agence IT IDF"
+  },
+  {
+    "code_unite": "S50",
+    "libelle_agence": "Agence IT IDF"
+  },
+  {
+    "code_unite": "S56",
+    "libelle_agence": "AG IT MASSY"
+  },
+  {
+    "code_unite": "S58",
+    "libelle_agence": "Agence IT IDF"
+  },
+  {
+    "code_unite": "D42",
+    "libelle_agence": "Agence Recrutement Eng Paris"
+  },
+  {
+    "code_unite": "D65",
+    "libelle_agence": "Agence Recrut Bâtiment Paris"
+  },
+  {
+    "code_unite": "D86",
+    "libelle_agence": "Agence recrutement Batiment"
+  },
+  {
+    "code_unite": "MK4",
+    "libelle_agence": "Agence C&M Paris 4"
+  },
+  {
+    "code_unite": "U15",
+    "libelle_agence": "Agence Bâtiment Paris"
+  },
+  {
+    "code_unite": "D30",
+    "libelle_agence": "Agence de Cergy Pontoise Eng"
+  },
+  {
+    "code_unite": "U30",
+    "libelle_agence": "Agence de Cergy Pontoise Eng"
+  },
+  {
+    "code_unite": "U06",
+    "libelle_agence": "Agence Eng Expectra"
+  },
+  {
+    "code_unite": "U42",
+    "libelle_agence": "Agence Eng Expectra"
+  },
+  {
+    "code_unite": "U43",
+    "libelle_agence": "Agence Eng2 Franklin"
+  },
+  {
+    "code_unite": "U46",
+    "libelle_agence": "Agence de Versailles ENG"
+  },
+  {
+    "code_unite": "U58",
+    "libelle_agence": "Agence BE Paris"
+  },
+  {
+    "code_unite": "U65",
+    "libelle_agence": "Agence BE Paris"
+  },
+  {
+    "code_unite": "U89",
+    "libelle_agence": "Ag Expectra Eng Paris"
+  },
+  {
+    "code_unite": "U95",
+    "libelle_agence": "Ag de Tremblay en France ENG"
+  },
+  {
+    "code_unite": "UG3",
+    "libelle_agence": "Agence Eng1 Franklin"
+  },
+  {
+    "code_unite": "UGN",
+    "libelle_agence": "Agence Eng Paris"
+  },
+  {
+    "code_unite": "C50",
+    "libelle_agence": "Ag Search Paris Life Sciences"
+  },
+  {
+    "code_unite": "C51",
+    "libelle_agence": "Ag Search Nice Life Sciences"
+  },
+  {
+    "code_unite": "C52",
+    "libelle_agence": "Ag Search Bordeaux Life Sciences"
+  },
+  {
+    "code_unite": "C53",
+    "libelle_agence": "Ag Search Paris IT Finance Marché"
+  },
+  {
+    "code_unite": "C54",
+    "libelle_agence": "Ag Search Paris Cadre Finance"
+  },
+  {
+    "code_unite": "C55",
+    "libelle_agence": "Agence Search Paris Industrie"
+  },
+  {
+    "code_unite": "D33",
+    "libelle_agence": "Ag Paris Recrut Life Sciences"
+  },
+  {
+    "code_unite": "D38",
+    "libelle_agence": "Ag Paris Recrut Life Sciences"
+  },
+  {
+    "code_unite": "D54",
+    "libelle_agence": "Ag Paris Recrut Life Sciences"
+  },
+  {
+    "code_unite": "C07",
+    "libelle_agence": "Agence Search Lyon"
+  },
+  {
+    "code_unite": "C08",
+    "libelle_agence": "Agence Search Lyon"
+  },
+  {
+    "code_unite": "C23",
+    "libelle_agence": "Agence Search Lyon"
+  },
+  {
+    "code_unite": "C24",
+    "libelle_agence": "Agence Search Lyon"
+  },
+  {
+    "code_unite": "C37",
+    "libelle_agence": "Agence Search Lyon"
+  },
+  {
+    "code_unite": "C09",
+    "libelle_agence": "Agence Search Toulouse"
+  },
+  {
+    "code_unite": "C10",
+    "libelle_agence": "Agence Search Toulouse"
+  },
+  {
+    "code_unite": "C22",
+    "libelle_agence": "Agence Search Toulouse"
+  },
+  {
+    "code_unite": "C25",
+    "libelle_agence": "Agence Search Toulouse"
+  },
+  {
+    "code_unite": "C11",
+    "libelle_agence": "Agence Search Strasbourg"
+  },
+  {
+    "code_unite": "C12",
+    "libelle_agence": "Agence Search Strasbourg"
+  },
+  {
+    "code_unite": "C13",
+    "libelle_agence": "Expectra Search Nantes Rouen"
+  },
+  {
+    "code_unite": "C17",
+    "libelle_agence": "Expectra Search Nantes Rouen"
+  },
+  {
+    "code_unite": "C21",
+    "libelle_agence": "Expectra Search Nantes Rouen"
+  },
+  {
+    "code_unite": "C15",
+    "libelle_agence": "Agence Search Lille Cpta Fi"
+  },
+  {
+    "code_unite": "C16",
+    "libelle_agence": "Agence Search Lille Cpta Fi"
+  },
+  {
+    "code_unite": "C18",
+    "libelle_agence": "Expectra Search Rennes"
+  },
+  {
+    "code_unite": "C19",
+    "libelle_agence": "Expectra Search Rennes"
+  },
+  {
+    "code_unite": "C20",
+    "libelle_agence": "Expectra Search Rennes"
+  },
+  {
+    "code_unite": "C33",
+    "libelle_agence": "Expectra Search Rennes"
+  },
+  {
+    "code_unite": "C00",
+    "libelle_agence": "Expectra Search IDF"
+  },
+  {
+    "code_unite": "C01",
+    "libelle_agence": "Expectra Search IDF"
+  },
+  {
+    "code_unite": "C02",
+    "libelle_agence": "Expectra Search IDF"
+  },
+  {
+    "code_unite": "C03",
+    "libelle_agence": "Expectra Search IDF"
+  },
+  {
+    "code_unite": "C04",
+    "libelle_agence": "Expectra Search IDF"
+  },
+  {
+    "code_unite": "C05",
+    "libelle_agence": "Expectra Search IDF"
+  },
+  {
+    "code_unite": "C06",
+    "libelle_agence": "Expectra Search IDF"
+  },
+  {
+    "code_unite": "C26",
+    "libelle_agence": "Expectra Search IDF"
+  },
+  {
+    "code_unite": "C27",
+    "libelle_agence": "Agence Search Grenoble"
+  },
+  {
+    "code_unite": "C32",
+    "libelle_agence": "Agence Search Grenoble"
+  },
+  {
+    "code_unite": "C28",
+    "libelle_agence": "Ag Search Aix"
+  },
+  {
+    "code_unite": "C29",
+    "libelle_agence": "Ag Search Bordeaux"
+  },
+  {
+    "code_unite": "C30",
+    "libelle_agence": "Ag Search Bordeaux"
+  },
+  {
+    "code_unite": "C34",
+    "libelle_agence": "Ag Search Bordeaux"
+  },
+  {
+    "code_unite": "C36",
+    "libelle_agence": "Ag Search Bordeaux"
+  },
+  {
+    "code_unite": "C35",
+    "libelle_agence": "Agence Search Brest"
+  },
+  {
+    "code_unite": "C40",
+    "libelle_agence": "Agence Search Brest"
+  },
+  {
+    "code_unite": "C38",
+    "libelle_agence": "Ag Search Nice"
+  },
+  {
+    "code_unite": "C41",
+    "libelle_agence": "Ag Search Nice"
+  },
+  {
+    "code_unite": "C39",
+    "libelle_agence": "Agence Search Montpellier"
+  },
+  {
+    "code_unite": "CME",
+    "libelle_agence": "Search Marseille Compta Finance"
+  },
+  {
+    "code_unite": "D22",
+    "libelle_agence": "Expertise Comptable Rhône-Alpes"
+  },
+  {
+    "code_unite": "D55",
+    "libelle_agence": "Agence Recrutement Immo Paris"
+  },
+  {
+    "code_unite": "D56",
+    "libelle_agence": "Agence Paris Recrut Compta-Finance"
+  },
+  {
+    "code_unite": "D84",
+    "libelle_agence": "Ag. Finance RH Juridique Lyon"
+  },
+  {
+    "code_unite": "S39",
+    "libelle_agence": "Agence de Nantes IT 2"
+  },
+  {
+    "code_unite": "SC2",
+    "libelle_agence": "CELLULE SOLUTIONS CLIENTS"
+  },
+  {
+    "code_unite": "SC3",
+    "libelle_agence": "CELLULE SOLUTIONS CLIENTS"
+  },
+  {
+    "code_unite": "CR5",
+    "libelle_agence": "Recrutement Directions Est"
+  },
+  {
+    "code_unite": "CR6",
+    "libelle_agence": "Recrutement Directions"
+  },
+  {
+    "code_unite": "CR7",
+    "libelle_agence": "Recrutement Directions Sud-Ouest"
+  },
+  {
+    "code_unite": "CR8",
+    "libelle_agence": "Recrutement Directions Sud-Est"
+  },
+  {
+    "code_unite": "CR9",
+    "libelle_agence": "Recrutement Directions Nord"
+  },
+  {
+    "code_unite": "CER",
+    "libelle_agence": "Conseil et Recrutement IDF"
+  },
+  {
+    "code_unite": "CRJ",
+    "libelle_agence": "Conseil &Recrut Nord Pas de Calais"
+  },
+  {
+    "code_unite": "CRK",
+    "libelle_agence": "Conseil et Recrutement Bretagne"
+  },
+  {
+    "code_unite": "CRR",
+    "libelle_agence": "Conseil et Recrutement Normandie"
+  },
+  {
+    "code_unite": "CRU",
+    "libelle_agence": "Conseil et Recrut Pays de Loire"
+  },
+  {
+    "code_unite": "CRZ",
+    "libelle_agence": "Conseil & Recrut Picardie"
+  },
+  {
+    "code_unite": "ROP",
+    "libelle_agence": "Ag. appel médical Ouest Placement"
+  },
+  {
+    "code_unite": "RPP",
+    "libelle_agence": "Ag. IDF Placement appel médical"
+  },
+  {
+    "code_unite": "RTP",
+    "libelle_agence": "Ag. app. méd. Plct Nord Normandie"
+  },
+  {
+    "code_unite": "BRP",
+    "libelle_agence": "Ag. BDR Placement appel médical"
+  },
+  {
+    "code_unite": "CRC",
+    "libelle_agence": "Conseil et recrutement Côte d'Azur"
+  },
+  {
+    "code_unite": "CRI",
+    "libelle_agence": "Conseil &Recrut Champagne Ardennes"
+  },
+  {
+    "code_unite": "CRL",
+    "libelle_agence": "Conseil &Recrut Rhône Alpes Auverg"
+  },
+  {
+    "code_unite": "CRP",
+    "libelle_agence": "Conseil et Recrutement PACA Corse"
+  },
+  {
+    "code_unite": "CRV",
+    "libelle_agence": "Conseil et Recrutement Est"
+  },
+  {
+    "code_unite": "CRY",
+    "libelle_agence": "Conseil et Recrut Loire Auvergne"
+  },
+  {
+    "code_unite": "LYA",
+    "libelle_agence": "Agence Rhône Placement"
+  },
+  {
+    "code_unite": "LYR",
+    "libelle_agence": "Agence Dauphiné Savoie"
+  },
+  {
+    "code_unite": "RAP",
+    "libelle_agence": "Ag. appel médical Est Placement"
+  },
+  {
+    "code_unite": "RBP",
+    "libelle_agence": "Appel médical Nord Est Placement"
+  },
+  {
+    "code_unite": "REP",
+    "libelle_agence": "Recrutement Dauphiné"
+  },
+  {
+    "code_unite": "CPP",
+    "libelle_agence": "Ag. appel médical Centre Plct"
+  },
+  {
+    "code_unite": "CR2",
+    "libelle_agence": "Conseil et Recrut Aquitaine Sud"
+  },
+  {
+    "code_unite": "CRB",
+    "libelle_agence": "Conseil &Recrut Aquitaine Limousin"
+  },
+  {
+    "code_unite": "CRD",
+    "libelle_agence": "Conseil et Recrutement Limousin"
+  },
+  {
+    "code_unite": "CRM",
+    "libelle_agence": "Conseil &Recrut Languedoc Roussill"
+  },
+  {
+    "code_unite": "CRQ",
+    "libelle_agence": "Conseil et Recrut Centre Poitou Ch"
+  },
+  {
+    "code_unite": "CRW",
+    "libelle_agence": "Conseil et Recrut Midi Pyrenées"
+  },
+  {
+    "code_unite": "RDP",
+    "libelle_agence": "Ag. appel médical Aquitaine plct"
+  },
+  {
+    "code_unite": "RLP",
+    "libelle_agence": "Ag. appel médical Languedoc Plact."
+  },
+  {
+    "code_unite": "CF",
+    "libelle_agence": "Agence Clermont F. appel médical"
+  },
+  {
+    "code_unite": "NEV",
+    "libelle_agence": "Ag Appel médical Nevers"
+  },
+  {
+    "code_unite": "POP",
+    "libelle_agence": "Agence de Moulins appel médical"
+  },
+  {
+    "code_unite": "PUV",
+    "libelle_agence": "Ag Le Puy en Velay appel médical"
+  },
+  {
+    "code_unite": "SE",
+    "libelle_agence": "Agence St. Etienne appel médical"
+  },
+  {
+    "code_unite": "SGB",
+    "libelle_agence": "Ag. Rhône Est Kiné appel médical"
+  },
+  {
+    "code_unite": "ALP",
+    "libelle_agence": "Agence Ambulance PACA"
+  },
+  {
+    "code_unite": "AMG",
+    "libelle_agence": "Agence de Gap appel médical"
+  },
+  {
+    "code_unite": "AN",
+    "libelle_agence": "Agence d'Avignon appel médical"
+  },
+  {
+    "code_unite": "AP",
+    "libelle_agence": "Agence Aix en Pce. appel médical"
+  },
+  {
+    "code_unite": "APB",
+    "libelle_agence": "Ag Appel médical UNIHA Marseille"
+  },
+  {
+    "code_unite": "APU",
+    "libelle_agence": "Ag Appel médical UNIHA Aix"
+  },
+  {
+    "code_unite": "CAN",
+    "libelle_agence": "Agence de Cannes appel médical"
+  },
+  {
+    "code_unite": "CGE",
+    "libelle_agence": "Agence de Cagnes appel médical"
+  },
+  {
+    "code_unite": "COR",
+    "libelle_agence": "Agence appel médical Corse"
+  },
+  {
+    "code_unite": "FRE",
+    "libelle_agence": "Ag Appel médical Fréjus"
+  },
+  {
+    "code_unite": "MC",
+    "libelle_agence": "Agence Marseille appel médical"
+  },
+  {
+    "code_unite": "MCD",
+    "libelle_agence": "Agence Marseille 3 appel médical"
+  },
+  {
+    "code_unite": "MCP",
+    "libelle_agence": "Agence Pharma Entreprises Sud"
+  },
+  {
+    "code_unite": "NE",
+    "libelle_agence": "Agence de Nice appel médical"
+  },
+  {
+    "code_unite": "NED",
+    "libelle_agence": "Ag Appel médical Nice Diffus"
+  },
+  {
+    "code_unite": "PAK",
+    "libelle_agence": "Ag appel médical Kiné PACA"
+  },
+  {
+    "code_unite": "PBL",
+    "libelle_agence": "Agence Appel médical Bloc PACA"
+  },
+  {
+    "code_unite": "PEF",
+    "libelle_agence": "Agence Petite Enfance PACA"
+  },
+  {
+    "code_unite": "TN",
+    "libelle_agence": "Agence de Toulon appel médical"
+  },
+  {
+    "code_unite": "VMC",
+    "libelle_agence": "Ag VAC TT Medecins Côte d'Azur"
+  },
+  {
+    "code_unite": "VMM",
+    "libelle_agence": "AG VAC TT MEDECINS PACA"
+  },
+  {
+    "code_unite": "ACY",
+    "libelle_agence": "Ag d'Annecy Chavanod appel médical"
+  },
+  {
+    "code_unite": "ANY",
+    "libelle_agence": "Ag Appel medical Annecy 2"
+  },
+  {
+    "code_unite": "APL",
+    "libelle_agence": "Agence Pharma Entreprises Rhône"
+  },
+  {
+    "code_unite": "BDS",
+    "libelle_agence": "Ag Bloc Dauphiné Savoie Appel Médi"
+  },
+  {
+    "code_unite": "BGB",
+    "libelle_agence": "Ag. Bourg en Bresse Appel Medical"
+  },
+  {
+    "code_unite": "BJA",
+    "libelle_agence": "Agence de Bourgoin Jallieu appel"
+  },
+  {
+    "code_unite": "CBY",
+    "libelle_agence": "Agence de Chambéry appel médical"
+  },
+  {
+    "code_unite": "GE",
+    "libelle_agence": "Agence de Grenoble appel médical"
+  },
+  {
+    "code_unite": "GEP",
+    "libelle_agence": "Ag. Pharma Entreprise Dauphiné Sav"
+  },
+  {
+    "code_unite": "LO",
+    "libelle_agence": "Agence de Lyon appel médical"
+  },
+  {
+    "code_unite": "LOB",
+    "libelle_agence": "Agence appel médical Lyon Bloc"
+  },
+  {
+    "code_unite": "LOP",
+    "libelle_agence": "Bureau Remplacement médecin Nord"
+  },
+  {
+    "code_unite": "LOS",
+    "libelle_agence": "Ag. Lyon Petite Enfance appel méd"
+  },
+  {
+    "code_unite": "LYH",
+    "libelle_agence": "Agence Lyon Handicap"
+  },
+  {
+    "code_unite": "VAL",
+    "libelle_agence": "Agence de Valence appel médical"
+  },
+  {
+    "code_unite": "VIL",
+    "libelle_agence": "Ag.de Villefranche appel médical"
+  },
+  {
+    "code_unite": "PEK",
+    "libelle_agence": "Permanence Rhône Alpes"
+  },
+  {
+    "code_unite": "PEW",
+    "libelle_agence": "Permanence PACA"
+  },
+  {
+    "code_unite": "ACO",
+    "libelle_agence": "Ag Appel médical Colmar"
+  },
+  {
+    "code_unite": "APS",
+    "libelle_agence": "Agence Pharma Est"
+  },
+  {
+    "code_unite": "BEH",
+    "libelle_agence": "Ag Appel médical Besançon"
+  },
+  {
+    "code_unite": "BEK",
+    "libelle_agence": "Agence Appel Médical Est Kiné"
+  },
+  {
+    "code_unite": "BES",
+    "libelle_agence": "Agence de Besançon appel médical"
+  },
+  {
+    "code_unite": "CHN",
+    "libelle_agence": "Agence Appel médical Chalon"
+  },
+  {
+    "code_unite": "CLM",
+    "libelle_agence": "Ag. Auxerre appel médical"
+  },
+  {
+    "code_unite": "DH",
+    "libelle_agence": "Agence de Dijon appel médical"
+  },
+  {
+    "code_unite": "EBL",
+    "libelle_agence": "Ag. Est Bloc appel médical"
+  },
+  {
+    "code_unite": "EPH",
+    "libelle_agence": "Ag. Est Pharma appel médical"
+  },
+  {
+    "code_unite": "EPI",
+    "libelle_agence": "Ag Appel médical Epinal"
+  },
+  {
+    "code_unite": "HAN",
+    "libelle_agence": "Ag Schweighouse appel médical"
+  },
+  {
+    "code_unite": "LLS",
+    "libelle_agence": "Ag Appel médical Lons Le Saunier"
+  },
+  {
+    "code_unite": "ML",
+    "libelle_agence": "Ag Brunstatt Didenheim appel méd"
+  },
+  {
+    "code_unite": "MTZ",
+    "libelle_agence": "Agence de Metz appel médical"
+  },
+  {
+    "code_unite": "NY",
+    "libelle_agence": "Agence de Nancy appel médical"
+  },
+  {
+    "code_unite": "SG",
+    "libelle_agence": "Agence Strasbourg appel médical"
+  },
+  {
+    "code_unite": "SPE",
+    "libelle_agence": "Agence Strasbourg petite enfance"
+  },
+  {
+    "code_unite": "THE",
+    "libelle_agence": "Ag Appel médical Thionville Manom"
+  },
+  {
+    "code_unite": "VMU",
+    "libelle_agence": "Ag VAC TT Médecins Brunstatt Diden"
+  },
+  {
+    "code_unite": "PEG",
+    "libelle_agence": "Permanence Est"
+  },
+  {
+    "code_unite": "PEI",
+    "libelle_agence": "Permanence Glisy"
+  },
+  {
+    "code_unite": "PEN",
+    "libelle_agence": "PERMANENCE NORD"
+  },
+  {
+    "code_unite": "AG",
+    "libelle_agence": "Agence d'Angers appel médical"
+  },
+  {
+    "code_unite": "ALN",
+    "libelle_agence": "Agence Appel Médical d'Alençon"
+  },
+  {
+    "code_unite": "AUY",
+    "libelle_agence": "Agence d'Auray appel médical"
+  },
+  {
+    "code_unite": "BRE",
+    "libelle_agence": "Agence de Brest appel médical"
+  },
+  {
+    "code_unite": "BRH",
+    "libelle_agence": "Ag de Brest Handicap"
+  },
+  {
+    "code_unite": "CHO",
+    "libelle_agence": "Agence Appel médical Cholet"
+  },
+  {
+    "code_unite": "FTN",
+    "libelle_agence": "Ag Appel Médical Fontenay Le Comte"
+  },
+  {
+    "code_unite": "LAV",
+    "libelle_agence": "Agence Appel médical Laval"
+  },
+  {
+    "code_unite": "LEM",
+    "libelle_agence": "Agence du Mans appel médical"
+  },
+  {
+    "code_unite": "LOR",
+    "libelle_agence": "Ag Appel Médical Lorient"
+  },
+  {
+    "code_unite": "LRY",
+    "libelle_agence": "Ag Appel médical La Roche sur Yon"
+  },
+  {
+    "code_unite": "MLO",
+    "libelle_agence": "Ag Appel médical Saint Malo"
+  },
+  {
+    "code_unite": "NS",
+    "libelle_agence": "Agence Nantes Médico Social"
+  },
+  {
+    "code_unite": "NSD",
+    "libelle_agence": "Agence Nantes Santé"
+  },
+  {
+    "code_unite": "OBL",
+    "libelle_agence": "Agence appel médical Ouest Bloc"
+  },
+  {
+    "code_unite": "QUI",
+    "libelle_agence": "Ag Appel médical Quimper"
+  },
+  {
+    "code_unite": "RDK",
+    "libelle_agence": "Ag. appel médical Ouest Kiné"
+  },
+  {
+    "code_unite": "RPE",
+    "libelle_agence": "Ag Appel méd Rennes Petite Enfance"
+  },
+  {
+    "code_unite": "RS",
+    "libelle_agence": "Agence de Rennes appel médical"
+  },
+  {
+    "code_unite": "RSP",
+    "libelle_agence": "Agence Pharma Ouest appel médical"
+  },
+  {
+    "code_unite": "SBR",
+    "libelle_agence": "Ag Appel médical Plérin St Brieuc"
+  },
+  {
+    "code_unite": "SNA",
+    "libelle_agence": "Appel médical St Nazaire Trignac"
+  },
+  {
+    "code_unite": "VML",
+    "libelle_agence": "Ag VAC TT Medecins Pays de Loire"
+  },
+  {
+    "code_unite": "VMO",
+    "libelle_agence": "Ag VAC TT Médecins Ouest Bretagne"
+  },
+  {
+    "code_unite": "ESK",
+    "libelle_agence": "Ag Strasbourg Kiné appel médical"
+  },
+  {
+    "code_unite": "PAB",
+    "libelle_agence": "Agence IDF EST Kiné appel médical"
+  },
+  {
+    "code_unite": "PCD",
+    "libelle_agence": "Agence Paris Opéra 2"
+  },
+  {
+    "code_unite": "PM",
+    "libelle_agence": "Ag. Paris La Fayette appel médical"
+  },
+  {
+    "code_unite": "PMD",
+    "libelle_agence": "Ag. Paris Maine 2 appel médical"
+  },
+  {
+    "code_unite": "VMI",
+    "libelle_agence": "Ag. Vac TT Médecins IDF"
+  },
+  {
+    "code_unite": "ARR",
+    "libelle_agence": "Ag Appel médical Arras"
+  },
+  {
+    "code_unite": "AS",
+    "libelle_agence": "Agence de Glisy appel médical"
+  },
+  {
+    "code_unite": "CAM",
+    "libelle_agence": "Agence Lens appel médical"
+  },
+  {
+    "code_unite": "CHV",
+    "libelle_agence": "Appel Médical Charleville Mézières"
+  },
+  {
+    "code_unite": "CN",
+    "libelle_agence": "Agence d'Epron appel médical"
+  },
+  {
+    "code_unite": "COP",
+    "libelle_agence": "Ag. Lacroix-St-Ouen appel médical"
+  },
+  {
+    "code_unite": "FLE",
+    "libelle_agence": "Ag Appel Médical Flers"
+  },
+  {
+    "code_unite": "LAP",
+    "libelle_agence": "Ag vacation médecin Nord Normandie"
+  },
+  {
+    "code_unite": "LE",
+    "libelle_agence": "Agence de Lille appel médical"
+  },
+  {
+    "code_unite": "LEN",
+    "libelle_agence": "Agence de Lens appel médical"
+  },
+  {
+    "code_unite": "LEP",
+    "libelle_agence": "Agence Pharma Nord"
+  },
+  {
+    "code_unite": "LHA",
+    "libelle_agence": "Ag Le Havre appel médical"
+  },
+  {
+    "code_unite": "NBL",
+    "libelle_agence": "Ag Bloc Nord Normandie"
+  },
+  {
+    "code_unite": "NPE",
+    "libelle_agence": "Normandie petite enfance"
+  },
+  {
+    "code_unite": "RI",
+    "libelle_agence": "Agence de Reims appel médical"
+  },
+  {
+    "code_unite": "RIP",
+    "libelle_agence": "C. Rec. de Reims appel médical"
+  },
+  {
+    "code_unite": "RN",
+    "libelle_agence": "Agence de Rouen appel médical"
+  },
+  {
+    "code_unite": "RNP",
+    "libelle_agence": "Agence de Rouen appel médical"
+  },
+  {
+    "code_unite": "SLO",
+    "libelle_agence": "Agence de St Lô appel médical"
+  },
+  {
+    "code_unite": "TRY",
+    "libelle_agence": "Ag Appel médical Troyes Reims"
+  },
+  {
+    "code_unite": "VEV",
+    "libelle_agence": "Ag Appel médical Le Vieil Evreux"
+  },
+  {
+    "code_unite": "CSE",
+    "libelle_agence": "Cellule Recrutement à l'étranger"
+  },
+  {
+    "code_unite": "ODE",
+    "libelle_agence": "Ag. Optique & Dentaire appel méd"
+  },
+  {
+    "code_unite": "PHA",
+    "libelle_agence": "Agence Pharma Side"
+  },
+  {
+    "code_unite": "AMC",
+    "libelle_agence": "Agence Pharma IDF appel médical"
+  },
+  {
+    "code_unite": "AMY",
+    "libelle_agence": "Agence de Jossigny appel médical"
+  },
+  {
+    "code_unite": "APH",
+    "libelle_agence": "Agence Paris Grands comptes"
+  },
+  {
+    "code_unite": "CGY",
+    "libelle_agence": "Agence de Cergy Pontoise appel med"
+  },
+  {
+    "code_unite": "CSP",
+    "libelle_agence": "Ag Paris Cellule sourcing"
+  },
+  {
+    "code_unite": "EPP",
+    "libelle_agence": "Ag Appel medical EHPAD Paris"
+  },
+  {
+    "code_unite": "HAP",
+    "libelle_agence": "Agence Paris Handicap"
+  },
+  {
+    "code_unite": "MN",
+    "libelle_agence": "Agence de Jossigny appel médical"
+  },
+  {
+    "code_unite": "PAT",
+    "libelle_agence": "Ag. Paris Santé au Travail"
+  },
+  {
+    "code_unite": "PC",
+    "libelle_agence": "Ag. Paris Opéra appel médical"
+  },
+  {
+    "code_unite": "PEH",
+    "libelle_agence": "Ag. IDF Pte Enfance appel médical"
+  },
+  {
+    "code_unite": "PLM",
+    "libelle_agence": "Ag. Paris Bloc appel médical"
+  },
+  {
+    "code_unite": "PRP",
+    "libelle_agence": "Ag Appel medical Placement Paris"
+  },
+  {
+    "code_unite": "VER",
+    "libelle_agence": "Ag. de Versailles appel médical"
+  },
+  {
+    "code_unite": "AGN",
+    "libelle_agence": "Agence d'Agen appel médical"
+  },
+  {
+    "code_unite": "AUC",
+    "libelle_agence": "Agence Auch appel médical"
+  },
+  {
+    "code_unite": "AYN",
+    "libelle_agence": "Agence de Bayonne appel médical"
+  },
+  {
+    "code_unite": "BOH",
+    "libelle_agence": "Appel médical Bordeaux Handicap"
+  },
+  {
+    "code_unite": "BOP",
+    "libelle_agence": "Ag. Pharma Grand-Ouest"
+  },
+  {
+    "code_unite": "BOR",
+    "libelle_agence": "Ag. de Bordeaux 2 appel médical"
+  },
+  {
+    "code_unite": "BPE",
+    "libelle_agence": "Bordeaux petite enfance"
+  },
+  {
+    "code_unite": "BX",
+    "libelle_agence": "Agence de Bordeaux appel médical"
+  },
+  {
+    "code_unite": "BXG",
+    "libelle_agence": "Agence Bordeaux Gestion"
+  },
+  {
+    "code_unite": "CSB",
+    "libelle_agence": "Cellule sourcing Bordeaux"
+  },
+  {
+    "code_unite": "DAX",
+    "libelle_agence": "Ag Appel médical DAX"
+  },
+  {
+    "code_unite": "LIB",
+    "libelle_agence": "Libourne Appel Médical"
+  },
+  {
+    "code_unite": "PER",
+    "libelle_agence": "Ag. de Périgueux appel médical"
+  },
+  {
+    "code_unite": "PU",
+    "libelle_agence": "Agence de Pau appel médical"
+  },
+  {
+    "code_unite": "TRB",
+    "libelle_agence": "Agence Tarbes Appel Medical"
+  },
+  {
+    "code_unite": "VMA",
+    "libelle_agence": "AG VAC TT MEDECINS AQUITAINE"
+  },
+  {
+    "code_unite": "PEM",
+    "libelle_agence": "Permanence Midi Pyrenées"
+  },
+  {
+    "code_unite": "PES",
+    "libelle_agence": "PERMANENCE SUD"
+  },
+  {
+    "code_unite": "ABN",
+    "libelle_agence": "Agence de Narbonne appel médical"
+  },
+  {
+    "code_unite": "ALI",
+    "libelle_agence": "Agence d'Albi appel médical"
+  },
+  {
+    "code_unite": "BZI",
+    "libelle_agence": "Ag Appel médical Béziers"
+  },
+  {
+    "code_unite": "CAB",
+    "libelle_agence": "Ag. Narbonne appel médical"
+  },
+  {
+    "code_unite": "CST",
+    "libelle_agence": "Cellule sourcing Toulouse"
+  },
+  {
+    "code_unite": "MEN",
+    "libelle_agence": "Ag Rodez appel médical"
+  },
+  {
+    "code_unite": "MP",
+    "libelle_agence": "Agence Montpellier appel médical"
+  },
+  {
+    "code_unite": "MPP",
+    "libelle_agence": "Agence Pharma Grand Sud"
+  },
+  {
+    "code_unite": "MTB",
+    "libelle_agence": "Ag. de Montauban appel médical"
+  },
+  {
+    "code_unite": "NIM",
+    "libelle_agence": "Agence de Nîmes appel médical"
+  },
+  {
+    "code_unite": "PMS",
+    "libelle_agence": "Ag Appel médical Pamiers"
+  },
+  {
+    "code_unite": "ROD",
+    "libelle_agence": "Ag Appel médical Rodez"
+  },
+  {
+    "code_unite": "SEK",
+    "libelle_agence": "Ag. appel médical Sud Est Kiné"
+  },
+  {
+    "code_unite": "TL",
+    "libelle_agence": "Agence de Toulouse appel médical"
+  },
+  {
+    "code_unite": "TLD",
+    "libelle_agence": "Agence Toulouse Diffus"
+  },
+  {
+    "code_unite": "TLP",
+    "libelle_agence": "Ag. de Toulouse appel médical"
+  },
+  {
+    "code_unite": "TOU",
+    "libelle_agence": "Ag. Grand Sud Bloc appel médical"
+  },
+  {
+    "code_unite": "TPE",
+    "libelle_agence": "Appel Médical Enfance Toulouse"
+  },
+  {
+    "code_unite": "VMS",
+    "libelle_agence": "Vacation Médicale Sud"
+  },
+  {
+    "code_unite": "BGE",
+    "libelle_agence": "Agence de Bourges appel médical"
+  },
+  {
+    "code_unite": "BLS",
+    "libelle_agence": "Ag Appel médical Blois"
+  },
+  {
+    "code_unite": "BRV",
+    "libelle_agence": "Ag Brive La Gaillarde appel méd"
+  },
+  {
+    "code_unite": "CPH",
+    "libelle_agence": "Agence Centre Poitou Handicap"
+  },
+  {
+    "code_unite": "CTS",
+    "libelle_agence": "Ag Appel médical Chartres"
+  },
+  {
+    "code_unite": "LAR",
+    "libelle_agence": "Agence de Lagord appel médical"
+  },
+  {
+    "code_unite": "LIM",
+    "libelle_agence": "Agence de Limoges appel médical"
+  },
+  {
+    "code_unite": "OR",
+    "libelle_agence": "Agence d'Orléans appel médical"
+  },
+  {
+    "code_unite": "PCP",
+    "libelle_agence": "Agence Pharma Centre Atlantique"
+  },
+  {
+    "code_unite": "TMR",
+    "libelle_agence": "Ag Appel médical St Maur"
+  },
+  {
+    "code_unite": "TO",
+    "libelle_agence": "Agence de Tours appel médical"
+  },
+  {
+    "code_unite": "VCA",
+    "libelle_agence": "Ag Vac tt médecins Centre Atlantiq"
+  },
+  {
+    "code_unite": "ANG",
+    "libelle_agence": "Ag Appel médical Angoulême Soyaux"
+  },
+  {
+    "code_unite": "BXB",
+    "libelle_agence": "Bordeaux Bloc appel médical"
+  },
+  {
+    "code_unite": "CAK",
+    "libelle_agence": "Agence Kiné Centre Atlantique"
+  },
+  {
+    "code_unite": "DOM",
+    "libelle_agence": "Agence DOM-TOM appel médical"
+  },
+  {
+    "code_unite": "LAB",
+    "libelle_agence": "Agence Bloc Centre Poitou"
+  },
+  {
+    "code_unite": "NIO",
+    "libelle_agence": "Ag Appel médical Niort"
+  },
+  {
+    "code_unite": "PO",
+    "libelle_agence": "Agence de Poitiers appel médical"
+  },
+  {
+    "code_unite": "RSD",
+    "libelle_agence": "Ag. appel médical Rennes act. spéc"
+  },
+  {
+    "code_unite": "SAI",
+    "libelle_agence": "Agence de Saintes appel médical"
+  }
+]
