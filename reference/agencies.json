@@ -136,6 +136,10 @@
     "libelle_agence": "RANDSTAD INHOUSE AMH"
   },
   {
+    "code_unite": "CIB",
+    "libelle_agence": "RANDSTAD INHOUSE CIB"
+  },
+  {
     "code_unite": "EUL",
     "libelle_agence": "RANDSTAD INHOUSE EUL"
   },
@@ -240,16 +244,8 @@
     "libelle_agence": "Randstad Boulogne Tertiaire"
   },
   {
-    "code_unite": "T03",
-    "libelle_agence": "Randstad Boulogne Tertiaire"
-  },
-  {
     "code_unite": "DAN",
     "libelle_agence": "Randstad Boulogne"
-  },
-  {
-    "code_unite": "IEG",
-    "libelle_agence": "Randstad Boulogne Billancourt"
   },
   {
     "code_unite": "CC",
@@ -286,10 +282,6 @@
   {
     "code_unite": "PZ",
     "libelle_agence": "Randstad Paris"
-  },
-  {
-    "code_unite": "TWO",
-    "libelle_agence": "Randstad Boulogne Billancourt"
   },
   {
     "code_unite": "EXR",
@@ -344,10 +336,6 @@
     "libelle_agence": "Randstad Gretz Armainvilliers"
   },
   {
-    "code_unite": "FTY",
-    "libelle_agence": "Randstad Gretz Armainvilliers"
-  },
-  {
     "code_unite": "KP",
     "libelle_agence": "Randstad Gretz Armainvilliers"
   },
@@ -384,10 +372,6 @@
     "libelle_agence": "Randstad Meaux"
   },
   {
-    "code_unite": "278",
-    "libelle_agence": "Randstad Mitry Mory Teriaire"
-  },
-  {
     "code_unite": "ODT",
     "libelle_agence": "Randstad Mitry Mory Teriaire"
   },
@@ -412,15 +396,7 @@
     "libelle_agence": "Randstad Roissy"
   },
   {
-    "code_unite": "AIL",
-    "libelle_agence": "Randstad Roissy"
-  },
-  {
     "code_unite": "297",
-    "libelle_agence": "Randstad Saint Denis"
-  },
-  {
-    "code_unite": "EVI",
     "libelle_agence": "Randstad Saint Denis"
   },
   {
@@ -444,10 +420,6 @@
     "libelle_agence": "Randstad Evry Courcouronnes"
   },
   {
-    "code_unite": "COO",
-    "libelle_agence": "Randstad Evry Courcouronnes"
-  },
-  {
     "code_unite": "CEP",
     "libelle_agence": "Randstad Cergy"
   },
@@ -461,10 +433,6 @@
   },
   {
     "code_unite": "212",
-    "libelle_agence": "Randstad Evry Courcouronnes LVU"
-  },
-  {
-    "code_unite": "COT",
     "libelle_agence": "Randstad Evry Courcouronnes LVU"
   },
   {
@@ -557,15 +525,11 @@
   },
   {
     "code_unite": "284",
-    "libelle_agence": "Randstad Montigny le Bretonneux"
+    "libelle_agence": "Randstad Guyancourt"
   },
   {
     "code_unite": "QUE",
-    "libelle_agence": "Randstad Montigny le Bretonneux"
-  },
-  {
-    "code_unite": "SY",
-    "libelle_agence": "Randstad Montigny le Bretonneux"
+    "libelle_agence": "Randstad Guyancourt"
   },
   {
     "code_unite": "AER",
@@ -588,19 +552,11 @@
     "libelle_agence": "Randstad Paris"
   },
   {
-    "code_unite": "PFI",
-    "libelle_agence": "Randstad Paris"
-  },
-  {
     "code_unite": "PSO",
     "libelle_agence": "Randstad Paris"
   },
   {
     "code_unite": "B7N",
-    "libelle_agence": "Randstad Bussy st Georges"
-  },
-  {
-    "code_unite": "GOS",
     "libelle_agence": "Randstad Bussy st Georges"
   },
   {
@@ -613,7 +569,7 @@
   },
   {
     "code_unite": "BOR",
-    "libelle_agence": "Randstad Versailles"
+    "libelle_agence": "Randstad Viry Châtillon"
   },
   {
     "code_unite": "BTM",
@@ -677,6 +633,10 @@
   },
   {
     "code_unite": "1RE",
+    "libelle_agence": "Talent Center"
+  },
+  {
+    "code_unite": "AE4",
     "libelle_agence": "Talent Center"
   },
   {
@@ -932,8 +892,16 @@
     "libelle_agence": "RANDSTAD INHOUSE 823"
   },
   {
+    "code_unite": "HAB",
+    "libelle_agence": "RANDSTAD INHOUSE HAB"
+  },
+  {
     "code_unite": "HAL",
     "libelle_agence": "RANDSTAD INHOUSE HAL"
+  },
+  {
+    "code_unite": "HAO",
+    "libelle_agence": "RANDSTAD INHOUSE HAO"
   },
   {
     "code_unite": "HIG",
@@ -1148,19 +1116,11 @@
     "libelle_agence": "Randstad Sélestat"
   },
   {
-    "code_unite": "840",
-    "libelle_agence": "Randstad Strasbourg"
-  },
-  {
     "code_unite": "SG1",
     "libelle_agence": "Randstad Strasbourg"
   },
   {
     "code_unite": "V69",
-    "libelle_agence": "Randstad Strasbourg"
-  },
-  {
-    "code_unite": "VSG",
     "libelle_agence": "Randstad Strasbourg"
   },
   {
@@ -1340,42 +1300,6 @@
     "libelle_agence": "Randstad Verdun"
   },
   {
-    "code_unite": "MTZ",
-    "libelle_agence": "Randstad Metz Nancy BTP Log"
-  },
-  {
-    "code_unite": "MZ4",
-    "libelle_agence": "Randstad Metz Nancy BTP Log"
-  },
-  {
-    "code_unite": "NY",
-    "libelle_agence": "Randstad Metz Nancy BTP Log"
-  },
-  {
-    "code_unite": "NYB",
-    "libelle_agence": "Randstad Metz Nancy BTP Log"
-  },
-  {
-    "code_unite": "GL",
-    "libelle_agence": "Randstad Metz Nancy EMM T&S"
-  },
-  {
-    "code_unite": "MZ1",
-    "libelle_agence": "Randstad Metz Nancy EMM T&S"
-  },
-  {
-    "code_unite": "NM",
-    "libelle_agence": "Randstad Metz Nancy EMM T&S"
-  },
-  {
-    "code_unite": "NYF",
-    "libelle_agence": "Randstad Metz Nancy EMM T&S"
-  },
-  {
-    "code_unite": "SGO",
-    "libelle_agence": "Randstad Metz Nancy Généraliste"
-  },
-  {
     "code_unite": "MNM",
     "libelle_agence": "Randstad Thionville Manom"
   },
@@ -1384,8 +1308,36 @@
     "libelle_agence": "Randstad Thionville Manom"
   },
   {
+    "code_unite": "GL",
+    "libelle_agence": "Randstad Metz"
+  },
+  {
+    "code_unite": "MTZ",
+    "libelle_agence": "Randstad Metz"
+  },
+  {
+    "code_unite": "MZ1",
+    "libelle_agence": "Randstad Metz"
+  },
+  {
+    "code_unite": "MZ4",
+    "libelle_agence": "Randstad Metz"
+  },
+  {
     "code_unite": "MZ",
     "libelle_agence": "Randstad Onsite Metz"
+  },
+  {
+    "code_unite": "NM",
+    "libelle_agence": "Randstad Nancy"
+  },
+  {
+    "code_unite": "NY",
+    "libelle_agence": "Randstad Nancy"
+  },
+  {
+    "code_unite": "NYF",
+    "libelle_agence": "Randstad Nancy"
   },
   {
     "code_unite": "RQ",
@@ -1534,6 +1486,10 @@
   {
     "code_unite": "TIS",
     "libelle_agence": "RANDSTAD INHOUSE TIS"
+  },
+  {
+    "code_unite": "TRI",
+    "libelle_agence": "RANDSTAD INHOUSE TRI"
   },
   {
     "code_unite": "BBA",
@@ -1692,12 +1648,56 @@
     "libelle_agence": "Randstad Bain de Bretagne"
   },
   {
+    "code_unite": "BS",
+    "libelle_agence": "Randstad Brest"
+  },
+  {
+    "code_unite": "BS1",
+    "libelle_agence": "Randstad Brest"
+  },
+  {
+    "code_unite": "BS3",
+    "libelle_agence": "Randstad Brest"
+  },
+  {
+    "code_unite": "V38",
+    "libelle_agence": "Randstad Brest"
+  },
+  {
+    "code_unite": "CJ",
+    "libelle_agence": "Randstad Carhaix Plouguer"
+  },
+  {
     "code_unite": "DA",
     "libelle_agence": "Randstad Dinan"
   },
   {
+    "code_unite": "GO",
+    "libelle_agence": "Randstad Lannion"
+  },
+  {
+    "code_unite": "GU2",
+    "libelle_agence": "Randstad Ploumagoar Guingamp"
+  },
+  {
+    "code_unite": "GUI",
+    "libelle_agence": "Randstad Ploumagoar Guingamp"
+  },
+  {
     "code_unite": "MDB",
     "libelle_agence": "Randstad Montauban de Bretagne"
+  },
+  {
+    "code_unite": "NW",
+    "libelle_agence": "Randstad Quimperlé"
+  },
+  {
+    "code_unite": "OL3",
+    "libelle_agence": "Randstad Onsite Lamballe-Armor"
+  },
+  {
+    "code_unite": "OL4",
+    "libelle_agence": "Randstad Onsite Lamballe-Armor"
   },
   {
     "code_unite": "386",
@@ -1728,8 +1728,36 @@
     "libelle_agence": "Randstad Rennes"
   },
   {
+    "code_unite": "BSB",
+    "libelle_agence": "Randstad Plérin"
+  },
+  {
+    "code_unite": "SB",
+    "libelle_agence": "Randstad Plérin"
+  },
+  {
     "code_unite": "VAD",
     "libelle_agence": "Randstad Vitré"
+  },
+  {
+    "code_unite": "VA1",
+    "libelle_agence": "Randstad Lamballe-Armor"
+  },
+  {
+    "code_unite": "VAL",
+    "libelle_agence": "Randstad Lamballe-Armor"
+  },
+  {
+    "code_unite": "ZI",
+    "libelle_agence": "Randstad Morlaix"
+  },
+  {
+    "code_unite": "VAG",
+    "libelle_agence": "Randstad Quimper"
+  },
+  {
+    "code_unite": "ZK",
+    "libelle_agence": "Randstad Quimper"
   },
   {
     "code_unite": "IZL",
@@ -1756,76 +1784,60 @@
     "libelle_agence": "Randstad Fougères"
   },
   {
-    "code_unite": "BS",
-    "libelle_agence": "Randstad Brest"
+    "code_unite": "AGS",
+    "libelle_agence": "Randstad Angers"
   },
   {
-    "code_unite": "BS1",
-    "libelle_agence": "Randstad Brest"
+    "code_unite": "AGT",
+    "libelle_agence": "Randstad Angers"
   },
   {
-    "code_unite": "BS3",
-    "libelle_agence": "Randstad Brest"
+    "code_unite": "IAG",
+    "libelle_agence": "Randstad Angers"
   },
   {
-    "code_unite": "V38",
-    "libelle_agence": "Randstad Brest"
+    "code_unite": "CHG",
+    "libelle_agence": "Randstad Château Gontier"
   },
   {
-    "code_unite": "CJ",
-    "libelle_agence": "Randstad Carhaix Plouguer"
+    "code_unite": "ESR",
+    "libelle_agence": "Randstad Saumur"
   },
   {
-    "code_unite": "GO",
-    "libelle_agence": "Randstad Lannion"
+    "code_unite": "E12",
+    "libelle_agence": "Randstad Angers"
   },
   {
-    "code_unite": "GU2",
-    "libelle_agence": "Randstad Ploumagoar Guingamp"
+    "code_unite": "EVR",
+    "libelle_agence": "Randstad Evron"
   },
   {
-    "code_unite": "GUI",
-    "libelle_agence": "Randstad Ploumagoar Guingamp"
+    "code_unite": "ECH",
+    "libelle_agence": "Randstad Cholet"
   },
   {
-    "code_unite": "NW",
-    "libelle_agence": "Randstad Quimperlé"
+    "code_unite": "HS",
+    "libelle_agence": "Randstad Cholet"
   },
   {
-    "code_unite": "OL3",
-    "libelle_agence": "Randstad Onsite Lamballe-Armor"
+    "code_unite": "JS",
+    "libelle_agence": "Randstad Segré en Anjou Bleu"
   },
   {
-    "code_unite": "OL4",
-    "libelle_agence": "Randstad Onsite Lamballe-Armor"
+    "code_unite": "ILL",
+    "libelle_agence": "Randstad Laval"
   },
   {
-    "code_unite": "BSB",
-    "libelle_agence": "Randstad Plérin"
+    "code_unite": "LL",
+    "libelle_agence": "Randstad Laval"
   },
   {
-    "code_unite": "SB",
-    "libelle_agence": "Randstad Plérin"
+    "code_unite": "OLA",
+    "libelle_agence": "Randstad Onsite Laval"
   },
   {
-    "code_unite": "VA1",
-    "libelle_agence": "Randstad Lamballe-Armor"
-  },
-  {
-    "code_unite": "VAL",
-    "libelle_agence": "Randstad Lamballe-Armor"
-  },
-  {
-    "code_unite": "ZI",
-    "libelle_agence": "Randstad Morlaix"
-  },
-  {
-    "code_unite": "VAG",
-    "libelle_agence": "Randstad Quimper"
-  },
-  {
-    "code_unite": "ZK",
-    "libelle_agence": "Randstad Quimper"
+    "code_unite": "ZF",
+    "libelle_agence": "Randstad Mayenne"
   },
   {
     "code_unite": "306",
@@ -1948,58 +1960,6 @@
     "libelle_agence": "Randstad Pontivy"
   },
   {
-    "code_unite": "AGS",
-    "libelle_agence": "Randstad Angers"
-  },
-  {
-    "code_unite": "AGT",
-    "libelle_agence": "Randstad Angers"
-  },
-  {
-    "code_unite": "IAG",
-    "libelle_agence": "Randstad Angers"
-  },
-  {
-    "code_unite": "CHG",
-    "libelle_agence": "Randstad Château Gontier"
-  },
-  {
-    "code_unite": "ESR",
-    "libelle_agence": "Randstad Saumur"
-  },
-  {
-    "code_unite": "E12",
-    "libelle_agence": "Randstad Angers"
-  },
-  {
-    "code_unite": "EVR",
-    "libelle_agence": "Randstad Evron"
-  },
-  {
-    "code_unite": "ECH",
-    "libelle_agence": "Randstad Cholet"
-  },
-  {
-    "code_unite": "HS",
-    "libelle_agence": "Randstad Cholet"
-  },
-  {
-    "code_unite": "JS",
-    "libelle_agence": "Randstad Segré en Anjou Bleu"
-  },
-  {
-    "code_unite": "ILL",
-    "libelle_agence": "Randstad Laval"
-  },
-  {
-    "code_unite": "LL",
-    "libelle_agence": "Randstad Laval"
-  },
-  {
-    "code_unite": "OLA",
-    "libelle_agence": "Randstad Onsite Laval"
-  },
-  {
     "code_unite": "OLR",
     "libelle_agence": "Randstad Onsite La Roche Sur Yon"
   },
@@ -2050,10 +2010,6 @@
   {
     "code_unite": "V35",
     "libelle_agence": "Randstad Les Herbiers"
-  },
-  {
-    "code_unite": "ZF",
-    "libelle_agence": "Randstad Mayenne"
   },
   {
     "code_unite": "CG",
@@ -2204,6 +2160,10 @@
     "libelle_agence": "RANDSTAD INHOUSE EBC"
   },
   {
+    "code_unite": "FAR",
+    "libelle_agence": "RANDSTAD INHOUSE FAR"
+  },
+  {
     "code_unite": "GPC",
     "libelle_agence": "RANDSTAD INHOUSE GPC"
   },
@@ -2220,16 +2180,16 @@
     "libelle_agence": "RANDSTAD INHOUSE STC"
   },
   {
-    "code_unite": "ICX",
-    "libelle_agence": "RANDSTAD INHOUSE STC"
-  },
-  {
     "code_unite": "STC",
     "libelle_agence": "RANDSTAD INHOUSE STC"
   },
   {
     "code_unite": "SVE",
     "libelle_agence": "RANDSTAD INHOUSE SVE"
+  },
+  {
+    "code_unite": "4D2",
+    "libelle_agence": "Delivery Center St Priest"
   },
   {
     "code_unite": "AMS",
@@ -2376,10 +2336,6 @@
     "libelle_agence": "Randstad Onsite Chavanod"
   },
   {
-    "code_unite": "OR7",
-    "libelle_agence": "Randstad Onsite Chavanod"
-  },
-  {
     "code_unite": "OOY",
     "libelle_agence": "Randstad Onsite Oyonnax"
   },
@@ -2508,10 +2464,6 @@
     "libelle_agence": "Randstad Valence"
   },
   {
-    "code_unite": "VL",
-    "libelle_agence": "Randstad Valence"
-  },
-  {
     "code_unite": "VLA",
     "libelle_agence": "Randstad Valence"
   },
@@ -2526,6 +2478,10 @@
   {
     "code_unite": "VLX",
     "libelle_agence": "Randstad Valence"
+  },
+  {
+    "code_unite": "VM2",
+    "libelle_agence": "Randstad Montbrison"
   },
   {
     "code_unite": "VMN",
@@ -2592,12 +2548,8 @@
     "libelle_agence": "Randstad St Jean de Soudain"
   },
   {
-    "code_unite": "BO",
-    "libelle_agence": "Randstad Saint Quentin Fallavier"
-  },
-  {
     "code_unite": "LBO",
-    "libelle_agence": "Randstad Saint Quentin Fallavier"
+    "libelle_agence": "Randstad Bourgoin Jallieu"
   },
   {
     "code_unite": "825",
@@ -2629,7 +2581,7 @@
   },
   {
     "code_unite": "OF1",
-    "libelle_agence": "Randstad Onsite St Quentin Fallavi"
+    "libelle_agence": "Randstad Onsite Bourgoin Jallieu"
   },
   {
     "code_unite": "OP7",
@@ -2644,20 +2596,12 @@
     "libelle_agence": "Randstad Seyssinet Pariset"
   },
   {
-    "code_unite": "JPV",
-    "libelle_agence": "Randstad Seyssinet Pariset"
-  },
-  {
     "code_unite": "PV",
     "libelle_agence": "Randstad Seyssinet Pariset"
   },
   {
     "code_unite": "PV2",
     "libelle_agence": "Randstad Seyssinet Pariset"
-  },
-  {
-    "code_unite": "SM2",
-    "libelle_agence": "Randstad Saint Marcellin"
   },
   {
     "code_unite": "SMA",
@@ -2709,10 +2653,6 @@
   },
   {
     "code_unite": "615",
-    "libelle_agence": "Randstad St Genis Laval"
-  },
-  {
-    "code_unite": "OS",
     "libelle_agence": "Randstad St Genis Laval"
   },
   {
@@ -2824,6 +2764,10 @@
     "libelle_agence": "RANDSTAD INHOUSE CRC"
   },
   {
+    "code_unite": "FA2",
+    "libelle_agence": "RANDSTAD INHOUSE FAM"
+  },
+  {
     "code_unite": "FAM",
     "libelle_agence": "RANDSTAD INHOUSE FAM"
   },
@@ -2846,6 +2790,10 @@
   {
     "code_unite": "NRE",
     "libelle_agence": "RANDSTAD INHOUSE NRE"
+  },
+  {
+    "code_unite": "PFA",
+    "libelle_agence": "RANDSTAD INHOUSE PFA"
   },
   {
     "code_unite": "RAI",
@@ -2884,10 +2832,6 @@
     "libelle_agence": "Randstad Pamiers"
   },
   {
-    "code_unite": "838",
-    "libelle_agence": "Randstad Pamiers"
-  },
-  {
     "code_unite": "AC",
     "libelle_agence": "Randstad Mazamet"
   },
@@ -2913,10 +2857,6 @@
   },
   {
     "code_unite": "MQ",
-    "libelle_agence": "Randstad Millau"
-  },
-  {
-    "code_unite": "MQ2",
     "libelle_agence": "Randstad Millau"
   },
   {
@@ -2984,15 +2924,7 @@
     "libelle_agence": "Randstad Montpellier"
   },
   {
-    "code_unite": "QD2",
-    "libelle_agence": "Randstad Montpellier"
-  },
-  {
     "code_unite": "758",
-    "libelle_agence": "Randstad Cabestany"
-  },
-  {
-    "code_unite": "797",
     "libelle_agence": "Randstad Cabestany"
   },
   {
@@ -3048,15 +2980,7 @@
     "libelle_agence": "Randstad Montpellier"
   },
   {
-    "code_unite": "IMP",
-    "libelle_agence": "Randstad Montpellier"
-  },
-  {
     "code_unite": "QT",
-    "libelle_agence": "Randstad Montpellier"
-  },
-  {
-    "code_unite": "TKV",
     "libelle_agence": "Randstad Montpellier"
   },
   {
@@ -3098,10 +3022,6 @@
   {
     "code_unite": "MAS",
     "libelle_agence": "Randstad Pierrelatte"
-  },
-  {
-    "code_unite": "EMS",
-    "libelle_agence": "Randstad Salon de Provence"
   },
   {
     "code_unite": "OCS",
@@ -3260,10 +3180,6 @@
     "libelle_agence": "Randstad Toulon"
   },
   {
-    "code_unite": "T21",
-    "libelle_agence": "Randstad Toulon"
-  },
-  {
     "code_unite": "TN",
     "libelle_agence": "Randstad Toulon"
   },
@@ -3289,10 +3205,6 @@
   },
   {
     "code_unite": "WM7",
-    "libelle_agence": "Randstad Fréjus"
-  },
-  {
-    "code_unite": "WMX",
     "libelle_agence": "Randstad Fréjus"
   },
   {
@@ -3396,6 +3308,10 @@
     "libelle_agence": "RANDSTAD INHOUSE DFE"
   },
   {
+    "code_unite": "ELV",
+    "libelle_agence": "RANDSTAD INHOUSE ELV"
+  },
+  {
     "code_unite": "FMR",
     "libelle_agence": "RANDSTAD INHOUSE FMR"
   },
@@ -3412,6 +3328,18 @@
     "libelle_agence": "RANDSTAD INHOUSE SFA"
   },
   {
+    "code_unite": "VA6",
+    "libelle_agence": "RANDSTAD INHOUSE VA6"
+  },
+  {
+    "code_unite": "VAM",
+    "libelle_agence": "RANDSTAD INHOUSE VAM"
+  },
+  {
+    "code_unite": "VE6",
+    "libelle_agence": "RANDSTAD INHOUSE VE6"
+  },
+  {
     "code_unite": "WBS",
     "libelle_agence": "RANDSTAD INHOUSE WBS"
   },
@@ -3424,8 +3352,8 @@
     "libelle_agence": "RANDSTAD INHOUSE EAR"
   },
   {
-    "code_unite": "ELV",
-    "libelle_agence": "RANDSTAD INHOUSE ELV"
+    "code_unite": "FDH",
+    "libelle_agence": "RANDSTAD INHOUSE FDH"
   },
   {
     "code_unite": "FHB",
@@ -3450,6 +3378,10 @@
   {
     "code_unite": "RVI",
     "libelle_agence": "RANDSTAD INHOUSE RVI"
+  },
+  {
+    "code_unite": "SFE",
+    "libelle_agence": "RANDSTAD INHOUSE SFE"
   },
   {
     "code_unite": "SIO",
@@ -3492,6 +3424,10 @@
     "libelle_agence": "RANDSTAD INHOUSE ICK"
   },
   {
+    "code_unite": "LBU",
+    "libelle_agence": "RANDSTAD INHOUSE LBU"
+  },
+  {
     "code_unite": "SCC",
     "libelle_agence": "RANDSTAD INHOUSE SCC"
   },
@@ -3500,64 +3436,8 @@
     "libelle_agence": "RANDSTAD INHOUSE TMI"
   },
   {
-    "code_unite": "VA6",
-    "libelle_agence": "RANDSTAD INHOUSE VA6"
-  },
-  {
-    "code_unite": "VAM",
-    "libelle_agence": "RANDSTAD INHOUSE VAM"
-  },
-  {
-    "code_unite": "VE6",
-    "libelle_agence": "RANDSTAD INHOUSE VE6"
-  },
-  {
-    "code_unite": "AAN",
-    "libelle_agence": "RANDSTAD INHOUSE AAN"
-  },
-  {
-    "code_unite": "ALC",
-    "libelle_agence": "RANDSTAD INHOUSE ALC"
-  },
-  {
-    "code_unite": "APF",
-    "libelle_agence": "RANDSTAD INHOUSE APF"
-  },
-  {
-    "code_unite": "FDH",
-    "libelle_agence": "RANDSTAD INHOUSE FDH"
-  },
-  {
-    "code_unite": "ICA",
-    "libelle_agence": "RANDSTAD INHOUSE ICA"
-  },
-  {
-    "code_unite": "ICB",
-    "libelle_agence": "RANDSTAD INHOUSE ICB"
-  },
-  {
-    "code_unite": "MDE",
-    "libelle_agence": "RANDSTAD INHOUSE MDE"
-  },
-  {
     "code_unite": "SCM",
     "libelle_agence": "RANDSTAD INHOUSE SCM"
-  },
-  {
-    "code_unite": "SFE",
-    "libelle_agence": "RANDSTAD INHOUSE SFE"
-  },
-  {
-    "code_unite": "SRN",
-    "libelle_agence": "RANDSTAD INHOUSE SRN"
-  },
-  {
-    "code_unite": "STV",
-    "libelle_agence": "RANDSTAD INHOUSE STV"
-  },
-  {
-    "code_unite": "TON",
-    "libelle_agence": "RANDSTAD INHOUSE TON"
   },
   {
     "code_unite": "6DC",
@@ -3612,12 +3492,24 @@
     "libelle_agence": "RANDSTAD INHOUSE 895"
   },
   {
+    "code_unite": "AAN",
+    "libelle_agence": "RANDSTAD INHOUSE AAN"
+  },
+  {
     "code_unite": "ABB",
     "libelle_agence": "RANDSTAD INHOUSE ABB"
   },
   {
+    "code_unite": "ALC",
+    "libelle_agence": "RANDSTAD INHOUSE ALC"
+  },
+  {
     "code_unite": "AMV",
     "libelle_agence": "RANDSTAD INHOUSE AMV"
+  },
+  {
+    "code_unite": "APF",
+    "libelle_agence": "RANDSTAD INHOUSE APF"
   },
   {
     "code_unite": "CCR",
@@ -3640,6 +3532,14 @@
     "libelle_agence": "RANDSTAD INHOUSE HOM"
   },
   {
+    "code_unite": "ICA",
+    "libelle_agence": "RANDSTAD INHOUSE ICA"
+  },
+  {
+    "code_unite": "ICB",
+    "libelle_agence": "RANDSTAD INHOUSE ICB"
+  },
+  {
     "code_unite": "ICL",
     "libelle_agence": "RANDSTAD INHOUSE ICL"
   },
@@ -3648,48 +3548,40 @@
     "libelle_agence": "RANDSTAD INHOUSE INB"
   },
   {
-    "code_unite": "LBU",
-    "libelle_agence": "RANDSTAD INHOUSE LBU"
+    "code_unite": "MAE",
+    "libelle_agence": "RANDSTAD INHOUSE MAE"
+  },
+  {
+    "code_unite": "MDE",
+    "libelle_agence": "RANDSTAD INHOUSE MDE"
   },
   {
     "code_unite": "PIH",
     "libelle_agence": "RANDSTAD INHOUSE PIH"
   },
   {
-    "code_unite": "ARF",
-    "libelle_agence": "Randstad Châlons-en-Champagne"
+    "code_unite": "SRN",
+    "libelle_agence": "RANDSTAD INHOUSE SRN"
   },
   {
-    "code_unite": "BI",
-    "libelle_agence": "Randstad Beauvais"
+    "code_unite": "STV",
+    "libelle_agence": "RANDSTAD INHOUSE STV"
+  },
+  {
+    "code_unite": "TON",
+    "libelle_agence": "RANDSTAD INHOUSE TON"
+  },
+  {
+    "code_unite": "ARF",
+    "libelle_agence": "Randstad Châlons-en-Champagne"
   },
   {
     "code_unite": "CM",
     "libelle_agence": "Randstad Charleville Mézières"
   },
   {
-    "code_unite": "CP1",
-    "libelle_agence": "Randstad Lacroix-St-Ouen"
-  },
-  {
-    "code_unite": "CTH",
-    "libelle_agence": "Randstad Château Thierry"
-  },
-  {
-    "code_unite": "255",
-    "libelle_agence": "Randstad St Maximin"
-  },
-  {
-    "code_unite": "CX",
-    "libelle_agence": "Randstad St Maximin"
-  },
-  {
     "code_unite": "GX",
     "libelle_agence": "Randstad Chooz"
-  },
-  {
-    "code_unite": "JF",
-    "libelle_agence": "Randstad Saint Just en Chaussée"
   },
   {
     "code_unite": "KF",
@@ -3698,22 +3590,6 @@
   {
     "code_unite": "KJ",
     "libelle_agence": "Randstad Monthermé"
-  },
-  {
-    "code_unite": "CYI",
-    "libelle_agence": "Randstad Crépy en Valois"
-  },
-  {
-    "code_unite": "KZ",
-    "libelle_agence": "Randstad Crépy en Valois"
-  },
-  {
-    "code_unite": "KZ1",
-    "libelle_agence": "Randstad Crépy en Valois"
-  },
-  {
-    "code_unite": "NOY",
-    "libelle_agence": "Randstad Noyon"
   },
   {
     "code_unite": "OR3",
@@ -3760,24 +3636,8 @@
     "libelle_agence": "Randstad St Maximin Recrutement"
   },
   {
-    "code_unite": "SOI",
-    "libelle_agence": "Randstad Soissons"
-  },
-  {
-    "code_unite": "SQ",
-    "libelle_agence": "Randstad Saint Quentin"
-  },
-  {
-    "code_unite": "VCT",
-    "libelle_agence": "Randstad Saint Quentin"
-  },
-  {
     "code_unite": "SR",
     "libelle_agence": "Randstad Saint Dizier"
-  },
-  {
-    "code_unite": "SZ",
-    "libelle_agence": "Randstad Senlis"
   },
   {
     "code_unite": "TEC",
@@ -3800,16 +3660,8 @@
     "libelle_agence": "Randstad Nogent sur Seine"
   },
   {
-    "code_unite": "VN",
-    "libelle_agence": "Randstad Vervins"
-  },
-  {
     "code_unite": "YF",
     "libelle_agence": "Randstad Epernay"
-  },
-  {
-    "code_unite": "YK",
-    "libelle_agence": "Randstad Méru"
   },
   {
     "code_unite": "YSI",
@@ -3817,19 +3669,19 @@
   },
   {
     "code_unite": "424",
-    "libelle_agence": "Randstad Lille"
+    "libelle_agence": "Randstad Wasquehal"
   },
   {
     "code_unite": "425",
-    "libelle_agence": "Randstad Lille"
+    "libelle_agence": "Randstad Wasquehal"
   },
   {
     "code_unite": "427",
-    "libelle_agence": "Randstad Lille"
+    "libelle_agence": "Randstad Wasquehal"
   },
   {
     "code_unite": "LI",
-    "libelle_agence": "Randstad Lille"
+    "libelle_agence": "Randstad Wasquehal"
   },
   {
     "code_unite": "437",
@@ -3838,6 +3690,14 @@
   {
     "code_unite": "P37",
     "libelle_agence": "Randstad Lesquin"
+  },
+  {
+    "code_unite": "DCV",
+    "libelle_agence": "Randstad Dunkerque"
+  },
+  {
+    "code_unite": "DKT",
+    "libelle_agence": "Randstad Dunkerque"
   },
   {
     "code_unite": "KA",
@@ -3888,8 +3748,16 @@
     "libelle_agence": "Randstad Lille"
   },
   {
+    "code_unite": "V19",
+    "libelle_agence": "Randstad Armentieres"
+  },
+  {
     "code_unite": "V83",
     "libelle_agence": "Randstad Douai"
+  },
+  {
+    "code_unite": "V87",
+    "libelle_agence": "Randstad Hazebrouck"
   },
   {
     "code_unite": "ERX",
@@ -3964,20 +3832,64 @@
     "libelle_agence": "Randstad Amiens Rivery"
   },
   {
+    "code_unite": "BI",
+    "libelle_agence": "Randstad Beauvais"
+  },
+  {
     "code_unite": "BQ",
     "libelle_agence": "Randstad Outreau"
   },
   {
-    "code_unite": "DCV",
-    "libelle_agence": "Randstad Dunkerque"
+    "code_unite": "CP1",
+    "libelle_agence": "Randstad Lacroix-St-Ouen"
   },
   {
-    "code_unite": "DKT",
-    "libelle_agence": "Randstad Dunkerque"
+    "code_unite": "CTH",
+    "libelle_agence": "Randstad Château Thierry"
   },
   {
-    "code_unite": "V19",
-    "libelle_agence": "Randstad Armentieres"
+    "code_unite": "255",
+    "libelle_agence": "Randstad St Maximin"
+  },
+  {
+    "code_unite": "CX",
+    "libelle_agence": "Randstad St Maximin"
+  },
+  {
+    "code_unite": "JF",
+    "libelle_agence": "Randstad Saint Just en Chaussée"
+  },
+  {
+    "code_unite": "CYI",
+    "libelle_agence": "Randstad Crépy en Valois"
+  },
+  {
+    "code_unite": "KZ",
+    "libelle_agence": "Randstad Crépy en Valois"
+  },
+  {
+    "code_unite": "KZ1",
+    "libelle_agence": "Randstad Crépy en Valois"
+  },
+  {
+    "code_unite": "NOY",
+    "libelle_agence": "Randstad Noyon"
+  },
+  {
+    "code_unite": "SOI",
+    "libelle_agence": "Randstad Soissons"
+  },
+  {
+    "code_unite": "SQ",
+    "libelle_agence": "Randstad Saint Quentin"
+  },
+  {
+    "code_unite": "VCT",
+    "libelle_agence": "Randstad Saint Quentin"
+  },
+  {
+    "code_unite": "SZ",
+    "libelle_agence": "Randstad Senlis"
   },
   {
     "code_unite": "CST",
@@ -3988,8 +3900,8 @@
     "libelle_agence": "Randstad Calais"
   },
   {
-    "code_unite": "V87",
-    "libelle_agence": "Randstad Hazebrouck"
+    "code_unite": "VN",
+    "libelle_agence": "Randstad Vervins"
   },
   {
     "code_unite": "V14",
@@ -4002,6 +3914,10 @@
   {
     "code_unite": "YC",
     "libelle_agence": "Randstad Lens"
+  },
+  {
+    "code_unite": "YK",
+    "libelle_agence": "Randstad Méru"
   },
   {
     "code_unite": "8GB",
@@ -4048,8 +3964,8 @@
     "libelle_agence": "Delivery Center La Ferte Mace"
   },
   {
-    "code_unite": "EPC",
-    "libelle_agence": "RANDSTAD INHOUSE EPC"
+    "code_unite": "EVP",
+    "libelle_agence": "RANDSTAD INHOUSE EVP"
   },
   {
     "code_unite": "FMT",
@@ -4064,8 +3980,8 @@
     "libelle_agence": "RANDSTAD INHOUSE GPH"
   },
   {
-    "code_unite": "KCS",
-    "libelle_agence": "RANDSTAD INHOUSE KCS"
+    "code_unite": "GVP",
+    "libelle_agence": "RANDSTAD INHOUSE GVP"
   },
   {
     "code_unite": "LSA",
@@ -4076,28 +3992,12 @@
     "libelle_agence": "RANDSTAD INHOUSE LSL"
   },
   {
-    "code_unite": "MFM",
-    "libelle_agence": "RANDSTAD INHOUSE MFM"
-  },
-  {
     "code_unite": "MVI",
     "libelle_agence": "RANDSTAD INHOUSE MVI"
   },
   {
-    "code_unite": "SCE",
-    "libelle_agence": "RANDSTAD INHOUSE SCE"
-  },
-  {
-    "code_unite": "VEO",
-    "libelle_agence": "RANDSTAD INHOUSE VEO"
-  },
-  {
     "code_unite": "VMO",
     "libelle_agence": "RANDSTAD INHOUSE VMO"
-  },
-  {
-    "code_unite": "XSV",
-    "libelle_agence": "RANDSTAD INHOUSE XSV"
   },
   {
     "code_unite": "AS6",
@@ -4116,20 +4016,12 @@
     "libelle_agence": "RANDSTAD INHOUSE ERO"
   },
   {
-    "code_unite": "EVP",
-    "libelle_agence": "RANDSTAD INHOUSE EVP"
-  },
-  {
     "code_unite": "FBR",
     "libelle_agence": "RANDSTAD INHOUSE FBR"
   },
   {
     "code_unite": "GAR",
     "libelle_agence": "RANDSTAD INHOUSE GAR"
-  },
-  {
-    "code_unite": "GVP",
-    "libelle_agence": "RANDSTAD INHOUSE GVP"
   },
   {
     "code_unite": "NAL",
@@ -4146,10 +4038,6 @@
   {
     "code_unite": "TKT",
     "libelle_agence": "RANDSTAD INHOUSE TKT"
-  },
-  {
-    "code_unite": "VNR",
-    "libelle_agence": "RANDSTAD INHOUSE VNR"
   },
   {
     "code_unite": "VSU",
@@ -4172,12 +4060,28 @@
     "libelle_agence": "RANDSTAD INHOUSE CSC"
   },
   {
+    "code_unite": "CTY",
+    "libelle_agence": "RANDSTAD INHOUSE CTY"
+  },
+  {
     "code_unite": "FTH",
     "libelle_agence": "RANDSTAD INHOUSE FTH"
   },
   {
+    "code_unite": "GCH",
+    "libelle_agence": "RANDSTAD INHOUSE GCH"
+  },
+  {
+    "code_unite": "GOR",
+    "libelle_agence": "RANDSTAD INHOUSE GOR"
+  },
+  {
     "code_unite": "HMO",
     "libelle_agence": "RANDSTAD INHOUSE HMO"
+  },
+  {
+    "code_unite": "IDR",
+    "libelle_agence": "RANDSTAD INHOUSE IDR"
   },
   {
     "code_unite": "LLB",
@@ -4208,12 +4112,12 @@
     "libelle_agence": "RANDSTAD INHOUSE VBL"
   },
   {
-    "code_unite": "COC",
-    "libelle_agence": "RANDSTAD INHOUSE COC"
+    "code_unite": "VNR",
+    "libelle_agence": "RANDSTAD INHOUSE VNR"
   },
   {
-    "code_unite": "CTY",
-    "libelle_agence": "RANDSTAD INHOUSE CTY"
+    "code_unite": "COC",
+    "libelle_agence": "RANDSTAD INHOUSE COC"
   },
   {
     "code_unite": "PC1",
@@ -4224,24 +4128,16 @@
     "libelle_agence": "Delivery Center Petit Couronne"
   },
   {
+    "code_unite": "EPC",
+    "libelle_agence": "RANDSTAD INHOUSE EPC"
+  },
+  {
     "code_unite": "ESD",
     "libelle_agence": "RANDSTAD INHOUSE ESD"
   },
   {
     "code_unite": "FLO",
     "libelle_agence": "RANDSTAD INHOUSE FLO"
-  },
-  {
-    "code_unite": "GCH",
-    "libelle_agence": "RANDSTAD INHOUSE GCH"
-  },
-  {
-    "code_unite": "GOR",
-    "libelle_agence": "RANDSTAD INHOUSE GOR"
-  },
-  {
-    "code_unite": "IDR",
-    "libelle_agence": "RANDSTAD INHOUSE IDR"
   },
   {
     "code_unite": "JDF",
@@ -4252,12 +4148,32 @@
     "libelle_agence": "RANDSTAD INHOUSE JVR"
   },
   {
+    "code_unite": "KCS",
+    "libelle_agence": "RANDSTAD INHOUSE KCS"
+  },
+  {
+    "code_unite": "MFM",
+    "libelle_agence": "RANDSTAD INHOUSE MFM"
+  },
+  {
+    "code_unite": "SCE",
+    "libelle_agence": "RANDSTAD INHOUSE SCE"
+  },
+  {
+    "code_unite": "VEO",
+    "libelle_agence": "RANDSTAD INHOUSE VEO"
+  },
+  {
     "code_unite": "VNE",
     "libelle_agence": "RANDSTAD INHOUSE VNE"
   },
   {
     "code_unite": "VPK",
     "libelle_agence": "RANDSTAD INHOUSE VPK"
+  },
+  {
+    "code_unite": "XSV",
+    "libelle_agence": "RANDSTAD INHOUSE XSV"
   },
   {
     "code_unite": "332",
@@ -4300,16 +4216,12 @@
     "libelle_agence": "Randstad Caen"
   },
   {
-    "code_unite": "DOV",
-    "libelle_agence": "Agence Deauville"
-  },
-  {
     "code_unite": "E52",
     "libelle_agence": "Randstad Avranches"
   },
   {
     "code_unite": "KE",
-    "libelle_agence": "Randstad Coutances"
+    "libelle_agence": "Randstad Saint Lô"
   },
   {
     "code_unite": "LFA",
@@ -4468,26 +4380,6 @@
     "libelle_agence": "Randstad Eu"
   },
   {
-    "code_unite": "136",
-    "libelle_agence": "Randstad Amboise"
-  },
-  {
-    "code_unite": "AM6",
-    "libelle_agence": "Randstad Amboise"
-  },
-  {
-    "code_unite": "860",
-    "libelle_agence": "Randstad Tours"
-  },
-  {
-    "code_unite": "921",
-    "libelle_agence": "Randstad Blois"
-  },
-  {
-    "code_unite": "BL",
-    "libelle_agence": "Randstad Blois"
-  },
-  {
     "code_unite": "FR",
     "libelle_agence": "Randstad La ferté Bernard"
   },
@@ -4498,10 +4390,6 @@
   {
     "code_unite": "JA",
     "libelle_agence": "Randstad Sablé sur Sarthe"
-  },
-  {
-    "code_unite": "JR",
-    "libelle_agence": "Randstad Romorantin Lanthenay"
   },
   {
     "code_unite": "421",
@@ -4532,36 +4420,36 @@
     "libelle_agence": "Randstad Le Mans"
   },
   {
-    "code_unite": "TDI",
-    "libelle_agence": "Randstad Tours"
-  },
-  {
-    "code_unite": "TO",
-    "libelle_agence": "Randstad Tours"
-  },
-  {
-    "code_unite": "LTO",
-    "libelle_agence": "Randstad Tours"
-  },
-  {
-    "code_unite": "TOG",
-    "libelle_agence": "Randstad Tours"
-  },
-  {
-    "code_unite": "VV",
-    "libelle_agence": "Randstad Vendôme"
-  },
-  {
     "code_unite": "108",
     "libelle_agence": "Randstad Buzançais"
+  },
+  {
+    "code_unite": "136",
+    "libelle_agence": "Randstad Amboise"
+  },
+  {
+    "code_unite": "AM6",
+    "libelle_agence": "Randstad Amboise"
   },
   {
     "code_unite": "EDX",
     "libelle_agence": "Randstad Dreux"
   },
   {
+    "code_unite": "860",
+    "libelle_agence": "Randstad Tours"
+  },
+  {
     "code_unite": "BG",
     "libelle_agence": "Randstad Bourges"
+  },
+  {
+    "code_unite": "921",
+    "libelle_agence": "Randstad Blois"
+  },
+  {
+    "code_unite": "BL",
+    "libelle_agence": "Randstad Blois"
   },
   {
     "code_unite": "CHL",
@@ -4604,6 +4492,10 @@
     "libelle_agence": "Randstad Châteaudun"
   },
   {
+    "code_unite": "JR",
+    "libelle_agence": "Randstad Romorantin Lanthenay"
+  },
+  {
     "code_unite": "MK",
     "libelle_agence": "Randstad Montargis"
   },
@@ -4624,8 +4516,28 @@
     "libelle_agence": "Randstad Sully sur Loire"
   },
   {
+    "code_unite": "TDI",
+    "libelle_agence": "Randstad Tours"
+  },
+  {
+    "code_unite": "TO",
+    "libelle_agence": "Randstad Tours"
+  },
+  {
+    "code_unite": "LTO",
+    "libelle_agence": "Randstad Tours"
+  },
+  {
+    "code_unite": "TOG",
+    "libelle_agence": "Randstad Tours"
+  },
+  {
     "code_unite": "VIE",
     "libelle_agence": "Randstad Vierzon"
+  },
+  {
+    "code_unite": "VV",
+    "libelle_agence": "Randstad Vendôme"
   },
   {
     "code_unite": "9GA",
@@ -4736,6 +4648,10 @@
     "libelle_agence": "RANDSTAD INHOUSE PS9"
   },
   {
+    "code_unite": "TCL",
+    "libelle_agence": "RANDSTAD INHOUSE TCL"
+  },
+  {
     "code_unite": "VIS",
     "libelle_agence": "RANDSTAD INHOUSE VIS"
   },
@@ -4788,8 +4704,20 @@
     "libelle_agence": "Randstad Bordeaux"
   },
   {
-    "code_unite": "BAA",
-    "libelle_agence": "Randstad Bordeaux"
+    "code_unite": "PAX",
+    "libelle_agence": "Randstad Bayonne"
+  },
+  {
+    "code_unite": "TA2",
+    "libelle_agence": "Randstad Bayonne"
+  },
+  {
+    "code_unite": "TAR",
+    "libelle_agence": "Randstad Bayonne"
+  },
+  {
+    "code_unite": "BE4",
+    "libelle_agence": "Randstad Bayonne"
   },
   {
     "code_unite": "BRD",
@@ -4812,6 +4740,14 @@
     "libelle_agence": "Randstad Pessac"
   },
   {
+    "code_unite": "HAU",
+    "libelle_agence": "Randstad Mont de Marsan"
+  },
+  {
+    "code_unite": "MDM",
+    "libelle_agence": "Randstad Mont de Marsan"
+  },
+  {
     "code_unite": "HN",
     "libelle_agence": "Randstad Bergerac"
   },
@@ -4824,8 +4760,12 @@
     "libelle_agence": "Randstad Biganos"
   },
   {
-    "code_unite": "DY",
-    "libelle_agence": "Randstad Pessac"
+    "code_unite": "LOU",
+    "libelle_agence": "Randstad Tarbes"
+  },
+  {
+    "code_unite": "TC",
+    "libelle_agence": "Randstad Tarbes"
   },
   {
     "code_unite": "LPC",
@@ -4840,20 +4780,20 @@
     "libelle_agence": "Randstad Agen"
   },
   {
+    "code_unite": "MIM",
+    "libelle_agence": "Randstad Mimizan"
+  },
+  {
     "code_unite": "OB2",
     "libelle_agence": "Randstad Onsite Pompignac"
   },
   {
-    "code_unite": "OBO",
-    "libelle_agence": "Randstad Onsite Pessac"
+    "code_unite": "ORT",
+    "libelle_agence": "Randstad Orthez"
   },
   {
-    "code_unite": "OSQ",
-    "libelle_agence": "Randstad Onsite Pessac"
-  },
-  {
-    "code_unite": "PSX",
-    "libelle_agence": "Pôle Sourcing Bordeaux"
+    "code_unite": "PA4",
+    "libelle_agence": "Randstad Pau"
   },
   {
     "code_unite": "RBX",
@@ -4865,10 +4805,6 @@
   },
   {
     "code_unite": "804",
-    "libelle_agence": "Randstad Pessac"
-  },
-  {
-    "code_unite": "TBO",
     "libelle_agence": "Randstad Pessac"
   },
   {
@@ -4896,8 +4832,20 @@
     "libelle_agence": "Randstad Périgueux"
   },
   {
+    "code_unite": "ZQ",
+    "libelle_agence": "Randstad Dax"
+  },
+  {
+    "code_unite": "ZQ2",
+    "libelle_agence": "Randstad Dax"
+  },
+  {
     "code_unite": "693",
     "libelle_agence": "Randstad Clermont Ferrand"
+  },
+  {
+    "code_unite": "ACR",
+    "libelle_agence": "Randstad Saint Céré"
   },
   {
     "code_unite": "AUR",
@@ -4918,6 +4866,14 @@
   {
     "code_unite": "TCF",
     "libelle_agence": "Randstad Clermont Ferrand"
+  },
+  {
+    "code_unite": "FCE",
+    "libelle_agence": "Randstad Figeac"
+  },
+  {
+    "code_unite": "FIG",
+    "libelle_agence": "Randstad Figeac"
   },
   {
     "code_unite": "ICF",
@@ -4960,12 +4916,12 @@
     "libelle_agence": "Randstad Onsite Clermont Ferrand"
   },
   {
-    "code_unite": "OI1",
-    "libelle_agence": "Randstad Onsite Issoire"
-  },
-  {
     "code_unite": "OR8",
     "libelle_agence": "Randstad Onsite Riom"
+  },
+  {
+    "code_unite": "QB",
+    "libelle_agence": "Randstad Cahors"
   },
   {
     "code_unite": "SJ",
@@ -5016,22 +4972,6 @@
     "libelle_agence": "Randstad Saintes"
   },
   {
-    "code_unite": "CCX",
-    "libelle_agence": "Randstad Onsite Poitiers"
-  },
-  {
-    "code_unite": "OP1",
-    "libelle_agence": "Randstad Onsite Poitiers"
-  },
-  {
-    "code_unite": "OP2",
-    "libelle_agence": "Randstad Onsite Poitiers"
-  },
-  {
-    "code_unite": "OP3",
-    "libelle_agence": "Randstad Onsite Poitiers"
-  },
-  {
     "code_unite": "CDP",
     "libelle_agence": "Randstad Chasseneuil du Poitou"
   },
@@ -5064,10 +5004,6 @@
     "libelle_agence": "Randstad Parthenay"
   },
   {
-    "code_unite": "PPF",
-    "libelle_agence": "Randstad Poitiers"
-  },
-  {
     "code_unite": "V95",
     "libelle_agence": "Randstad Poitiers"
   },
@@ -5080,20 +5016,8 @@
     "libelle_agence": "Randstad Rochefort"
   },
   {
-    "code_unite": "JZW",
-    "libelle_agence": "Randstad Bressuire"
-  },
-  {
     "code_unite": "ZW",
     "libelle_agence": "Randstad Bressuire"
-  },
-  {
-    "code_unite": "ACR",
-    "libelle_agence": "Randstad Saint Céré"
-  },
-  {
-    "code_unite": "QB",
-    "libelle_agence": "Randstad Saint Céré"
   },
   {
     "code_unite": "AR",
@@ -5104,72 +5028,12 @@
     "libelle_agence": "Randstad Auch"
   },
   {
-    "code_unite": "PAX",
-    "libelle_agence": "Randstad Bayonne"
-  },
-  {
-    "code_unite": "TA2",
-    "libelle_agence": "Randstad Bayonne"
-  },
-  {
-    "code_unite": "TAR",
-    "libelle_agence": "Randstad Bayonne"
-  },
-  {
-    "code_unite": "BE4",
-    "libelle_agence": "Randstad Bayonne"
-  },
-  {
-    "code_unite": "FCE",
-    "libelle_agence": "Randstad Figeac"
-  },
-  {
-    "code_unite": "FIG",
-    "libelle_agence": "Randstad Figeac"
-  },
-  {
-    "code_unite": "HAU",
-    "libelle_agence": "Randstad Mont de Marsan"
-  },
-  {
-    "code_unite": "MDM",
-    "libelle_agence": "Randstad Mont de Marsan"
-  },
-  {
-    "code_unite": "LOU",
-    "libelle_agence": "Randstad Tarbes"
-  },
-  {
-    "code_unite": "TC",
-    "libelle_agence": "Randstad Tarbes"
-  },
-  {
-    "code_unite": "MIM",
-    "libelle_agence": "Randstad Mimizan"
-  },
-  {
     "code_unite": "IMM",
     "libelle_agence": "Randstad Montauban"
   },
   {
     "code_unite": "MM",
     "libelle_agence": "Randstad Montauban"
-  },
-  {
-    "code_unite": "ORT",
-    "libelle_agence": "Randstad Orthez"
-  },
-  {
-    "code_unite": "PA4",
-    "libelle_agence": "Randstad Pau"
-  },
-  {
-    "code_unite": "ZQ",
-    "libelle_agence": "Randstad Dax"
-  },
-  {
-    "code_unite": "ZQ2",
-    "libelle_agence": "Randstad Dax"
   },
   {
     "code_unite": "CSJ",
@@ -5205,7 +5069,7 @@
   },
   {
     "code_unite": "JKN",
-    "libelle_agence": "Agence Jbm Seine et Marne"
+    "libelle_agence": "Agence Jbm Paris"
   },
   {
     "code_unite": "JLI",
@@ -5825,15 +5689,15 @@
   },
   {
     "code_unite": "O75",
-    "libelle_agence": "Ag Expectra Périgny"
+    "libelle_agence": "Ag Expectra Rochefort"
   },
   {
     "code_unite": "S75",
-    "libelle_agence": "Ag Expectra Périgny"
+    "libelle_agence": "Ag Expectra Rochefort"
   },
   {
     "code_unite": "U75",
-    "libelle_agence": "Ag Expectra Périgny"
+    "libelle_agence": "Ag Expectra Rochefort"
   },
   {
     "code_unite": "U18",
@@ -6453,7 +6317,7 @@
   },
   {
     "code_unite": "RAP",
-    "libelle_agence": "Ag. appel médical Est Placement"
+    "libelle_agence": "Appel Médical Sud Placement"
   },
   {
     "code_unite": "RBP",
@@ -7101,7 +6965,7 @@
   },
   {
     "code_unite": "TRB",
-    "libelle_agence": "Agence Tarbes Appel Medical"
+    "libelle_agence": "Agence de Pau Appel Medical"
   },
   {
     "code_unite": "VMA",
