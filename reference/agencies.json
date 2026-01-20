@@ -208,6 +208,10 @@
     "libelle_agence": "RANDSTAD INHOUSE UCM"
   },
   {
+    "code_unite": "D7L",
+    "libelle_agence": "Delivery National Logistique"
+  },
+  {
     "code_unite": "DNA",
     "libelle_agence": "Delivery National Agroalimentaire"
   },
@@ -297,47 +301,47 @@
   },
   {
     "code_unite": "ONE",
-    "libelle_agence": "Randstad Paris"
+    "libelle_agence": "Randstad Puteaux"
   },
   {
     "code_unite": "PO",
-    "libelle_agence": "Randstad Paris"
+    "libelle_agence": "Randstad Puteaux"
   },
   {
     "code_unite": "PO2",
-    "libelle_agence": "Randstad Paris"
+    "libelle_agence": "Randstad Puteaux"
   },
   {
     "code_unite": "PO4",
-    "libelle_agence": "Randstad Paris"
+    "libelle_agence": "Randstad Puteaux"
   },
   {
     "code_unite": "PZ",
-    "libelle_agence": "Randstad Paris"
+    "libelle_agence": "Randstad Puteaux"
   },
   {
     "code_unite": "EXR",
-    "libelle_agence": "Randstad Paris"
+    "libelle_agence": "Randstad Puteaux"
   },
   {
     "code_unite": "FRM",
-    "libelle_agence": "Randstad Paris"
+    "libelle_agence": "Randstad Puteaux"
   },
   {
     "code_unite": "T04",
-    "libelle_agence": "Randstad Paris"
+    "libelle_agence": "Randstad Puteaux"
   },
   {
     "code_unite": "TMK",
-    "libelle_agence": "Randstad Paris"
+    "libelle_agence": "Randstad Puteaux"
   },
   {
     "code_unite": "TNE",
-    "libelle_agence": "Randstad Paris"
+    "libelle_agence": "Randstad Puteaux"
   },
   {
     "code_unite": "VDK",
-    "libelle_agence": "Randstad Paris"
+    "libelle_agence": "Randstad Puteaux"
   },
   {
     "code_unite": "CRT",
@@ -689,6 +693,10 @@
   },
   {
     "code_unite": "FO5",
+    "libelle_agence": "Talent Center"
+  },
+  {
+    "code_unite": "NU3",
     "libelle_agence": "Talent Center"
   },
   {
@@ -1046,6 +1054,10 @@
   {
     "code_unite": "VM7",
     "libelle_agence": "RANDSTAD INHOUSE VM7"
+  },
+  {
+    "code_unite": "2L4",
+    "libelle_agence": "LAU Metz"
   },
   {
     "code_unite": "AML",
@@ -5228,6 +5240,14 @@
     "libelle_agence": "Agence grands comptes"
   },
   {
+    "code_unite": "O03",
+    "libelle_agence": "Agence CNIT Cpta Fi 2"
+  },
+  {
+    "code_unite": "O44",
+    "libelle_agence": "Agence CNIT Cpta Fi 2"
+  },
+  {
     "code_unite": "O56",
     "libelle_agence": "Agence de Massy CF"
   },
@@ -5246,6 +5266,30 @@
   {
     "code_unite": "S12",
     "libelle_agence": "Agence Agility"
+  },
+  {
+    "code_unite": "D16",
+    "libelle_agence": "Agence de Lille Technologie"
+  },
+  {
+    "code_unite": "S16",
+    "libelle_agence": "Agence de Lille Technologie"
+  },
+  {
+    "code_unite": "S17",
+    "libelle_agence": "Agence Franklin IT Pure Players"
+  },
+  {
+    "code_unite": "S18",
+    "libelle_agence": "Agence de Nantes IT"
+  },
+  {
+    "code_unite": "S41",
+    "libelle_agence": "Agence de Toulouse IT"
+  },
+  {
+    "code_unite": "S42",
+    "libelle_agence": "Agence de Lyon IT"
   },
   {
     "code_unite": "U10",
@@ -5354,10 +5398,6 @@
   {
     "code_unite": "S22",
     "libelle_agence": "Agence de Grenoble IT"
-  },
-  {
-    "code_unite": "S42",
-    "libelle_agence": "Agence de Lyon IT"
   },
   {
     "code_unite": "D37",
@@ -5580,10 +5620,6 @@
     "libelle_agence": "Agence de Toulouse IT 2"
   },
   {
-    "code_unite": "S41",
-    "libelle_agence": "Agence de Toulouse IT"
-  },
-  {
     "code_unite": "S70",
     "libelle_agence": "Agence de Biarritz Technologies"
   },
@@ -5688,14 +5724,6 @@
     "libelle_agence": "Ag Expectra Compta finance Caen"
   },
   {
-    "code_unite": "D16",
-    "libelle_agence": "Agence de Lille Technologie"
-  },
-  {
-    "code_unite": "S16",
-    "libelle_agence": "Agence de Lille Technologie"
-  },
-  {
     "code_unite": "S77",
     "libelle_agence": "Ag Expectra IT Caen"
   },
@@ -5760,18 +5788,6 @@
     "libelle_agence": "Ag Compta finance Le Mans"
   },
   {
-    "code_unite": "D40",
-    "libelle_agence": "Agence de Nantes IT"
-  },
-  {
-    "code_unite": "D78",
-    "libelle_agence": "Agence de Nantes IT"
-  },
-  {
-    "code_unite": "S18",
-    "libelle_agence": "Agence de Nantes IT"
-  },
-  {
     "code_unite": "O35",
     "libelle_agence": "Agence de Tours"
   },
@@ -5782,6 +5798,14 @@
   {
     "code_unite": "U35",
     "libelle_agence": "Agence de Tours"
+  },
+  {
+    "code_unite": "D40",
+    "libelle_agence": "Agence de Nantes IT 3"
+  },
+  {
+    "code_unite": "D78",
+    "libelle_agence": "Agence de Nantes IT 3"
   },
   {
     "code_unite": "S59",
@@ -5874,14 +5898,6 @@
   {
     "code_unite": "MKC",
     "libelle_agence": "Agence Franklin Mkting & Cial"
-  },
-  {
-    "code_unite": "O03",
-    "libelle_agence": "Agence CNIT Cpta Fi 2"
-  },
-  {
-    "code_unite": "O44",
-    "libelle_agence": "Agence CNIT Cpta Fi 2"
   },
   {
     "code_unite": "O04",
@@ -5989,15 +6005,11 @@
   },
   {
     "code_unite": "S11",
-    "libelle_agence": "Agence Franklin IT Pure Players"
-  },
-  {
-    "code_unite": "S17",
-    "libelle_agence": "Agence Franklin IT Pure Players"
+    "libelle_agence": "Agence Franklin IT Diffus"
   },
   {
     "code_unite": "S51",
-    "libelle_agence": "Agence Franklin IT Pure Players"
+    "libelle_agence": "Agence Franklin IT Diffus"
   },
   {
     "code_unite": "O26",
@@ -6328,8 +6340,8 @@
     "libelle_agence": "Recrutement Directions Est"
   },
   {
-    "code_unite": "PRP",
-    "libelle_agence": "Ag Appel medical Placement Paris"
+    "code_unite": "CR6",
+    "libelle_agence": "Recrutement Directions"
   },
   {
     "code_unite": "CR7",
@@ -6344,8 +6356,8 @@
     "libelle_agence": "Recrutement Directions Nord"
   },
   {
-    "code_unite": "APH",
-    "libelle_agence": "Agence Paris Grands comptes"
+    "code_unite": "CER",
+    "libelle_agence": "Conseil et Recrutement IDF"
   },
   {
     "code_unite": "CRJ",
@@ -6372,8 +6384,8 @@
     "libelle_agence": "Ag. appel médical Ouest Placement"
   },
   {
-    "code_unite": "CSE",
-    "libelle_agence": "Cellule Recrutement à l'étranger"
+    "code_unite": "RPP",
+    "libelle_agence": "Ag. IDF Placement appel médical"
   },
   {
     "code_unite": "RTP",
@@ -6466,6 +6478,10 @@
   {
     "code_unite": "CF",
     "libelle_agence": "Agence Clermont F. appel médical"
+  },
+  {
+    "code_unite": "CLM",
+    "libelle_agence": "Ag. Auxerre appel médical"
   },
   {
     "code_unite": "NEV",
@@ -6645,7 +6661,7 @@
   },
   {
     "code_unite": "ACO",
-    "libelle_agence": "Ag Appel médical Colmar"
+    "libelle_agence": "Ag Appel méd Brunstatt-Didenheim"
   },
   {
     "code_unite": "APS",
@@ -6666,10 +6682,6 @@
   {
     "code_unite": "CHN",
     "libelle_agence": "Agence Appel médical Chalon"
-  },
-  {
-    "code_unite": "CLM",
-    "libelle_agence": "Ag. Auxerre appel médical"
   },
   {
     "code_unite": "DH",
@@ -6724,6 +6736,10 @@
     "libelle_agence": "Ag VAC TT Médecins Brunstatt Diden"
   },
   {
+    "code_unite": "CSE",
+    "libelle_agence": "Cellule Recrutement à l'étranger"
+  },
+  {
     "code_unite": "PEG",
     "libelle_agence": "Permanence Est"
   },
@@ -6732,8 +6748,8 @@
     "libelle_agence": "Permanence Glisy"
   },
   {
-    "code_unite": "RPP",
-    "libelle_agence": "Ag. IDF Placement appel médical"
+    "code_unite": "PEN",
+    "libelle_agence": "PERMANENCE NORD"
   },
   {
     "code_unite": "AG",
@@ -6836,24 +6852,24 @@
     "libelle_agence": "Ag Strasbourg Kiné appel médical"
   },
   {
-    "code_unite": "EPP",
-    "libelle_agence": "Ag Appel medical EHPAD Paris"
-  },
-  {
-    "code_unite": "PEH",
-    "libelle_agence": "Ag. IDF Pte Enfance appel médical"
-  },
-  {
-    "code_unite": "CER",
-    "libelle_agence": "Conseil et Recrutement IDF"
-  },
-  {
-    "code_unite": "CSP",
-    "libelle_agence": "Ag Paris Cellule sourcing"
-  },
-  {
     "code_unite": "PAB",
     "libelle_agence": "Agence IDF EST Kiné appel médical"
+  },
+  {
+    "code_unite": "PCD",
+    "libelle_agence": "Agence Paris Opéra 2"
+  },
+  {
+    "code_unite": "PM",
+    "libelle_agence": "Ag. Paris La Fayette appel médical"
+  },
+  {
+    "code_unite": "PMD",
+    "libelle_agence": "Ag. Paris Maine 2 appel médical"
+  },
+  {
+    "code_unite": "VMI",
+    "libelle_agence": "Ag. Vac TT Médecins IDF"
   },
   {
     "code_unite": "ARR",
@@ -6940,68 +6956,64 @@
     "libelle_agence": "Ag Appel médical Le Vieil Evreux"
   },
   {
-    "code_unite": "VMI",
-    "libelle_agence": "Ag. Vac TT Médecins IDF"
-  },
-  {
     "code_unite": "ODE",
     "libelle_agence": "Ag. Optique & Dentaire appel méd"
   },
   {
-    "code_unite": "PAT",
-    "libelle_agence": "Ag. Paris Santé au Travail"
-  },
-  {
-    "code_unite": "PLM",
-    "libelle_agence": "Ag. Paris Bloc appel médical"
-  },
-  {
-    "code_unite": "AMY",
-    "libelle_agence": "Agence de Jossigny appel médical"
-  },
-  {
-    "code_unite": "PM",
-    "libelle_agence": "Ag. Paris La Fayette appel médical"
-  },
-  {
-    "code_unite": "CGY",
-    "libelle_agence": "Agence de Cergy Pontoise appel med"
-  },
-  {
-    "code_unite": "PC",
-    "libelle_agence": "Ag. Paris Opéra appel médical"
-  },
-  {
-    "code_unite": "HAP",
-    "libelle_agence": "Agence Paris Handicap"
-  },
-  {
-    "code_unite": "PEN",
-    "libelle_agence": "PERMANENCE NORD"
-  },
-  {
-    "code_unite": "MN",
-    "libelle_agence": "Agence de Jossigny appel médical"
-  },
-  {
-    "code_unite": "PMD",
-    "libelle_agence": "Ag. Paris Maine 2 appel médical"
-  },
-  {
-    "code_unite": "PCD",
-    "libelle_agence": "Agence Paris Opéra 2"
+    "code_unite": "PHA",
+    "libelle_agence": "Agence Pharma Side"
   },
   {
     "code_unite": "AMC",
     "libelle_agence": "Agence Pharma IDF appel médical"
   },
   {
-    "code_unite": "CR6",
-    "libelle_agence": "Recrutement Directions"
+    "code_unite": "AMY",
+    "libelle_agence": "Agence de Jossigny appel médical"
   },
   {
-    "code_unite": "PHA",
-    "libelle_agence": "Agence Pharma Side"
+    "code_unite": "APH",
+    "libelle_agence": "Agence Paris Grands comptes"
+  },
+  {
+    "code_unite": "CGY",
+    "libelle_agence": "Agence de Cergy Pontoise appel med"
+  },
+  {
+    "code_unite": "CSP",
+    "libelle_agence": "Ag Paris Cellule sourcing"
+  },
+  {
+    "code_unite": "EPP",
+    "libelle_agence": "Ag Appel medical EHPAD Paris"
+  },
+  {
+    "code_unite": "HAP",
+    "libelle_agence": "Agence Paris Handicap"
+  },
+  {
+    "code_unite": "MN",
+    "libelle_agence": "Agence de Jossigny appel médical"
+  },
+  {
+    "code_unite": "PAT",
+    "libelle_agence": "Ag. Paris Santé au Travail"
+  },
+  {
+    "code_unite": "PC",
+    "libelle_agence": "Ag. Paris Opéra appel médical"
+  },
+  {
+    "code_unite": "PEH",
+    "libelle_agence": "Ag. IDF Pte Enfance appel médical"
+  },
+  {
+    "code_unite": "PLM",
+    "libelle_agence": "Ag. Paris Bloc appel médical"
+  },
+  {
+    "code_unite": "PRP",
+    "libelle_agence": "Ag Appel medical Placement Paris"
   },
   {
     "code_unite": "VER",
@@ -7017,7 +7029,7 @@
   },
   {
     "code_unite": "AYN",
-    "libelle_agence": "Agence de Bayonne appel médical"
+    "libelle_agence": "Agence de Pau appel médical"
   },
   {
     "code_unite": "BOH",
